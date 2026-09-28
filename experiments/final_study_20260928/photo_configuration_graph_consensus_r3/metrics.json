@@ -1,0 +1,43 @@
+{
+  "status": "complete_adjudicated_photo_configuration_graph_r2",
+  "parent_records": 3961,
+  "canonical_photos": 3931,
+  "retained_concepts": 24,
+  "positive_photo_concept_supports": 583,
+  "peripheral_supports_excluded_from_configuration": 1698,
+  "photos_without_retained_concept_support": 3353,
+  "photos_with_at_least_two_retained_concepts": 5,
+  "configuration_edges_shared_at_least_two": 0,
+  "configuration_active_photos": 0,
+  "configuration_unresolved_photos": 3931,
+  "configuration_communities": 0,
+  "seed_pairwise_ari": [],
+  "cross_global_community_edges": 0,
+  "cross_global_community_edge_fraction": 0.0,
+  "sensitivity": {
+    "shared_at_least_three_edges": 0,
+    "shared_at_least_three_active_photos": 0,
+    "weighted_jaccard_at_least_0_25_edges": 0,
+    "weighted_jaccard_at_least_0_25_active_photos": 0
+  },
+  "concept_pair_counts": {
+    "audio_front_panel|turntable_record_area": 1,
+    "circuit_board_surface|integrated_circuit_package": 1,
+    "laptop_display_assembly|laptop_input_deck": 1,
+    "laptop_input_deck|visible_display_damage": 1,
+    "printer_control_or_output_zone|printer_media_path": 1
+  },
+  "family_weight": "min(3, log((N+1)/(df+1))+1), N=3,931 canonical photos",
+  "configuration_definition": "At least two distinct adjudicated visible concepts, each backed by a distinct region at or above its source family's median within-family affinity in both photos; weighted Jaccard over positive core support only.",
+  "missingness": "No support is unresolved and is never interpreted as physical absence.",
+  "ownership_limit": "Edges show shared visible configuration support. They do not establish same unit, attachment, compatibility, quantity, hidden content, value, toxicity, or safety.",
+  "source_scene_limit": "Byte-exact duplicates are consolidated. Other shared-source scenes remain unresolved.",
+  "inputs": {
+    "concept_support_sha256": "5bb52a459347f0d0084051a79e9630900e763215fc81ab942829f0b6ef574ed9",
+    "concept_summary_sha256": "0013ac7eba3db0250f723774c0f257a3b5558ab9082569c590f46d272f2f9636",
+    "image_manifest_sha256": "32de9850f466e4c0064d2f3a7ca4bb4ba4659e7a84ae7fcbdd130db4aea671b4",
+    "global_assignments_sha256": "95ce9282bf4cb9bfe5291cdcc738849159baee56be31e6549902e2383ece4f8c"
+  },
+  "igraph": "0.11.9",
+  "leidenalg": "unknown"
+}

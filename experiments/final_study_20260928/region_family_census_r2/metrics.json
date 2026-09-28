@@ -1,0 +1,73 @@
+{
+  "status": "complete_r2_region_family_discovery_census",
+  "families": 129,
+  "active_regions": 6093,
+  "unresolved_isolates": 421,
+  "families_with_2_to_4_unique_parents": 63,
+  "families_with_5_to_19_unique_parents": 14,
+  "families_with_at_least_20_unique_parents": 52,
+  "families_spanning_multiple_global_communities": 67,
+  "shortcut_or_scene_families": 42,
+  "rare_families_retained_for_discovery": 63,
+  "interest_ranking": "agent rubric: coherence 22%, cross-context 18%, novelty 22%, interpretability 13%, usefulness 18%, partition stability 7%, minus up to 15 points shortcut risk; size excluded",
+  "inputs": {
+    "assignments": {
+      "path": "research\\projects\\bdc2026-ewaste\\.local\\final_study_20260928\\region-family-graph-object-filtered-r2\\assignments.csv.gz",
+      "sha256": "e219d0d0f42959086ebcaf61fe85be8ed5038787ead06d215ffd8c29869afd81"
+    },
+    "families": {
+      "path": "research\\projects\\bdc2026-ewaste\\.local\\final_study_20260928\\region-family-graph-object-filtered-r2\\family_summary.csv",
+      "sha256": "04230a9c031b21153d4f3d3f9469675e9acdef01104cf18ea9b061808dfc32c4"
+    },
+    "global_assignments": {
+      "path": "research\\projects\\bdc2026-ewaste\\experiments\\multiscale_graph_20260928\\global\\canonical_assignments.csv",
+      "sha256": "95ce9282bf4cb9bfe5291cdcc738849159baee56be31e6549902e2383ece4f8c"
+    },
+    "community_names": {
+      "path": "research\\projects\\bdc2026-ewaste\\experiments\\multiscale_graph_20260928\\global\\community_names.csv",
+      "sha256": "c1d0a203c9343544dabdf7bb9e96904a7a228f556e21cb4b270f81dfbbb81501"
+    },
+    "cross_view": {
+      "path": "research\\projects\\bdc2026-ewaste\\experiments\\final_study_20260928\\region_family_consensus_r3\\family_cross_view_diagnostics.csv",
+      "sha256": "e9d25aa31716db18ff44745a05a2d0ad3dbe47d6ad1f59795431296adfd9676e"
+    },
+    "review_manifest": {
+      "path": "research\\projects\\bdc2026-ewaste\\.local\\final_study_20260928\\region-family-review-object-filtered-r2\\review_manifest.csv",
+      "sha256": "45cc7a117bc5b54c1d8402b6712f29b3ec42a0dd25a982abbd574dfd3e796b60"
+    },
+    "manual_review": {
+      "path": "research\\projects\\bdc2026-ewaste\\experiments\\protocols\\region_family_census_manual_20260928.csv",
+      "sha256": "bfa945971b0ebb77d9cc82d53bfa240306e6182d43c217433cec0fc19fc5495f"
+    },
+    "r3_adjudication": {
+      "path": "research\\projects\\bdc2026-ewaste\\experiments\\final_study_20260928\\region_family_consensus_r3\\family_adjudication_r3.csv",
+      "sha256": "6dc2a02a70c4f10c837f47c483802b32c2ab5354dc2e967a0da4c69227c682d1"
+    },
+    "r3_support": {
+      "path": "research\\projects\\bdc2026-ewaste\\experiments\\final_study_20260928\\region_family_consensus_r3\\photo_concept_support.csv.gz",
+      "sha256": "5bb52a459347f0d0084051a79e9630900e763215fc81ab942829f0b6ef574ed9"
+    }
+  },
+  "outputs": {
+    "family_census.csv": {
+      "bytes": 239625,
+      "sha256": "df71fd487d08ced68e135fc6592dbed66042c0e253700b8ddc24f52d5ea08ca9"
+    },
+    "partition_stability_by_family.csv": {
+      "bytes": 22373,
+      "sha256": "a845e74906fa84bd776560af42f18f662f738362cb8178beca4d98a5ecc381db"
+    },
+    "family_example_manifest.csv": {
+      "bytes": 121676,
+      "sha256": "19b6047a301fa5328b3eb547584ff167fa1198f7faf6d50fc4d341080c454356"
+    },
+    "candidate_ranking.csv": {
+      "bytes": 158291,
+      "sha256": "5fbbe28a04f07fa4f3c57b94100f1dae23ce80ad509e84ec3cefc4c879992f07"
+    },
+    "CENSUS_REVIEW.md": {
+      "bytes": 3653,
+      "sha256": "c09920c0b61357c846b1900e8eafa47106d1c4cdb4742047d22ba20b3db31d14"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input": "frozen DINOv2 whole-frame RGB and HQ features, 768 dimensions",
+  "split": "original 330 train, 91 test specimen IDs; test previously explored",
+  "train_only_cv_mean_paired_cosine_by_ridge_alpha": {
+    "0.001": 0.6690124030817639,
+    "0.01": 0.6948727019356958,
+    "0.1": 0.7535519058957244,
+    "1.0": 0.7843893123395516,
+    "10.0": 0.7598851618893219,
+    "100.0": 0.7060093428600919
+  },
+  "selected_alpha": 1.0,
+  "matched_comparisons": {
+    "prior_hq_mean": {
+      "paired_hq_cosine_mean": 0.6896373629570007,
+      "paired_hq_cosine_median": 0.7007661461830139,
+      "same_specimen_hq_recall_at_1_of_91": 0.01098901098901099,
+      "same_specimen_hq_median_rank_of_91": 46.0
+    },
+    "rgb_nearest_1_transfers_hq": {
+      "paired_hq_cosine_mean": 0.7064208388328552,
+      "paired_hq_cosine_median": 0.7413359880447388,
+      "same_specimen_hq_recall_at_1_of_91": 0.24175824175824176,
+      "same_specimen_hq_median_rank_of_91": 7.0
+    },
+    "rgb_nearest_5_weighted_hq": {
+      "paired_hq_cosine_mean": 0.7827024459838867,
+      "paired_hq_cosine_median": 0.8047468662261963,
+      "same_specimen_hq_recall_at_1_of_91": 0.13186813186813187,
+      "same_specimen_hq_median_rank_of_91": 7.0
+    },
+    "paired_ridge_rgb_to_hq": {
+      "paired_hq_cosine_mean": 0.795907735824585,
+      "paired_hq_cosine_median": 0.8146710991859436,
+      "same_specimen_hq_recall_at_1_of_91": 0.17582417582417584,
+      "same_specimen_hq_median_rank_of_91": 7.0
+    }
+  },
+  "paired_test_query_differences": {
+    "ridge_minus_knn5": {
+      "mean": 0.013205328956246376,
+      "median": 0.008284568786621094,
+      "positive_fraction": 0.5824175824175825,
+      "bootstrap_mean_interval_95_descriptive": [
+        0.003985414293128997,
+        0.022539687482640135
+      ]
+    },
+    "ridge_minus_knn1": {
+      "mean": 0.08948705345392227,
+      "median": 0.07995498180389404,
+      "positive_fraction": 0.7802197802197802,
+      "bootstrap_mean_interval_95_descriptive": [
+        0.06705712266266346,
+        0.11221405323594809
+      ]
+    },
+    "ridge_minus_prior": {
+      "mean": 0.10627046227455139,
+      "median": 0.11605685949325562,
+      "positive_fraction": 0.9010989010989011,
+      "bootstrap_mean_interval_95_descriptive": [
+        0.08932360149919986,
+        0.12299917005002499
+      ]
+    }
+  },
+  "shuffled_pair_ridge_50_mean_test_cosine": {
+    "mean": 0.6612542569637299,
+    "range": [
+      0.6446956396102905,
+      0.6826738119125366
+    ]
+  },
+  "interpretation_limit": "HQ embeddings include scanner/framing and are not physical part labels; no BDC X-ray pairing or hidden-content validation"
+}

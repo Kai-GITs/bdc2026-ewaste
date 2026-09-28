@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "frozen_before_audit_execution": true,
+  "research_question": "Can a target-separated post-discovery reranker repair semantic region correspondence while retaining every r2 family, including rare families excluded by the conservative r3 claim gate?",
+  "hypothesis": "A calibrated pair scorer fitted only on high-confidence r3 supports from non-audit parents will rank visually corresponding r2 regions more reliably than foreground DINO nearest-neighbour by combining DINO foreground, DINO box and SigLIP2 crop evidence plus view-disagreement and simple geometry.",
+  "mechanism_decision": "Keep the class-free r2 partition as the discovery layer, learn only a post-discovery correspondence scorer from r3 supports, and never pass an audit target or query family assignment to the scorer.",
+  "closest_baseline": "DINOv3-L foreground nearest-neighbour over the complete active r2 region reference bank with query-parent exclusion.",
+  "ablation_views": [
+    "DINOv3-L foreground",
+    "DINOv3-L box",
+    "SigLIP2 So400m NaFlex crop",
+    "unweighted three-view mean",
+    "fitted multiview pair scorer"
+  ],
+  "fit_supervision": "pre-existing r3 high-confidence descriptive supports; this is disclosed post-discovery supervision, not unsupervised discovery",
+  "fit_exclusion": "all 42 audit parent IDs are excluded from scorer fitting and threshold calibration",
+  "retrieval_reference_policy": "all 6514 active r2 regions remain eligible; only the query parent and exact-image duplicates are removed per query",
+  "primary_metric": "top-1 recovery of the original r2 family among the 16 audit regions whose semantic correspondence is visually supported",
+  "secondary_metrics": [
+    "top-5 r2-family recovery on visually supported audit regions",
+    "coverage and precision after a threshold selected only on parent-held-out r3 validation queries",
+    "manual visual adjudication of the retrieved query-candidate pairs"
+  ],
+  "negative_control": "ambiguous, unsupported and shortcut audit regions are not counted as positive semantic matches",
+  "seed": 260928,
+  "estimated_cost_usd": 0.0,
+  "compute": "local CPU only over immutable cached arrays; no GPU inference or feature extraction",
+  "expected_runtime_minutes": 5,
+  "stop_rule": "Do not claim improvement from family-ID recovery alone; inspect retrieved original-photo and region evidence before selecting a flagship relation.",
+  "command": "python scripts/evaluate_multiview_region_reranker_20260928.py --output experiments/final_study_20260928/multiview_region_reranker_r1"
+}

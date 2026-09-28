@@ -1,0 +1,7 @@
+{
+  "result": "All methods support 10/25 broad visible correspondences. No semantic-precision improvement.",
+  "mechanism_decision": "Do not deploy view-consensus selection as validation or train another scorer on these judgments. Rank-only changes cannot remedy absent or contaminated proposals in the fixed batch.",
+  "positive_evidence_change": "Use photographed TV and handheld-display crack evidence in scientific figure; no change to discovery assignments or quantitative results.",
+  "application": "Keep explicit review/correction workflow. Do not auto-accept family identity from pair selection.",
+  "remaining": "Independent adjudication, source independence and measured operator benefit remain unestablished."
+}

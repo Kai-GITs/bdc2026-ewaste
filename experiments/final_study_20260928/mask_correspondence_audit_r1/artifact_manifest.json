@@ -1,0 +1,16 @@
+{
+  "adjudicated_manifest": {
+    "sha256": "29919af030c551ded34f5c14c8bf7bb3ea50d098b86baac6b93fbd9e8dc93e32",
+    "rows": 42
+  },
+  "audit_metrics": {
+    "sha256": "f48856cf83cf0dc4e798787df5b2752aca16df6fbbee0e1cef6ecb19fd88fb4e"
+  },
+  "audit_decision": {
+    "sha256": "f2b2378657c4ee82febcc818e8a7a4f0dd374c763c92c8fc025044c12c67f51d"
+  },
+  "manual_adjudication": {
+    "sha256": "7be6d6c9211a3ea035c19ae441ec4c82586464c123f9103e5433406c99eb9821",
+    "rows": 42
+  }
+}

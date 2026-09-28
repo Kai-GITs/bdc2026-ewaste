@@ -1,0 +1,16 @@
+{
+  "catalog": "solution\\evidence_intake\\demo\\collection_catalog.json",
+  "sha256": "4b4deab731b7c9cb8dfd3f4ec67cdfd2263da91e46d9131c8cda9dc60f803c7b",
+  "bytes": 9705893,
+  "received_photo_records": 3961,
+  "canonical_photos": 3931,
+  "active_regions": 6093,
+  "isolated_regions_excluded": 421,
+  "r2_families": 129,
+  "r3_retained_families": 32,
+  "r3_core_families": 32,
+  "r3_core_descriptive_families": 24,
+  "r3_core_regions": 583,
+  "r3_core_photos": 578,
+  "query_candidates_per_region": 5
+}

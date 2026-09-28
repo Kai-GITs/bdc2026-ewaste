@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "http_items": 48,
+  "ranking_matches_frozen_predictions": true,
+  "labels_exposed": false,
+  "new_photo_inference": false,
+  "functional_receipt": "functional_test_receipt.json"
+}

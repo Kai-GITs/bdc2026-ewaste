@@ -1,0 +1,5832 @@
+[
+  {
+    "review_id": "P01",
+    "pair_id": "3648f7ddb0c6",
+    "left": {
+      "region_id": "2141021f50dd8d8be808b21d",
+      "parent_id": "0065ea44bcd594b9",
+      "family_internal": 11,
+      "machine_family_id": "F0011",
+      "family_key": "dark_display_surface",
+      "family_name": "permukaan layar gelap",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/339.jpeg",
+      "source_sha256": "7705bb6d53795013af8852969e1bdc4e5a9ba05b4f13f61742e969fcb574d772",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 1152,
+      "height": 864,
+      "bbox_xyxy": [
+        525.0,
+        186.0,
+        903.0,
+        447.0
+      ],
+      "mask_sha256": "8255f15d8232ca4b8a80d7a58b19d4ba15eec4f14a0f86d5c308e48240bdd525",
+      "area_fraction": 0.07628541,
+      "family_affinity": 0.876221,
+      "neighbors": [
+        {
+          "region_id": "f5d8303470fabd611c96a215",
+          "similarity": 0.946993
+        },
+        {
+          "region_id": "09946f69bcf245f16b947651",
+          "similarity": 0.929917
+        },
+        {
+          "region_id": "96561a3fc9febfe26a56c341",
+          "similarity": 0.88803
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "a24b39f18626a805bdaa7123",
+          "family_internal": 36,
+          "similarity": 0.796732,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "00446aa02e846b8dcd0e9036",
+          "family_internal": 39,
+          "similarity": 0.796112,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "de912511f13e8b038959d1b7",
+          "family_internal": 49,
+          "similarity": 0.773518,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "b5430f7bd039f031faa167e7",
+          "family_internal": 11,
+          "similarity": 0.730191,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2d5c6310f4217ef442ce1b44",
+          "family_internal": 1,
+          "similarity": 0.685073,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "6dcd53dd80265100e3a15fb6",
+      "parent_id": "db3947165ba372f1",
+      "family_internal": 11,
+      "machine_family_id": "F0011",
+      "family_key": "dark_display_surface",
+      "family_name": "permukaan layar gelap",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/615.jpg",
+      "source_sha256": "98321536d29a1b3d827bc59f007297a6777ac49f20061ab513700ff4dc13734e",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "width": 3496,
+      "height": 3496,
+      "bbox_xyxy": [
+        1616.9,
+        1652.41,
+        2733.98,
+        2665.7
+      ],
+      "mask_sha256": "17a204be2a8c2075512d3bb07b16d324aeab58019a3b2669186cdda90f938ece",
+      "area_fraction": 0.06453247,
+      "family_affinity": 0.85083,
+      "neighbors": [
+        {
+          "region_id": "bd1fe2de652715308553dcf1",
+          "similarity": 0.905196
+        },
+        {
+          "region_id": "f1271be8a5985b5697953b4a",
+          "similarity": 0.87354
+        },
+        {
+          "region_id": "5dd9adaace758e46e8800d81",
+          "similarity": 0.867164
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "f1271be8a5985b5697953b4a",
+          "family_internal": 11,
+          "similarity": 0.87354,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "37830cd801ae2b2f28565104",
+          "family_internal": 39,
+          "similarity": 0.7891,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "f0887159564c1d0a07229eb3",
+          "family_internal": 1,
+          "similarity": 0.769393,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "de912511f13e8b038959d1b7",
+          "family_internal": 49,
+          "similarity": 0.768275,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "c99a1c4e67764d48438b60a5",
+          "family_internal": 36,
+          "similarity": 0.684441,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P02",
+    "pair_id": "496cbe5e5e65",
+    "left": {
+      "region_id": "1832af1b204371fc4921d0fd",
+      "parent_id": "d5dcb96967922df1",
+      "family_internal": 10,
+      "machine_family_id": "F0010",
+      "family_key": "battery_pack_surface",
+      "family_name": "permukaan kemasan baterai",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Microwave_98.jpg",
+      "source_sha256": "1345cc58ec0189c386534db6d812d02b50902bf4db7cced8c570692eec11b090",
+      "global_community": 12,
+      "global_context_name": "Baterai perangkat portabel",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        66.0,
+        39.0,
+        116.0,
+        76.0
+      ],
+      "mask_sha256": "64bd63f9964e5546af512945d0e2ee7b1561cc4c7172574a71d20b108e26225a",
+      "area_fraction": 0.06555556,
+      "family_affinity": 0.77002,
+      "neighbors": [
+        {
+          "region_id": "760198b610aa5271af2431a4",
+          "similarity": 0.77018
+        },
+        {
+          "region_id": "268d9632b25b4f2f23ef6c2c",
+          "similarity": 0.725974
+        },
+        {
+          "region_id": "1f0d5b64337d0cb09b4ba11a",
+          "similarity": 0.689215
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "760198b610aa5271af2431a4",
+          "family_internal": 10,
+          "similarity": 0.77018,
+          "same_family": true,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "b45217b60a24d0436408a347",
+          "family_internal": 31,
+          "similarity": 0.616869,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "deda042d5d126d0c48f99462",
+          "family_internal": 12,
+          "similarity": 0.603142,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "a60f72272c3af483bebc0e23",
+          "family_internal": 18,
+          "similarity": 0.601206,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "96f3810abdfe21afe4baf49d",
+          "family_internal": 26,
+          "similarity": 0.599235,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "1f270056945139dccbf2c140",
+      "parent_id": "26dfe78badf3d531",
+      "family_internal": 10,
+      "machine_family_id": "F0010",
+      "family_key": "battery_pack_surface",
+      "family_name": "permukaan kemasan baterai",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/pcb_67.jpg",
+      "source_sha256": "a7983158d44262c1282444aa27b277a550c9d8de5332071dcd5509e7226170be",
+      "global_community": 8,
+      "global_context_name": "Papan rangkaian",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        33.0,
+        2.0,
+        84.0,
+        40.0
+      ],
+      "mask_sha256": "da3474f62ec07023df8b409a36ed0776ebfa7181d75fc727fa54ad380f9c1620",
+      "area_fraction": 0.04506667,
+      "family_affinity": 0.967285,
+      "neighbors": [
+        {
+          "region_id": "d3e10037a4e15f764df68c6f",
+          "similarity": 0.993227
+        },
+        {
+          "region_id": "f70235137577dc03dbaec1c5",
+          "similarity": 0.967593
+        },
+        {
+          "region_id": "1624c37efa49d61cb08f628b",
+          "similarity": 0.585621
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "081232a4d43c30ca9b69c498",
+          "family_internal": 77,
+          "similarity": 0.962523,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "1624c37efa49d61cb08f628b",
+          "family_internal": 10,
+          "similarity": 0.585621,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3c709dd14d10ca3ad60e0635",
+          "family_internal": 13,
+          "similarity": 0.523264,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "02e3ed7f6f75208755c6c829",
+          "family_internal": 0,
+          "similarity": 0.519998,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e45626f8a4745e891735285b",
+          "family_internal": 28,
+          "similarity": 0.50987,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P03",
+    "pair_id": "667f4301c130",
+    "left": {
+      "region_id": "62f7cc3f22e249ac55ca9ff6",
+      "parent_id": "db3947165ba372f1",
+      "family_internal": 22,
+      "machine_family_id": "F0022",
+      "family_key": "desktop_internal_chassis",
+      "family_name": "sasis internal komputer meja",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/615.jpg",
+      "source_sha256": "98321536d29a1b3d827bc59f007297a6777ac49f20061ab513700ff4dc13734e",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "width": 3496,
+      "height": 3496,
+      "bbox_xyxy": [
+        2367.99,
+        1627.83,
+        3444.11,
+        2654.78
+      ],
+      "mask_sha256": "9eb90c4f95b01000a708f3e9db3440aa495adf689bf429482de42636806d89aa",
+      "area_fraction": 0.01430176,
+      "family_affinity": 0.625977,
+      "neighbors": [
+        {
+          "region_id": "c9beafa4c3cf235031acb566",
+          "similarity": 0.625818
+        },
+        {
+          "region_id": "bc2c4cc0d1265654a9ed60ef",
+          "similarity": 0.578806
+        },
+        {
+          "region_id": "606c9661acc0d522f6595a94",
+          "similarity": 0.446237
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "c99a1c4e67764d48438b60a5",
+          "family_internal": 36,
+          "similarity": 0.643335,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3c79e130ea0da07a53ad92d3",
+          "family_internal": 11,
+          "similarity": 0.631692,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "4f6dc328c258a740e6672a6b",
+          "family_internal": 49,
+          "similarity": 0.627629,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "4ffee3817214d4333100ed3a",
+          "family_internal": 25,
+          "similarity": 0.586647,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "fd093158a107fcbb6f88584c",
+          "family_internal": 20,
+          "similarity": 0.584535,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "ea4eedbd7b2cf24193d859fb",
+      "parent_id": "786e96f425c8ab03",
+      "family_internal": 22,
+      "machine_family_id": "F0022",
+      "family_key": "desktop_internal_chassis",
+      "family_name": "sasis internal komputer meja",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/14.2728905_20190122100223.jpg",
+      "source_sha256": "5a4838f06091ea0a45a18c77295b084bfeaaa706daeb0128e55c3ae416008138",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 640,
+      "height": 480,
+      "bbox_xyxy": [
+        135.0,
+        104.0,
+        322.0,
+        240.0
+      ],
+      "mask_sha256": "96a1b2a9ed85e39369cf72f723106e3a05ab93067b36e1639a5708a4b4c27c58",
+      "area_fraction": 0.0580599,
+      "family_affinity": 0.650879,
+      "neighbors": [
+        {
+          "region_id": "33f15c4dd24361d1350faa1e",
+          "similarity": 0.667343
+        },
+        {
+          "region_id": "5dbb2455312cb30013eb500b",
+          "similarity": 0.651089
+        },
+        {
+          "region_id": "3a34a3986284eae4c6f2e83f",
+          "similarity": 0.631754
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "0b22efdd6a47c64c7073f9d2",
+          "family_internal": 39,
+          "similarity": 0.691082,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "33f15c4dd24361d1350faa1e",
+          "family_internal": 22,
+          "similarity": 0.667343,
+          "same_family": true,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "8d2199412faffaec8502d056",
+          "family_internal": 43,
+          "similarity": 0.659226,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "41c67f351020020c50cfd158",
+          "family_internal": 44,
+          "similarity": 0.658568,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "657f7f9f792f2bfc50a35087",
+          "family_internal": 2,
+          "similarity": 0.645175,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P04",
+    "pair_id": "b7279242380c",
+    "left": {
+      "region_id": "74d807fef381cdbb42e69654",
+      "parent_id": "2da6929f606e52fc",
+      "family_internal": 33,
+      "machine_family_id": "F0033",
+      "family_key": "laptop_outer_lid",
+      "family_name": "penutup luar laptop",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/8.Laptops-edited.jpg",
+      "source_sha256": "4424762b57ca128135b04cda42efce17d812d0f047eb4b3f91aca3c78f52d5dd",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 2048,
+      "height": 1152,
+      "bbox_xyxy": [
+        464.0,
+        236.8,
+        1084.8,
+        584.0
+      ],
+      "mask_sha256": "a53026692ae299c5cdbb3caf9c317c748ae12c191f77b1e641a884b7184eb37d",
+      "area_fraction": 0.03645291,
+      "family_affinity": 0.737305,
+      "neighbors": [
+        {
+          "region_id": "ae09d1771d3855afe04b9bcd",
+          "similarity": 0.73716
+        },
+        {
+          "region_id": "fa5da5027d077ea89fd791b9",
+          "similarity": 0.581742
+        },
+        {
+          "region_id": "b323cd6a922eaff0fcef4761",
+          "similarity": 0.564237
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "ae09d1771d3855afe04b9bcd",
+          "family_internal": 33,
+          "similarity": 0.73716,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "d7d0348184695a4189a7e8c7",
+          "family_internal": 2,
+          "similarity": 0.71629,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "f95ecc852ec6c262df044237",
+          "family_internal": 10,
+          "similarity": 0.700153,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "8e29a52941a9c4419a439dad",
+          "family_internal": 31,
+          "similarity": 0.655596,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "88cc2cf9178b9292217f0d59",
+          "family_internal": 22,
+          "similarity": 0.653522,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    },
+    "right": {
+      "region_id": "e25eaacd66d2c6781ba54728",
+      "parent_id": "56a91967238e8ab0",
+      "family_internal": 33,
+      "machine_family_id": "F0033",
+      "family_key": "laptop_outer_lid",
+      "family_name": "penutup luar laptop",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": true,
+      "source_relative_path": "1_Electronic/IMG_20200329_152746.jpg",
+      "source_sha256": "b123645bd237bc54215febda2af3a2267c1e65e5bed8d72c2b6af470ec104f73",
+      "global_community": 11,
+      "global_context_name": "Laptop",
+      "width": 3456,
+      "height": 4608,
+      "bbox_xyxy": [
+        1576.8,
+        979.2,
+        2764.8,
+        2347.2
+      ],
+      "mask_sha256": "74c063ea3fb7cf51629120855919df4bea5cf378a3fffe9883fea4f3052c4416",
+      "area_fraction": 0.07478841,
+      "family_affinity": 0.870605,
+      "neighbors": [
+        {
+          "region_id": "26896afd5f97c55eecda3f4e",
+          "similarity": 0.944096
+        },
+        {
+          "region_id": "6297eaf42157bd8420486f0b",
+          "similarity": 0.924979
+        },
+        {
+          "region_id": "65fec6d325285b538b642692",
+          "similarity": 0.905891
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "7a874ea497fdaa40122322f1",
+          "family_internal": 26,
+          "similarity": 0.687563,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "6084b48d4a16756ac92b9eae",
+          "family_internal": 36,
+          "similarity": 0.639176,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "c0ab3cdfa68b52486afa4485",
+          "family_internal": 3,
+          "similarity": 0.608075,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e2b939efb09b86e6c13567d2",
+          "family_internal": 18,
+          "similarity": 0.537114,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "654ef3786a40e7a8d6d9253d",
+          "family_internal": 117,
+          "similarity": 0.517234,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P05",
+    "pair_id": "eae5bb8a14d0",
+    "left": {
+      "region_id": "088dc1dcda358a90159624ee",
+      "parent_id": "c1f23791c7e4feb3",
+      "family_internal": 34,
+      "machine_family_id": "F0034",
+      "family_key": "visible_display_damage",
+      "family_name": "kerusakan tampak pada layar",
+      "scientific_role": "cross_category_visible_condition",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/5.sddefault.jpg",
+      "source_sha256": "2a1ead5e608f2b690f5c1b8a76ea55ea2ab81ff5b2ced7e3a7d156cce6412428",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "width": 640,
+      "height": 480,
+      "bbox_xyxy": [
+        283.0,
+        229.0,
+        517.0,
+        371.0
+      ],
+      "mask_sha256": "dd1728e48b124d7faecd30232a7ad5c05bf517d73806a80b7632087fd5990fba",
+      "area_fraction": 0.0581901,
+      "family_affinity": 0.72998,
+      "neighbors": [
+        {
+          "region_id": "3f59fbb636afe9974e0d7249",
+          "similarity": 0.795691
+        },
+        {
+          "region_id": "5bda517b8e1d347ad829e8ea",
+          "similarity": 0.741168
+        },
+        {
+          "region_id": "24a3520d9d9f7c49e3148952",
+          "similarity": 0.734508
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "5bda517b8e1d347ad829e8ea",
+          "family_internal": 34,
+          "similarity": 0.741168,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "98e0458a5bc6205c281ff522",
+          "family_internal": 1,
+          "similarity": 0.633978,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "21ecc7893a08db9b4ad7260a",
+          "family_internal": 11,
+          "similarity": 0.59575,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "5df17c9b7dce6e414fb9ed40",
+          "family_internal": 26,
+          "similarity": 0.578619,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2d747d762dfa09eb47357298",
+          "family_internal": 52,
+          "similarity": 0.575125,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "0ceb2dfc46cc4b56343a8180",
+      "parent_id": "34b799173faf6c17",
+      "family_internal": 34,
+      "machine_family_id": "F0034",
+      "family_key": "visible_display_damage",
+      "family_name": "kerusakan tampak pada layar",
+      "scientific_role": "cross_category_visible_condition",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Mobile_208.jpg",
+      "source_sha256": "6fcdbaaebd65cffdd58bde54c5822a31201506cb182290c21fa58199c8035f02",
+      "global_community": 1,
+      "global_context_name": "Ponsel",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        35.0,
+        72.0,
+        78.0,
+        104.0
+      ],
+      "mask_sha256": "2ff4919c5caff1149380d7a4ad3cab070e1ed810d5c29c9dd3151ba54b6d7c1f",
+      "area_fraction": 0.03093333,
+      "family_affinity": 0.763184,
+      "neighbors": [
+        {
+          "region_id": "1b7bf966ae7afbeb04e6ec94",
+          "similarity": 0.795274
+        },
+        {
+          "region_id": "77622ffdf2aaf72dc765a63f",
+          "similarity": 0.770032
+        },
+        {
+          "region_id": "6ce8800258461585229c962a",
+          "similarity": 0.76321
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "1b7bf966ae7afbeb04e6ec94",
+          "family_internal": 34,
+          "similarity": 0.795274,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "908c9fc43d3933620da7a010",
+          "family_internal": 1,
+          "similarity": 0.6513,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "54f198e65c253951a1a3bfb5",
+          "family_internal": 26,
+          "similarity": 0.557953,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "546891d61674b468f5193482",
+          "family_internal": 32,
+          "similarity": 0.50108,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "417cb3d7070f1626deb34f65",
+          "family_internal": 21,
+          "similarity": 0.465916,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P06",
+    "pair_id": "1aa3d401fd89",
+    "left": {
+      "region_id": "0a1245e2bfd0d2f4a43ec0a1",
+      "parent_id": "db3947165ba372f1",
+      "family_internal": 11,
+      "machine_family_id": "F0011",
+      "family_key": "dark_display_surface",
+      "family_name": "permukaan layar gelap",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/615.jpg",
+      "source_sha256": "98321536d29a1b3d827bc59f007297a6777ac49f20061ab513700ff4dc13734e",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "width": 3496,
+      "height": 3496,
+      "bbox_xyxy": [
+        764.75,
+        770.21,
+        1832.67,
+        1769.85
+      ],
+      "mask_sha256": "2811c4589b59f3a1af57e7948e95669901b3875ff4d75c1e1bdc1b267ceda75d",
+      "area_fraction": 0.06053345,
+      "family_affinity": 0.857178,
+      "neighbors": [
+        {
+          "region_id": "7ddc1e9d5e9ef7aa0617bd9a",
+          "similarity": 0.914759
+        },
+        {
+          "region_id": "1f942f341acbc7924f344ad7",
+          "similarity": 0.909473
+        },
+        {
+          "region_id": "b090b4d0c46dc5e56041661f",
+          "similarity": 0.882366
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "87c7f60dd2cbe58cf900b885",
+          "family_internal": 11,
+          "similarity": 0.862633,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "7590c5e418a5233ce8b9b07d",
+          "family_internal": 1,
+          "similarity": 0.790593,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "01f70ee1b40d6b2082be7619",
+          "family_internal": 39,
+          "similarity": 0.773816,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "70af390614d90df82d8e753b",
+          "family_internal": 34,
+          "similarity": 0.719052,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "de912511f13e8b038959d1b7",
+          "family_internal": 49,
+          "similarity": 0.674238,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "1131aa616764b0cab2a1dd71",
+      "parent_id": "0065ea44bcd594b9",
+      "family_internal": 11,
+      "machine_family_id": "F0011",
+      "family_key": "dark_display_surface",
+      "family_name": "permukaan layar gelap",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/339.jpeg",
+      "source_sha256": "7705bb6d53795013af8852969e1bdc4e5a9ba05b4f13f61742e969fcb574d772",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 1152,
+      "height": 864,
+      "bbox_xyxy": [
+        249.0,
+        187.0,
+        611.0,
+        454.0
+      ],
+      "mask_sha256": "d4467c702c7134ad419a31ac5583aef427660d037978f351fceed7741fe0541b",
+      "area_fraction": 0.07385204,
+      "family_affinity": 0.883301,
+      "neighbors": [
+        {
+          "region_id": "c941a3e02aab1ae45b2e7450",
+          "similarity": 0.94812
+        },
+        {
+          "region_id": "d379adb3714663d45604cb92",
+          "similarity": 0.941994
+        },
+        {
+          "region_id": "e3e24287c65855f6325c101f",
+          "similarity": 0.921298
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "de912511f13e8b038959d1b7",
+          "family_internal": 49,
+          "similarity": 0.862145,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "c7514c2914f9fdadaa07a6fa",
+          "family_internal": 11,
+          "similarity": 0.785614,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2656b58028b7bd465956e0ef",
+          "family_internal": 39,
+          "similarity": 0.784537,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "a24b39f18626a805bdaa7123",
+          "family_internal": 36,
+          "similarity": 0.768168,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "6268f80c46daca9e907f7e33",
+          "family_internal": 1,
+          "similarity": 0.677727,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P07",
+    "pair_id": "0eeb56083ae1",
+    "left": {
+      "region_id": "b49e6eaeaf6cb569db914366",
+      "parent_id": "4de5a9e77bdc11fa",
+      "family_internal": 49,
+      "machine_family_id": "F0049",
+      "family_key": "display_bezel_or_stand",
+      "family_name": "bingkai atau penyangga layar",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/40.led-and-lcd-tvs-monitor-scrap-for-sale--160.jpg",
+      "source_sha256": "f8eb6359e717a2717a15710a722aa023438132b93062a9fdcb8f42aeb527ff58",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 500,
+      "height": 500,
+      "bbox_xyxy": [
+        245.0,
+        416.0,
+        381.0,
+        497.0
+      ],
+      "mask_sha256": "31193377b00945a554bcf1b7edef54c4db1093d4694d30906c4f68fd1bd5741b",
+      "area_fraction": 0.01448,
+      "family_affinity": 0.674805,
+      "neighbors": [
+        {
+          "region_id": "0465fe9a33742a60d06f0f0f",
+          "similarity": 0.674979
+        },
+        {
+          "region_id": "8cf126c4a3b2f884e3410e69",
+          "similarity": 0.626202
+        },
+        {
+          "region_id": "bc95b51cdc59cde120bc3ec1",
+          "similarity": 0.539777
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "7bbf56f3f53610f0e13e92f0",
+          "family_internal": 36,
+          "similarity": 0.662348,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "11ec80d0987ef290827bf6ee",
+          "family_internal": 15,
+          "similarity": 0.64305,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "8cf126c4a3b2f884e3410e69",
+          "family_internal": 49,
+          "similarity": 0.626202,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "16708420929a801e02623c59",
+          "family_internal": 56,
+          "similarity": 0.601003,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "b52e4997b2d8f6a963808ac6",
+          "family_internal": 128,
+          "similarity": 0.585457,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    },
+    "right": {
+      "region_id": "c5e049f8eb6e31d4481bb8c9",
+      "parent_id": "0065ea44bcd594b9",
+      "family_internal": 49,
+      "machine_family_id": "F0049",
+      "family_key": "display_bezel_or_stand",
+      "family_name": "bingkai atau penyangga layar",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": true,
+      "source_relative_path": "1_Electronic/339.jpeg",
+      "source_sha256": "7705bb6d53795013af8852969e1bdc4e5a9ba05b4f13f61742e969fcb574d772",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 1152,
+      "height": 864,
+      "bbox_xyxy": [
+        381.0,
+        439.0,
+        626.0,
+        662.0
+      ],
+      "mask_sha256": "5fff1e7f1fec068e409142057690ea2017a92c2139808af1054ae90009dfa2e4",
+      "area_fraction": 0.02958723,
+      "family_affinity": 0.810547,
+      "neighbors": [
+        {
+          "region_id": "2b3a7ba88cca10a95bfde2cf",
+          "similarity": 0.933372
+        },
+        {
+          "region_id": "3cbc25325a0ed6a03b8437f0",
+          "similarity": 0.927155
+        },
+        {
+          "region_id": "5edc1b70d9692bfaa2b36ca5",
+          "similarity": 0.895356
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "0465fe9a33742a60d06f0f0f",
+          "family_internal": 49,
+          "similarity": 0.775846,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "877e9ad2667895a2e9f5c473",
+          "family_internal": 15,
+          "similarity": 0.773194,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e04ed2e5b6508db82f421295",
+          "family_internal": 48,
+          "similarity": 0.63985,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "0042d2c39231468d884fb7b9",
+          "family_internal": 2,
+          "similarity": 0.600032,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "a1fc6f248c920a811dbb8f7c",
+          "family_internal": 72,
+          "similarity": 0.548585,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P08",
+    "pair_id": "50fe569734c2",
+    "left": {
+      "region_id": "614972ed91de66ff1ad251d1",
+      "parent_id": "f80b9b87c928d629",
+      "family_internal": 22,
+      "machine_family_id": "F0022",
+      "family_key": "desktop_internal_chassis",
+      "family_name": "sasis internal komputer meja",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/79.computer-hardware-scraps-1276859.jpg",
+      "source_sha256": "065a780f9e771772888119471032b2d581a892a767b10fd16ece2c6b256c8369",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 208,
+      "height": 160,
+      "bbox_xyxy": [
+        5.0,
+        6.0,
+        114.0,
+        89.0
+      ],
+      "mask_sha256": "6adf942e1a13843464316efe36c9f16e8f4415865ca713f2032baf49d2101311",
+      "area_fraction": 0.13383413,
+      "family_affinity": 0.773438,
+      "neighbors": [
+        {
+          "region_id": "d04194daeac5ab4676dc9aa1",
+          "similarity": 0.773653
+        },
+        {
+          "region_id": "932a150005996a758ae51311",
+          "similarity": 0.613833
+        },
+        {
+          "region_id": "e0c1bf2288ccacf3b97ba922",
+          "similarity": 0.595757
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "d04194daeac5ab4676dc9aa1",
+          "family_internal": 22,
+          "similarity": 0.773653,
+          "same_family": true,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "d4f270a9b33f0b96603f77e0",
+          "family_internal": 0,
+          "similarity": 0.740675,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "55cff6474fafe15b54b9f024",
+          "family_internal": 118,
+          "similarity": 0.612891,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "29b0cd1c86d3cc019603f325",
+          "family_internal": 13,
+          "similarity": 0.608594,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "031de9d5dbc18ca5a329c1b4",
+          "family_internal": 25,
+          "similarity": 0.597449,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    },
+    "right": {
+      "region_id": "62f7cc3f22e249ac55ca9ff6",
+      "parent_id": "db3947165ba372f1",
+      "family_internal": 22,
+      "machine_family_id": "F0022",
+      "family_key": "desktop_internal_chassis",
+      "family_name": "sasis internal komputer meja",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/615.jpg",
+      "source_sha256": "98321536d29a1b3d827bc59f007297a6777ac49f20061ab513700ff4dc13734e",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "width": 3496,
+      "height": 3496,
+      "bbox_xyxy": [
+        2367.99,
+        1627.83,
+        3444.11,
+        2654.78
+      ],
+      "mask_sha256": "9eb90c4f95b01000a708f3e9db3440aa495adf689bf429482de42636806d89aa",
+      "area_fraction": 0.01430176,
+      "family_affinity": 0.625977,
+      "neighbors": [
+        {
+          "region_id": "c9beafa4c3cf235031acb566",
+          "similarity": 0.625818
+        },
+        {
+          "region_id": "bc2c4cc0d1265654a9ed60ef",
+          "similarity": 0.578806
+        },
+        {
+          "region_id": "606c9661acc0d522f6595a94",
+          "similarity": 0.446237
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "c99a1c4e67764d48438b60a5",
+          "family_internal": 36,
+          "similarity": 0.643335,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3c79e130ea0da07a53ad92d3",
+          "family_internal": 11,
+          "similarity": 0.631692,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "4f6dc328c258a740e6672a6b",
+          "family_internal": 49,
+          "similarity": 0.627629,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "4ffee3817214d4333100ed3a",
+          "family_internal": 25,
+          "similarity": 0.586647,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "fd093158a107fcbb6f88584c",
+          "family_internal": 20,
+          "similarity": 0.584535,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P09",
+    "pair_id": "6ba1d98131c1",
+    "left": {
+      "region_id": "088dc1dcda358a90159624ee",
+      "parent_id": "c1f23791c7e4feb3",
+      "family_internal": 34,
+      "machine_family_id": "F0034",
+      "family_key": "visible_display_damage",
+      "family_name": "kerusakan tampak pada layar",
+      "scientific_role": "cross_category_visible_condition",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/5.sddefault.jpg",
+      "source_sha256": "2a1ead5e608f2b690f5c1b8a76ea55ea2ab81ff5b2ced7e3a7d156cce6412428",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "width": 640,
+      "height": 480,
+      "bbox_xyxy": [
+        283.0,
+        229.0,
+        517.0,
+        371.0
+      ],
+      "mask_sha256": "dd1728e48b124d7faecd30232a7ad5c05bf517d73806a80b7632087fd5990fba",
+      "area_fraction": 0.0581901,
+      "family_affinity": 0.72998,
+      "neighbors": [
+        {
+          "region_id": "3f59fbb636afe9974e0d7249",
+          "similarity": 0.795691
+        },
+        {
+          "region_id": "5bda517b8e1d347ad829e8ea",
+          "similarity": 0.741168
+        },
+        {
+          "region_id": "24a3520d9d9f7c49e3148952",
+          "similarity": 0.734508
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "5bda517b8e1d347ad829e8ea",
+          "family_internal": 34,
+          "similarity": 0.741168,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "98e0458a5bc6205c281ff522",
+          "family_internal": 1,
+          "similarity": 0.633978,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "21ecc7893a08db9b4ad7260a",
+          "family_internal": 11,
+          "similarity": 0.59575,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "5df17c9b7dce6e414fb9ed40",
+          "family_internal": 26,
+          "similarity": 0.578619,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2d747d762dfa09eb47357298",
+          "family_internal": 52,
+          "similarity": 0.575125,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "7bec11c2b321f85f1d2e2fca",
+      "parent_id": "2a976c8c7fdddc1a",
+      "family_internal": 34,
+      "machine_family_id": "F0034",
+      "family_key": "visible_display_damage",
+      "family_name": "kerusakan tampak pada layar",
+      "scientific_role": "cross_category_visible_condition",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/63.layar-laptop-rusak-papan-ketik-rusak-perlu-diperbaiki_632498-49114.jpg",
+      "source_sha256": "b1f3f5c95d4f565a5f82f8c90078d473036ffbafc3d0636e192d6d07ab0e143d",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 626,
+      "height": 626,
+      "bbox_xyxy": [
+        290.0,
+        139.0,
+        482.0,
+        342.0
+      ],
+      "mask_sha256": "4886cf49cecf0c8a50ecfcc2dd0a80ee4139c1de988ba8ad4f162e58efe0c695",
+      "area_fraction": 0.05158009,
+      "family_affinity": 0.741699,
+      "neighbors": [
+        {
+          "region_id": "8e3021c5518d2b29f5da7425",
+          "similarity": 0.74144
+        },
+        {
+          "region_id": "3c0a0887212143b09f9e3a1a",
+          "similarity": 0.639354
+        },
+        {
+          "region_id": "d3825952d6e46d9656ce07b0",
+          "similarity": 0.61339
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "ac7985b68455a137abec6e68",
+          "family_internal": 34,
+          "similarity": 0.602623,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "79188cfc47bde765bcba9497",
+          "family_internal": 32,
+          "similarity": 0.601405,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "94e645a3ba43085f67dca487",
+          "family_internal": 52,
+          "similarity": 0.580638,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "db5c7a7f955a07bdf6d0cef1",
+          "family_internal": 1,
+          "similarity": 0.559797,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "d8b325cf12b212b90aa2fa05",
+          "family_internal": 11,
+          "similarity": 0.559233,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P10",
+    "pair_id": "b9eae1de5017",
+    "left": {
+      "region_id": "160cbe4821e2ad135bb87464",
+      "parent_id": "8a3dc49564c54711",
+      "family_internal": 21,
+      "machine_family_id": "F0021",
+      "family_key": "active_display_surface",
+      "family_name": "permukaan layar aktif",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/IMG-20200328-WA0024.jpg",
+      "source_sha256": "e74eff0cde2190dbfc1943ad5ecf1521e1c68bfd6279aa7aa1b6172db20d6e3c",
+      "global_community": 11,
+      "global_context_name": "Laptop",
+      "width": 1280,
+      "height": 960,
+      "bbox_xyxy": [
+        909.0,
+        235.0,
+        1270.0,
+        523.0
+      ],
+      "mask_sha256": "f13a769ff600cc1817ec0c5f193ee05a4a88f7d00d4a071c5444719b3576bc90",
+      "area_fraction": 0.04587891,
+      "family_affinity": 0.38623,
+      "neighbors": [
+        {
+          "region_id": "c28cb665cce3a59d94c515eb",
+          "similarity": 0.399191
+        },
+        {
+          "region_id": "4f4e8d833d44d8087079a9e8",
+          "similarity": 0.393664
+        },
+        {
+          "region_id": "0b37c2eca05031d0d111c490",
+          "similarity": 0.374953
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "c28cb665cce3a59d94c515eb",
+          "family_internal": 21,
+          "similarity": 0.399191,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "36a0ebcbad4c80f8c3a1792d",
+          "family_internal": 15,
+          "similarity": 0.388924,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "50658b4f5880c2e57702f70b",
+          "family_internal": 47,
+          "similarity": 0.32824,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "0419905e1f52d4bc4a692d85",
+          "family_internal": 29,
+          "similarity": 0.324946,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "188a840ea84069aaf906bb0d",
+          "family_internal": 12,
+          "similarity": 0.320733,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "fccb3665b13b2a6dc81301bc",
+      "parent_id": "22aef2a134f6d88f",
+      "family_internal": 21,
+      "machine_family_id": "F0021",
+      "family_key": "active_display_surface",
+      "family_name": "permukaan layar aktif",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Television_262.jpg",
+      "source_sha256": "e75b82ecb044ea88256fcf195e69cbcbfba97b5c5a8c3fe28390b12196e73605",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        27.0,
+        68.0,
+        77.0,
+        116.0
+      ],
+      "mask_sha256": "d3bb92dbb634d7399e2b600c909a60a7c15a72cf324d1cae412251e063020194",
+      "area_fraction": 0.09528889,
+      "family_affinity": 0.572632,
+      "neighbors": [
+        {
+          "region_id": "835a295d5f4bf42cb3ae6fc1",
+          "similarity": 0.651001
+        },
+        {
+          "region_id": "21f3db63c88957ae49d4b7d7",
+          "similarity": 0.582957
+        },
+        {
+          "region_id": "014dcab247e0c5b806601412",
+          "similarity": 0.523049
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "21f3db63c88957ae49d4b7d7",
+          "family_internal": 21,
+          "similarity": 0.582957,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "d1a78354fc23af5d65350db4",
+          "family_internal": 32,
+          "similarity": 0.526396,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3365507b65fe94ff89d6bafe",
+          "family_internal": 37,
+          "similarity": 0.492939,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e389cb4e542dd203559c83f7",
+          "family_internal": 15,
+          "similarity": 0.485233,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "878885713ff073f1e54b14d8",
+          "family_internal": 34,
+          "similarity": 0.472391,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P11",
+    "pair_id": "c46f6f9767a2",
+    "left": {
+      "region_id": "0b71fa2f7bab31096936c925",
+      "parent_id": "0e8da24e5c2dd59b",
+      "family_internal": 9,
+      "machine_family_id": "F0009",
+      "family_key": "key_matrix",
+      "family_name": "matriks tombol",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Keyboard_209.jpg",
+      "source_sha256": "f30ce3ec13df4f9d5a3f9b376c5d9a70e7a64af2697206a3054b8c9c0fa3e201",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        5.0,
+        35.0,
+        44.0,
+        80.0
+      ],
+      "mask_sha256": "9e83562688073d39d8975b9119467fad7e2bd8fb081f3fccf3b0b61e975c718a",
+      "area_fraction": 0.05875556,
+      "family_affinity": 0.907959,
+      "neighbors": [
+        {
+          "region_id": "5d22f9f99e23ed42ea858e7d",
+          "similarity": 0.908384
+        },
+        {
+          "region_id": "2a4a8c3c492e86e31aff2800",
+          "similarity": 0.908112
+        },
+        {
+          "region_id": "9d742f1c51b3f546a1c8eb86",
+          "similarity": 0.907817
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "9d742f1c51b3f546a1c8eb86",
+          "family_internal": 9,
+          "similarity": 0.907817,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "72422c0a0d1a153d5b995566",
+          "family_internal": 5,
+          "similarity": 0.890621,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "5a93fa4ba681b657a6b8c659",
+          "family_internal": 69,
+          "similarity": 0.805084,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "521ea6171af7454d5c433f7a",
+          "family_internal": 59,
+          "similarity": 0.797027,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e84348dfd482f72811b38112",
+          "family_internal": 85,
+          "similarity": 0.7945,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "1dd877f65f21b0f70a243936",
+      "parent_id": "58f124be36cddd15",
+      "family_internal": 9,
+      "machine_family_id": "F0009",
+      "family_key": "key_matrix",
+      "family_name": "matriks tombol",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/3.jpeg",
+      "source_sha256": "bb65ea31e17ff8a87288e49cd92f59d2e7eb8bfd0d980c45a5ea330410672bde",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 1040,
+      "height": 780,
+      "bbox_xyxy": [
+        278.0,
+        168.0,
+        681.0,
+        426.0
+      ],
+      "mask_sha256": "d7228a3cb7d78d9a6ae38f9ed4b552cac983d46d3109e467e4c62ca4b7768d79",
+      "area_fraction": 0.0751467,
+      "family_affinity": 0.858887,
+      "neighbors": [
+        {
+          "region_id": "d3b57cc62d8990bc4dbbdca0",
+          "similarity": 0.868614
+        },
+        {
+          "region_id": "b2e66476b271f4dea8e9099d",
+          "similarity": 0.848986
+        },
+        {
+          "region_id": "b7710ac206571b269943f0c4",
+          "similarity": 0.845327
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "b2e66476b271f4dea8e9099d",
+          "family_internal": 9,
+          "similarity": 0.848986,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "aadfc503352aa68f3ca0d8dc",
+          "family_internal": 5,
+          "similarity": 0.830779,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e84348dfd482f72811b38112",
+          "family_internal": 85,
+          "similarity": 0.762112,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "0682474141d4f4f8332cac56",
+          "family_internal": 27,
+          "similarity": 0.761854,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2e1ba4ca4d78ffe50b849339",
+          "family_internal": 90,
+          "similarity": 0.754103,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P12",
+    "pair_id": "beb9223cc922",
+    "left": {
+      "region_id": "2b0c978af1f2e69bbfe5104f",
+      "parent_id": "5c87e208e9280bb1",
+      "family_internal": 38,
+      "machine_family_id": "F0038",
+      "family_key": "r2_family_0038",
+      "family_name": "Pola belum terselesaikan F0038",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/battery_42.jpg",
+      "source_sha256": "dbef04a9ad79c1e9215369df775c4678b14d9896d65f3c544636bd32ae175b7f",
+      "global_community": 13,
+      "global_context_name": "Aki dan baterai kendaraan",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        75.0,
+        70.0,
+        119.0,
+        120.0
+      ],
+      "mask_sha256": "89d1b8b2f876d9828d20ea0cb1f45426ff8583c5e79f5a455876232aa23f34df",
+      "area_fraction": 0.05391111,
+      "family_affinity": 0.703125,
+      "neighbors": [
+        {
+          "region_id": "ed2de8dc447d1be14f7eb84c",
+          "similarity": 0.745935
+        },
+        {
+          "region_id": "cdffb2a41392d87b549057b6",
+          "similarity": 0.738196
+        },
+        {
+          "region_id": "2e33fd86e85f44ee8ac43f62",
+          "similarity": 0.718955
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "cdffb2a41392d87b549057b6",
+          "family_internal": 38,
+          "similarity": 0.738196,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "fe79f8c274688fdf851659d3",
+          "family_internal": 10,
+          "similarity": 0.557641,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2735634d19d280d8a58a1abf",
+          "family_internal": 124,
+          "similarity": 0.501938,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "b9ce293ebbba6d4d5fbff708",
+          "family_internal": 14,
+          "similarity": 0.484006,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3642f91d26d3a46368d37cee",
+          "family_internal": 41,
+          "similarity": 0.475863,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "524dd4f3daf2685afb501c1b",
+      "parent_id": "0ebc1bde48d57d8d",
+      "family_internal": 38,
+      "machine_family_id": "F0038",
+      "family_key": "r2_family_0038",
+      "family_name": "Pola belum terselesaikan F0038",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/45.clock-1495963_1280.jpg",
+      "source_sha256": "1f78ef592ce27affafb4b412a59ebfd07ded6ef12dce9612896d1eed81a2ed2d",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 1280,
+      "height": 720,
+      "bbox_xyxy": [
+        566.0,
+        190.0,
+        947.0,
+        382.0
+      ],
+      "mask_sha256": "9f8434fdf86d636b273004b0fe34dcbe3f81ec97b3250518f55cdab408fc9b41",
+      "area_fraction": 0.01297092,
+      "family_affinity": 0.456055,
+      "neighbors": [
+        {
+          "region_id": "dbf78b701f8d72b13c94f55f",
+          "similarity": 0.548064
+        },
+        {
+          "region_id": "8455bbda37a9bba939b39e0b",
+          "similarity": 0.545121
+        },
+        {
+          "region_id": "0cc6fd5859b12292584977a4",
+          "similarity": 0.542529
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "dbf78b701f8d72b13c94f55f",
+          "family_internal": 38,
+          "similarity": 0.548064,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e6f6106d92366e8fe2b53e8a",
+          "family_internal": 124,
+          "similarity": 0.427975,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "b9ce293ebbba6d4d5fbff708",
+          "family_internal": 14,
+          "similarity": 0.423131,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2b44448c7fca91d9a7b9bd16",
+          "family_internal": 10,
+          "similarity": 0.414383,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "53136634b9e3aecd4132e81d",
+          "family_internal": 35,
+          "similarity": 0.407888,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P13",
+    "pair_id": "f6cc802cc5f1",
+    "left": {
+      "region_id": "98f7dd1c4ad3912188cec7f6",
+      "parent_id": "a7d2052ac9faf7eb",
+      "family_internal": 55,
+      "machine_family_id": "F0055",
+      "family_key": "mouse_control_element",
+      "family_name": "elemen kontrol mouse",
+      "scientific_role": "low_support_hypothesis",
+      "r3_decision": "not_retained_low_support",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Mouse_37.jpg",
+      "source_sha256": "5577ff0c46fc5125b5e1ca1f22f0d50e1420d764f6d2eca6743c1f588e232515",
+      "global_community": 2,
+      "global_context_name": "Tetikus",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        4.0,
+        6.0,
+        78.0,
+        77.0
+      ],
+      "mask_sha256": "c87564ed93caedcdc8633907dac02e3643660a0de90069b4a2b7eb2c1e752f2f",
+      "area_fraction": 0.06751111,
+      "family_affinity": 0.713379,
+      "neighbors": [
+        {
+          "region_id": "6f1166d02998af3661f244b7",
+          "similarity": 0.713527
+        },
+        {
+          "region_id": "c0805bbf1d72c751153a1401",
+          "similarity": 0.554486
+        },
+        {
+          "region_id": "7b88328557127b073ce88d83",
+          "similarity": 0.541583
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "bd49512ba0b2535a03e6817c",
+          "family_internal": 120,
+          "similarity": 0.663024,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "279f1542aca5e4b950ab71e4",
+          "family_internal": 54,
+          "similarity": 0.652872,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "2b374f040186b010f3d6da67",
+          "family_internal": 94,
+          "similarity": 0.616496,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "0d29e43a737c1e804f0ace21",
+          "family_internal": 101,
+          "similarity": 0.603098,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "991a4b341dbd86920b9f02ce",
+          "family_internal": 57,
+          "similarity": 0.59503,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "b1e38dd066553e9d3989f8be",
+      "parent_id": "94c35b81b52b14ea",
+      "family_internal": 55,
+      "machine_family_id": "F0055",
+      "family_key": "mouse_control_element",
+      "family_name": "elemen kontrol mouse",
+      "scientific_role": "low_support_hypothesis",
+      "r3_decision": "not_retained_low_support",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Printer_223.jpg",
+      "source_sha256": "e144163101b282ba0aa37fb99df1970b27683c755d5e0ca5958ccf21555dc570",
+      "global_community": 5,
+      "global_context_name": "Pencetak",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        3.0,
+        69.0,
+        76.0,
+        145.0
+      ],
+      "mask_sha256": "1de220412d04108d9441b6816f4c07fe6341f824ccca74dd22ffa14734cf9eae",
+      "area_fraction": 0.11702222,
+      "family_affinity": 0.726074,
+      "neighbors": [
+        {
+          "region_id": "395e9fc4c9cfdca87f406e02",
+          "similarity": 0.743107
+        },
+        {
+          "region_id": "4f0ef279bd1692a901219ccb",
+          "similarity": 0.708893
+        },
+        {
+          "region_id": "8efed10916cf36e85725a1f0",
+          "similarity": 0.540634
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "6586c8780bd913882a6e6175",
+          "family_internal": 7,
+          "similarity": 0.706677,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "4326ebc675f996af7babece5",
+          "family_internal": 29,
+          "similarity": 0.652084,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "38ded1f46ac8240aa90ead32",
+          "family_internal": 18,
+          "similarity": 0.648913,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "50d5162f104872d2c082427c",
+          "family_internal": 2,
+          "similarity": 0.606747,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "c7e27010f08379a4363ab3b4",
+          "family_internal": 10,
+          "similarity": 0.595492,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P14",
+    "pair_id": "1a2d6c027ef7",
+    "left": {
+      "region_id": "0fdec7271d65d05edcff8936",
+      "parent_id": "dcd669c1b3d8457d",
+      "family_internal": 19,
+      "machine_family_id": "F0019",
+      "family_key": "r2_family_0019",
+      "family_name": "Pola belum terselesaikan F0019",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Washing_Machine_150.jpg",
+      "source_sha256": "74a7b79c068d07182c714c1e0246d8c98e289f48dbdf03a7c0f6bf80e03ae753",
+      "global_community": 4,
+      "global_context_name": "Mesin cuci",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        31.0,
+        109.0,
+        66.0,
+        147.0
+      ],
+      "mask_sha256": "fbb23f6e936c7cad7ae32d8100d9d63ecf2a755cf698d35e63fc4000f4043366",
+      "area_fraction": 0.04084444,
+      "family_affinity": 0.886719,
+      "neighbors": [
+        {
+          "region_id": "dddb8b1c1a8ed6de89076537",
+          "similarity": 0.90548
+        },
+        {
+          "region_id": "bbafcc21ad732e4fefdf466f",
+          "similarity": 0.867727
+        },
+        {
+          "region_id": "019cda898586ce78b6e7ae95",
+          "similarity": 0.751092
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "9a96bae634919d2194876cab",
+          "family_internal": 24,
+          "similarity": 0.625556,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "4ecff0e798bd88cad9f092b1",
+          "family_internal": 11,
+          "similarity": 0.568149,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "bba7f1eaaf2f5151d141f7e8",
+          "family_internal": 20,
+          "similarity": 0.536676,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3c6ab5953c6babf90f40e706",
+          "family_internal": 15,
+          "similarity": 0.528492,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "d8cd58127c1e3ed3a5e7ea2e",
+          "family_internal": 8,
+          "similarity": 0.511125,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "65e95b78f0ec0776f2e53eb9",
+      "parent_id": "94c35b81b52b14ea",
+      "family_internal": 19,
+      "machine_family_id": "F0019",
+      "family_key": "r2_family_0019",
+      "family_name": "Pola belum terselesaikan F0019",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Printer_223.jpg",
+      "source_sha256": "e144163101b282ba0aa37fb99df1970b27683c755d5e0ca5958ccf21555dc570",
+      "global_community": 5,
+      "global_context_name": "Pencetak",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        67.0,
+        64.0,
+        148.0,
+        140.0
+      ],
+      "mask_sha256": "bf7253c98881ccab1a8302daa7b65f20d18a8bc0cd352710359560b35a445137",
+      "area_fraction": 0.13555556,
+      "family_affinity": 0.589844,
+      "neighbors": [
+        {
+          "region_id": "fc7e75f78c999e732f0ce4d4",
+          "similarity": 0.589821
+        },
+        {
+          "region_id": "9408a3689727f4228e0bf94c",
+          "similarity": 0.562471
+        },
+        {
+          "region_id": "97676f3ffd41ecd1fe02404d",
+          "similarity": 0.55964
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "d7dc5b1f3396b860b174e9cd",
+          "family_internal": 7,
+          "similarity": 0.597462,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "fc7e75f78c999e732f0ce4d4",
+          "family_internal": 19,
+          "similarity": 0.589821,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3ec7023124cbec7a482fa6a7",
+          "family_internal": 6,
+          "similarity": 0.587194,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "a4a782bf2c8c4e780fce6dc3",
+          "family_internal": 18,
+          "similarity": 0.579141,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "72ffa9ca7121a8e02ac61456",
+          "family_internal": 12,
+          "similarity": 0.523796,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P15",
+    "pair_id": "81feef0159c4",
+    "left": {
+      "region_id": "524dd4f3daf2685afb501c1b",
+      "parent_id": "0ebc1bde48d57d8d",
+      "family_internal": 38,
+      "machine_family_id": "F0038",
+      "family_key": "r2_family_0038",
+      "family_name": "Pola belum terselesaikan F0038",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/45.clock-1495963_1280.jpg",
+      "source_sha256": "1f78ef592ce27affafb4b412a59ebfd07ded6ef12dce9612896d1eed81a2ed2d",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 1280,
+      "height": 720,
+      "bbox_xyxy": [
+        566.0,
+        190.0,
+        947.0,
+        382.0
+      ],
+      "mask_sha256": "9f8434fdf86d636b273004b0fe34dcbe3f81ec97b3250518f55cdab408fc9b41",
+      "area_fraction": 0.01297092,
+      "family_affinity": 0.456055,
+      "neighbors": [
+        {
+          "region_id": "dbf78b701f8d72b13c94f55f",
+          "similarity": 0.548064
+        },
+        {
+          "region_id": "8455bbda37a9bba939b39e0b",
+          "similarity": 0.545121
+        },
+        {
+          "region_id": "0cc6fd5859b12292584977a4",
+          "similarity": 0.542529
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "dbf78b701f8d72b13c94f55f",
+          "family_internal": 38,
+          "similarity": 0.548064,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e6f6106d92366e8fe2b53e8a",
+          "family_internal": 124,
+          "similarity": 0.427975,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "b9ce293ebbba6d4d5fbff708",
+          "family_internal": 14,
+          "similarity": 0.423131,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2b44448c7fca91d9a7b9bd16",
+          "family_internal": 10,
+          "similarity": 0.414383,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "53136634b9e3aecd4132e81d",
+          "family_internal": 35,
+          "similarity": 0.407888,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "589bb405461b13982f3329bf",
+      "parent_id": "5c87e208e9280bb1",
+      "family_internal": 38,
+      "machine_family_id": "F0038",
+      "family_key": "r2_family_0038",
+      "family_name": "Pola belum terselesaikan F0038",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/battery_42.jpg",
+      "source_sha256": "dbef04a9ad79c1e9215369df775c4678b14d9896d65f3c544636bd32ae175b7f",
+      "global_community": 13,
+      "global_context_name": "Aki dan baterai kendaraan",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        48.0,
+        30.0,
+        80.0,
+        78.0
+      ],
+      "mask_sha256": "72968e312286b0a80a9cbd87e06bad16cdace505bd6eb30114be5f66b7678acb",
+      "area_fraction": 0.02902222,
+      "family_affinity": 0.635254,
+      "neighbors": [
+        {
+          "region_id": "56a3162fa31d41add58a5dbe",
+          "similarity": 0.831962
+        },
+        {
+          "region_id": "38ee000ec5fb813a41140c77",
+          "similarity": 0.754486
+        },
+        {
+          "region_id": "de7162eb39399ca6ac718c85",
+          "similarity": 0.707718
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "cdffb2a41392d87b549057b6",
+          "family_internal": 38,
+          "similarity": 0.663104,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "fe79f8c274688fdf851659d3",
+          "family_internal": 10,
+          "similarity": 0.528235,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "652d547fea24797d1bf397e4",
+          "family_internal": 0,
+          "similarity": 0.463498,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "fbb2539f61ea4afaa53928de",
+          "family_internal": 13,
+          "similarity": 0.462447,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2735634d19d280d8a58a1abf",
+          "family_internal": 124,
+          "similarity": 0.452351,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P16",
+    "pair_id": "70d2c3027e64",
+    "left": {
+      "region_id": "65e95b78f0ec0776f2e53eb9",
+      "parent_id": "94c35b81b52b14ea",
+      "family_internal": 19,
+      "machine_family_id": "F0019",
+      "family_key": "r2_family_0019",
+      "family_name": "Pola belum terselesaikan F0019",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Printer_223.jpg",
+      "source_sha256": "e144163101b282ba0aa37fb99df1970b27683c755d5e0ca5958ccf21555dc570",
+      "global_community": 5,
+      "global_context_name": "Pencetak",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        67.0,
+        64.0,
+        148.0,
+        140.0
+      ],
+      "mask_sha256": "bf7253c98881ccab1a8302daa7b65f20d18a8bc0cd352710359560b35a445137",
+      "area_fraction": 0.13555556,
+      "family_affinity": 0.589844,
+      "neighbors": [
+        {
+          "region_id": "fc7e75f78c999e732f0ce4d4",
+          "similarity": 0.589821
+        },
+        {
+          "region_id": "9408a3689727f4228e0bf94c",
+          "similarity": 0.562471
+        },
+        {
+          "region_id": "97676f3ffd41ecd1fe02404d",
+          "similarity": 0.55964
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "d7dc5b1f3396b860b174e9cd",
+          "family_internal": 7,
+          "similarity": 0.597462,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "fc7e75f78c999e732f0ce4d4",
+          "family_internal": 19,
+          "similarity": 0.589821,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3ec7023124cbec7a482fa6a7",
+          "family_internal": 6,
+          "similarity": 0.587194,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "a4a782bf2c8c4e780fce6dc3",
+          "family_internal": 18,
+          "similarity": 0.579141,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "72ffa9ca7121a8e02ac61456",
+          "family_internal": 12,
+          "similarity": 0.523796,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "a05c2d444777a063956c320c",
+      "parent_id": "dcd669c1b3d8457d",
+      "family_internal": 19,
+      "machine_family_id": "F0019",
+      "family_key": "r2_family_0019",
+      "family_name": "Pola belum terselesaikan F0019",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Washing_Machine_150.jpg",
+      "source_sha256": "74a7b79c068d07182c714c1e0246d8c98e289f48dbdf03a7c0f6bf80e03ae753",
+      "global_community": 4,
+      "global_context_name": "Mesin cuci",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        114.0,
+        71.0,
+        147.0,
+        115.0
+      ],
+      "mask_sha256": "bc00f72bde650a06c0e0c37d233fdeb10427d2a057ac92778d9a2536bcfa62b7",
+      "area_fraction": 0.02333333,
+      "family_affinity": 0.812988,
+      "neighbors": [
+        {
+          "region_id": "78f3207cdf73d169f8642c91",
+          "similarity": 0.812912
+        },
+        {
+          "region_id": "7a7aba7695588f93ed25649b",
+          "similarity": 0.74709
+        },
+        {
+          "region_id": "3599992ee2fb1b0a2cd7e5cb",
+          "similarity": 0.731284
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "2e8f0d1d1bf3945fb4438310",
+          "family_internal": 42,
+          "similarity": 0.631682,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "cd133fba362f47028cee1d9c",
+          "family_internal": 45,
+          "similarity": 0.609956,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "e32e29a91a15052b51403519",
+          "family_internal": 20,
+          "similarity": 0.588804,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e84b518a25a25305dbdb4da4",
+          "family_internal": 7,
+          "similarity": 0.570898,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3f05d94849725c79fdd81e3f",
+          "family_internal": 30,
+          "similarity": 0.563587,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P17",
+    "pair_id": "7bcf538878f0",
+    "left": {
+      "region_id": "77188238c26dce8db9978306",
+      "parent_id": "41819bf4c59c9e54",
+      "family_internal": 32,
+      "machine_family_id": "F0032",
+      "family_key": "visible_display_damage",
+      "family_name": "kerusakan tampak pada layar",
+      "scientific_role": "cross_category_visible_condition",
+      "r3_decision": "rejected_configuration_pair_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/188.jpeg",
+      "source_sha256": "cc15cdc830b0831c444b4b56578de625d23b43f35d7f1a9b672b613264a254e0",
+      "global_community": 11,
+      "global_context_name": "Laptop",
+      "width": 1280,
+      "height": 721,
+      "bbox_xyxy": [
+        297.0,
+        150.0,
+        856.0,
+        378.0
+      ],
+      "mask_sha256": "56e726d5569218e2b4ed0546e2c75248ed4c94c44d4a29891284c8afe94aea4a",
+      "area_fraction": 0.02329772,
+      "family_affinity": 0.811523,
+      "neighbors": [
+        {
+          "region_id": "0eb14cacc7e91370e2ba6d69",
+          "similarity": 0.822741
+        },
+        {
+          "region_id": "47e4f893565d585aaadabae2",
+          "similarity": 0.811213
+        },
+        {
+          "region_id": "1b8316a12848fb64d8793e84",
+          "similarity": 0.807771
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "1b8316a12848fb64d8793e84",
+          "family_internal": 32,
+          "similarity": 0.807771,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "f9ae73de71db8bfaf308c6e1",
+          "family_internal": 39,
+          "similarity": 0.749787,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "5ee23753de3bd744faf99e4f",
+          "family_internal": 27,
+          "similarity": 0.736826,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e152709b2f1b44c8d7d73c25",
+          "family_internal": 23,
+          "similarity": 0.71548,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3c42a6fa6adea5895768a994",
+          "family_internal": 9,
+          "similarity": 0.59629,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "d7cf0aaa2799b71e7a4cfdcb",
+      "parent_id": "2a976c8c7fdddc1a",
+      "family_internal": 32,
+      "machine_family_id": "F0032",
+      "family_key": "visible_display_damage",
+      "family_name": "kerusakan tampak pada layar",
+      "scientific_role": "cross_category_visible_condition",
+      "r3_decision": "rejected_configuration_pair_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/63.layar-laptop-rusak-papan-ketik-rusak-perlu-diperbaiki_632498-49114.jpg",
+      "source_sha256": "b1f3f5c95d4f565a5f82f8c90078d473036ffbafc3d0636e192d6d07ab0e143d",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 626,
+      "height": 626,
+      "bbox_xyxy": [
+        177.0,
+        131.0,
+        326.0,
+        327.0
+      ],
+      "mask_sha256": "9ad69187b83488431402db31b9e77427507d0c7bdb1ccd083ec55ac1b7ad6626",
+      "area_fraction": 0.040079,
+      "family_affinity": 0.62793,
+      "neighbors": [
+        {
+          "region_id": "c1fad7b5ab9b0761b943ef52",
+          "similarity": 0.638801
+        },
+        {
+          "region_id": "79188cfc47bde765bcba9497",
+          "similarity": 0.628242
+        },
+        {
+          "region_id": "7f7b12c0d9ad44c1f089ad6e",
+          "similarity": 0.626662
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "c1fad7b5ab9b0761b943ef52",
+          "family_internal": 32,
+          "similarity": 0.638801,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "6969d05ad5a6b7bd09286c97",
+          "family_internal": 1,
+          "similarity": 0.607688,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "ac7985b68455a137abec6e68",
+          "family_internal": 34,
+          "similarity": 0.6028,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "c9ac54a65d374a3371b439ca",
+          "family_internal": 39,
+          "similarity": 0.590233,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "200768aff59abede2b0aef43",
+          "family_internal": 52,
+          "similarity": 0.566433,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P18",
+    "pair_id": "865935c65935",
+    "left": {
+      "region_id": "37d9dc4375ed474e41c8d75a",
+      "parent_id": "5961957d4c318278",
+      "family_internal": 53,
+      "machine_family_id": "F0053",
+      "family_key": "r2_family_0053",
+      "family_name": "Pola belum terselesaikan F0053",
+      "scientific_role": "low_support_hypothesis",
+      "r3_decision": "not_retained_low_support",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/903.jpeg",
+      "source_sha256": "dad520c40512ec0318de69ad35137554837c36f23d73ce2d1a66581eded1e251",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 1280,
+      "height": 720,
+      "bbox_xyxy": [
+        609.0,
+        166.0,
+        981.0,
+        362.0
+      ],
+      "mask_sha256": "2c1caa46ab3e44c47953f1a9f05cceb965e3672c88e23d7274a2a9cc446eae31",
+      "area_fraction": 0.05250651,
+      "family_affinity": 0.578613,
+      "neighbors": [
+        {
+          "region_id": "a4a649f54cc9a17328adc6a7",
+          "similarity": 0.578345
+        },
+        {
+          "region_id": "9224a917b85c94834a4b7a6b",
+          "similarity": 0.436736
+        },
+        {
+          "region_id": "ab84e35c29bef0a270cddbf6",
+          "similarity": 0.277834
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "fbac4fe8735f22ffefb43b70",
+          "family_internal": 1,
+          "similarity": 0.58806,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "a98a768e39ecc1d15e9f5547",
+          "family_internal": 52,
+          "similarity": 0.577003,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "d50995407d7705c2c4e912f9",
+          "family_internal": 80,
+          "similarity": 0.524005,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "51636c6d4669e32fb9a8e6e6",
+          "family_internal": 26,
+          "similarity": 0.521931,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "4057709d41fe9ce2baa675d6",
+          "family_internal": 16,
+          "similarity": 0.517371,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "5791afeb79e2f82150125d36",
+      "parent_id": "07a3a7081e277ab6",
+      "family_internal": 53,
+      "machine_family_id": "F0053",
+      "family_key": "r2_family_0053",
+      "family_name": "Pola belum terselesaikan F0053",
+      "scientific_role": "low_support_hypothesis",
+      "r3_decision": "not_retained_low_support",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/3.jual-beli-barang-bekas-elektronik-600x400.jpg",
+      "source_sha256": "d6e36468075592632bd20e2e8f8099e1eb2354583df50595848aa45c7b954f19",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 600,
+      "height": 400,
+      "bbox_xyxy": [
+        140.0,
+        182.0,
+        324.0,
+        315.0
+      ],
+      "mask_sha256": "167d92c5e91c9f416daa3661fdc427b53214c4de61fc81860c4447502bff2fe3",
+      "area_fraction": 0.04319583,
+      "family_affinity": 0.674072,
+      "neighbors": [
+        {
+          "region_id": "44c36c518dd1571578263a31",
+          "similarity": 0.834237
+        },
+        {
+          "region_id": "ec96268d49d2158c10106a34",
+          "similarity": 0.683183
+        },
+        {
+          "region_id": "830c1275dd3f411fe8efe7a0",
+          "similarity": 0.665185
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "938c97c5decc59b3e9415c45",
+          "family_internal": 2,
+          "similarity": 0.656337,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "a6f2759c4058e4bef966ec04",
+          "family_internal": 14,
+          "similarity": 0.556975,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "031de9d5dbc18ca5a329c1b4",
+          "family_internal": 25,
+          "similarity": 0.543508,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "5152f49b04105a03a7bbf934",
+          "family_internal": 22,
+          "similarity": 0.53145,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "d76dcfbcc43b74773688dbc0",
+          "family_internal": 50,
+          "similarity": 0.51607,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P19",
+    "pair_id": "29d75d7235cb",
+    "left": {
+      "region_id": "42154c6027e2cb66a1067bb0",
+      "parent_id": "2a976c8c7fdddc1a",
+      "family_internal": 23,
+      "machine_family_id": "F0023",
+      "family_key": "laptop_input_deck",
+      "family_name": "dek masukan laptop",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/63.layar-laptop-rusak-papan-ketik-rusak-perlu-diperbaiki_632498-49114.jpg",
+      "source_sha256": "b1f3f5c95d4f565a5f82f8c90078d473036ffbafc3d0636e192d6d07ab0e143d",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 626,
+      "height": 626,
+      "bbox_xyxy": [
+        19.0,
+        309.0,
+        174.0,
+        471.0
+      ],
+      "mask_sha256": "de665b9d9004c310cd019830b9af0f6e0a9ec9d4fcc98a78400c42761b5464fb",
+      "area_fraction": 0.01797507,
+      "family_affinity": 0.807129,
+      "neighbors": [
+        {
+          "region_id": "23e0e58bdb236e38c4bcee71",
+          "similarity": 0.807051
+        },
+        {
+          "region_id": "cb254fe54b89ae8b536f6660",
+          "similarity": 0.7219
+        },
+        {
+          "region_id": "5eb397e8247f8e8ebab0392d",
+          "similarity": 0.718456
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "23e0e58bdb236e38c4bcee71",
+          "family_internal": 23,
+          "similarity": 0.807051,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "5d8182ed0f7826bbc3a86b6d",
+          "family_internal": 9,
+          "similarity": 0.577294,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "65a3d418fda63946b8378d2c",
+          "family_internal": 27,
+          "similarity": 0.550019,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "1d9464ba68b78da646ce5614",
+          "family_internal": 78,
+          "similarity": 0.523621,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2a17610bf20600ffc5208edd",
+          "family_internal": 48,
+          "similarity": 0.504633,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "ffda0f90060e996e7862878a",
+      "parent_id": "41819bf4c59c9e54",
+      "family_internal": 23,
+      "machine_family_id": "F0023",
+      "family_key": "laptop_input_deck",
+      "family_name": "dek masukan laptop",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/188.jpeg",
+      "source_sha256": "cc15cdc830b0831c444b4b56578de625d23b43f35d7f1a9b672b613264a254e0",
+      "global_community": 11,
+      "global_context_name": "Laptop",
+      "width": 1280,
+      "height": 721,
+      "bbox_xyxy": [
+        251.0,
+        521.0,
+        670.0,
+        711.0
+      ],
+      "mask_sha256": "a197cc2640962aeeb14e8428053171fec4efd961468c0e5021e988ddb33f03f4",
+      "area_fraction": 0.06275789,
+      "family_affinity": 0.899414,
+      "neighbors": [
+        {
+          "region_id": "12e7911d72382cf8b46aeafb",
+          "similarity": 0.934336
+        },
+        {
+          "region_id": "9ed337c4298718abc67f852b",
+          "similarity": 0.933631
+        },
+        {
+          "region_id": "eb9b9a283001958f1b9624ef",
+          "similarity": 0.925473
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "46b71e09916a4c26d11794da",
+          "family_internal": 23,
+          "similarity": 0.920539,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "692a73906cab17e3b3d3c2c1",
+          "family_internal": 31,
+          "similarity": 0.766046,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e3447ae911825431bd7ab3c5",
+          "family_internal": 29,
+          "similarity": 0.679463,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "76cbc71b74316eef5113d04b",
+          "family_internal": 27,
+          "similarity": 0.56306,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "bbbb3f0e563aa623ce2d06f8",
+          "family_internal": 36,
+          "similarity": 0.551315,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P20",
+    "pair_id": "cc6c5c21328a",
+    "left": {
+      "region_id": "3dbab8423970f09b78d534ff",
+      "parent_id": "db3947165ba372f1",
+      "family_internal": 76,
+      "machine_family_id": "F0076",
+      "family_key": "r2_family_0076",
+      "family_name": "Pola belum terselesaikan F0076",
+      "scientific_role": "low_support_hypothesis",
+      "r3_decision": "not_retained_low_support",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/615.jpg",
+      "source_sha256": "98321536d29a1b3d827bc59f007297a6777ac49f20061ab513700ff4dc13734e",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "width": 3496,
+      "height": 3496,
+      "bbox_xyxy": [
+        122.91,
+        1737.08,
+        996.91,
+        2693.01
+      ],
+      "mask_sha256": "ed5992f66541c8bf81dc9d3d8df1da79dbfa8cdad0e7df7abf34c3764812c580",
+      "area_fraction": 0.03802307,
+      "family_affinity": 0.748047,
+      "neighbors": [
+        {
+          "region_id": "2c291e222a8891d4abb418af",
+          "similarity": 0.766374
+        },
+        {
+          "region_id": "7a7c064ec12efc29a5265e31",
+          "similarity": 0.729555
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "66cf91ae3e98283a7c6f9c1f",
+          "family_internal": 11,
+          "similarity": 0.779495,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2c291e222a8891d4abb418af",
+          "family_internal": 76,
+          "similarity": 0.766374,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e5e93b61f024d0f3962e5a74",
+          "family_internal": 1,
+          "similarity": 0.74257,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "de912511f13e8b038959d1b7",
+          "family_internal": 49,
+          "similarity": 0.730808,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "14818ce739f24cb4214734f7",
+          "family_internal": 39,
+          "similarity": 0.666149,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "7a7c064ec12efc29a5265e31",
+      "parent_id": "5961957d4c318278",
+      "family_internal": 76,
+      "machine_family_id": "F0076",
+      "family_key": "r2_family_0076",
+      "family_name": "Pola belum terselesaikan F0076",
+      "scientific_role": "low_support_hypothesis",
+      "r3_decision": "not_retained_low_support",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/903.jpeg",
+      "source_sha256": "dad520c40512ec0318de69ad35137554837c36f23d73ce2d1a66581eded1e251",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 1280,
+      "height": 720,
+      "bbox_xyxy": [
+        21.0,
+        333.0,
+        626.0,
+        695.0
+      ],
+      "mask_sha256": "6a241e3d802ca7cf79cae411eeea3b7dde14353c052acdda24415f8b14b73194",
+      "area_fraction": 0.16255859,
+      "family_affinity": 0.830322,
+      "neighbors": [
+        {
+          "region_id": "2c291e222a8891d4abb418af",
+          "similarity": 0.931164
+        },
+        {
+          "region_id": "3dbab8423970f09b78d534ff",
+          "similarity": 0.729555
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "3ede71e785f64b4324815a61",
+          "family_internal": 1,
+          "similarity": 0.730134,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3dbab8423970f09b78d534ff",
+          "family_internal": 76,
+          "similarity": 0.729555,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "c38f4400e2eb9dda967107e7",
+          "family_internal": 49,
+          "similarity": 0.698714,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "2656b58028b7bd465956e0ef",
+          "family_internal": 39,
+          "similarity": 0.6976,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "228991f1a1f1a4d5c10a70d0",
+          "family_internal": 11,
+          "similarity": 0.688222,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P21",
+    "pair_id": "e1119fcd8ab7",
+    "left": {
+      "region_id": "07bab0e08a639900f6bde785",
+      "parent_id": "f80b9b87c928d629",
+      "family_internal": 0,
+      "machine_family_id": "F0000",
+      "family_key": "circuit_board_surface",
+      "family_name": "permukaan papan sirkuit terpopulasi",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/79.computer-hardware-scraps-1276859.jpg",
+      "source_sha256": "065a780f9e771772888119471032b2d581a892a767b10fd16ece2c6b256c8369",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 208,
+      "height": 160,
+      "bbox_xyxy": [
+        153.0,
+        78.0,
+        205.0,
+        122.0
+      ],
+      "mask_sha256": "85ae2e9a5bdc71aa864183a11a004f09185301dc40011ed4513255fc9dae66ff",
+      "area_fraction": 0.03698918,
+      "family_affinity": 0.831543,
+      "neighbors": [
+        {
+          "region_id": "05672684c84e46a91a700bd4",
+          "similarity": 0.847359
+        },
+        {
+          "region_id": "901558857bdfe198a5de73f2",
+          "similarity": 0.831537
+        },
+        {
+          "region_id": "0c25922a8d9cf706262c42a2",
+          "similarity": 0.812655
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "05672684c84e46a91a700bd4",
+          "family_internal": 0,
+          "similarity": 0.847359,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2a5df0aaea9ca032f7acd4f2",
+          "family_internal": 2,
+          "similarity": 0.694882,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e9a8eda92021e70198bc38de",
+          "family_internal": 116,
+          "similarity": 0.633298,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "943146e758da0d89a574e0a0",
+          "family_internal": 13,
+          "similarity": 0.626233,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "d04194daeac5ab4676dc9aa1",
+          "family_internal": 22,
+          "similarity": 0.614975,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    },
+    "right": {
+      "region_id": "dffbb874e240b6ac9aebea9f",
+      "parent_id": "26dfe78badf3d531",
+      "family_internal": 0,
+      "machine_family_id": "F0000",
+      "family_key": "circuit_board_surface",
+      "family_name": "permukaan papan sirkuit terpopulasi",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/pcb_67.jpg",
+      "source_sha256": "a7983158d44262c1282444aa27b277a550c9d8de5332071dcd5509e7226170be",
+      "global_community": 8,
+      "global_context_name": "Papan rangkaian",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        67.0,
+        109.0,
+        119.0,
+        144.0
+      ],
+      "mask_sha256": "a31acfd5d9f64dd1860da59f21de6dd7e06b80c88f069e7e6795d7068c5c036e",
+      "area_fraction": 0.06093333,
+      "family_affinity": 0.822266,
+      "neighbors": [
+        {
+          "region_id": "82c5ed872729d66e8b759ef5",
+          "similarity": 0.997585
+        },
+        {
+          "region_id": "6bf5d5ed4a64d8a8f8999952",
+          "similarity": 0.98259
+        },
+        {
+          "region_id": "a21695d64840c092ff1fc17a",
+          "similarity": 0.967979
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "f9bf50ac48cc3a6094f877b9",
+          "family_internal": 0,
+          "similarity": 0.73876,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "daf1dc70ea5a6dcf846a4997",
+          "family_internal": 13,
+          "similarity": 0.722347,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3d1b54e6c38d61c8c2d1f776",
+          "family_internal": 41,
+          "similarity": 0.677769,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e9a8eda92021e70198bc38de",
+          "family_internal": 116,
+          "similarity": 0.646012,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "076520cfa162d3517e234ee3",
+          "family_internal": 31,
+          "similarity": 0.641047,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P22",
+    "pair_id": "e3c00f5b9582",
+    "left": {
+      "region_id": "48a6b669e1f01f612365c8a5",
+      "parent_id": "0c4ba77b2e9d8edc",
+      "family_internal": 73,
+      "machine_family_id": "F0073",
+      "family_key": "r2_family_0073",
+      "family_name": "Pola belum terselesaikan F0073",
+      "scientific_role": "low_support_hypothesis",
+      "r3_decision": "not_retained_low_support",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Keyboard_124.jpg",
+      "source_sha256": "c734e013f4c152e59b0df2526330d615aecba3fad03b14cd80aee788dabb70aa",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        112.0,
+        109.0,
+        147.0,
+        148.0
+      ],
+      "mask_sha256": "3f0276b7a000e51b64ee4c9943aa453b5fe14bde703dea9a78ba894dc667cc1d",
+      "area_fraction": 0.04928889,
+      "family_affinity": 0.667847,
+      "neighbors": [
+        {
+          "region_id": "bd6bd679a50c8fbadd59d6f9",
+          "similarity": 0.72803
+        },
+        {
+          "region_id": "f4c9b37cd6662a299070b050",
+          "similarity": 0.607706
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "bd6bd679a50c8fbadd59d6f9",
+          "family_internal": 73,
+          "similarity": 0.72803,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "33ae8856250800c502a30913",
+          "family_internal": 5,
+          "similarity": 0.668159,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "6bc9a27225cc4315f0798cb7",
+          "family_internal": 123,
+          "similarity": 0.632877,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "bba7f1eaaf2f5151d141f7e8",
+          "family_internal": 20,
+          "similarity": 0.611519,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "291183d4b97d934dce607c81",
+          "family_internal": 97,
+          "similarity": 0.606609,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    },
+    "right": {
+      "region_id": "f4c9b37cd6662a299070b050",
+      "parent_id": "4de5a9e77bdc11fa",
+      "family_internal": 73,
+      "machine_family_id": "F0073",
+      "family_key": "r2_family_0073",
+      "family_name": "Pola belum terselesaikan F0073",
+      "scientific_role": "low_support_hypothesis",
+      "r3_decision": "not_retained_low_support",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/40.led-and-lcd-tvs-monitor-scrap-for-sale--160.jpg",
+      "source_sha256": "f8eb6359e717a2717a15710a722aa023438132b93062a9fdcb8f42aeb527ff58",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 500,
+      "height": 500,
+      "bbox_xyxy": [
+        381.0,
+        351.0,
+        498.0,
+        494.0
+      ],
+      "mask_sha256": "4b62edd9255d218defa105d67b8c2c34287742c09eaafc10ede8ec6f1afbe930",
+      "area_fraction": 0.032716,
+      "family_affinity": 0.607666,
+      "neighbors": [
+        {
+          "region_id": "48a6b669e1f01f612365c8a5",
+          "similarity": 0.607706
+        },
+        {
+          "region_id": "bd6bd679a50c8fbadd59d6f9",
+          "similarity": 0.548782
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "b52e4997b2d8f6a963808ac6",
+          "family_internal": 128,
+          "similarity": 0.722825,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "c99a1c4e67764d48438b60a5",
+          "family_internal": 36,
+          "similarity": 0.687854,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "96561a3fc9febfe26a56c341",
+          "family_internal": 11,
+          "similarity": 0.634046,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "48a6b669e1f01f612365c8a5",
+          "family_internal": 73,
+          "similarity": 0.607706,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2c291e222a8891d4abb418af",
+          "family_internal": 76,
+          "similarity": 0.585033,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P23",
+    "pair_id": "9b2641728a3d",
+    "left": {
+      "region_id": "467b66fa4b592a426ffd6fd4",
+      "parent_id": "58f124be36cddd15",
+      "family_internal": 48,
+      "machine_family_id": "F0048",
+      "family_key": "key_matrix",
+      "family_name": "matriks tombol",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/3.jpeg",
+      "source_sha256": "bb65ea31e17ff8a87288e49cd92f59d2e7eb8bfd0d980c45a5ea330410672bde",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 1040,
+      "height": 780,
+      "bbox_xyxy": [
+        229.0,
+        372.0,
+        567.0,
+        599.0
+      ],
+      "mask_sha256": "caa0895437a2f798e53acdf38ceb30a18c014c95369f47141fdf2ddd11d8431c",
+      "area_fraction": 0.05853057,
+      "family_affinity": 0.766602,
+      "neighbors": [
+        {
+          "region_id": "a7b71efcf23f1309dc8d1320",
+          "similarity": 0.791976
+        },
+        {
+          "region_id": "d0422adf94c58dd11f7417df",
+          "similarity": 0.767216
+        },
+        {
+          "region_id": "5ac34ed0a34fd8be3b08ab69",
+          "similarity": 0.766265
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "50c898e0f76b81f10bc45b16",
+          "family_internal": 5,
+          "similarity": 0.784363,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "1bac01f05ef5c60212545795",
+          "family_internal": 9,
+          "similarity": 0.781396,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "d0422adf94c58dd11f7417df",
+          "family_internal": 48,
+          "similarity": 0.767216,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "5a93fa4ba681b657a6b8c659",
+          "family_internal": 69,
+          "similarity": 0.733606,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "e84348dfd482f72811b38112",
+          "family_internal": 85,
+          "similarity": 0.6885,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "b418bbe015fd47956acadda4",
+      "parent_id": "0c4ba77b2e9d8edc",
+      "family_internal": 48,
+      "machine_family_id": "F0048",
+      "family_key": "key_matrix",
+      "family_name": "matriks tombol",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Keyboard_124.jpg",
+      "source_sha256": "c734e013f4c152e59b0df2526330d615aecba3fad03b14cd80aee788dabb70aa",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        3.0,
+        68.0,
+        82.0,
+        147.0
+      ],
+      "mask_sha256": "8f21a34e096ce2b3855fdef650a804532e0f91c831cc3d0903748a021b2eb174",
+      "area_fraction": 0.18537778,
+      "family_affinity": 0.770508,
+      "neighbors": [
+        {
+          "region_id": "d23bef49263c329c3a0168d9",
+          "similarity": 0.786617
+        },
+        {
+          "region_id": "4b0a9a45b54decfd0d1e15a9",
+          "similarity": 0.770555
+        },
+        {
+          "region_id": "d0422adf94c58dd11f7417df",
+          "similarity": 0.737492
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "9bfeb9a3bd9c3ba99fb29050",
+          "family_internal": 5,
+          "similarity": 0.707529,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "6bc9a27225cc4315f0798cb7",
+          "family_internal": 123,
+          "similarity": 0.681925,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "d1e39a713e484cbc9e864338",
+          "family_internal": 69,
+          "similarity": 0.680422,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "32956fbbea7e81564c4c3516",
+          "family_internal": 8,
+          "similarity": 0.677802,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "467b66fa4b592a426ffd6fd4",
+          "family_internal": 48,
+          "similarity": 0.650937,
+          "same_family": true,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P24",
+    "pair_id": "4eacfd5e9e18",
+    "left": {
+      "region_id": "524dd4f3daf2685afb501c1b",
+      "parent_id": "0ebc1bde48d57d8d",
+      "family_internal": 38,
+      "machine_family_id": "F0038",
+      "family_key": "r2_family_0038",
+      "family_name": "Pola belum terselesaikan F0038",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/45.clock-1495963_1280.jpg",
+      "source_sha256": "1f78ef592ce27affafb4b412a59ebfd07ded6ef12dce9612896d1eed81a2ed2d",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 1280,
+      "height": 720,
+      "bbox_xyxy": [
+        566.0,
+        190.0,
+        947.0,
+        382.0
+      ],
+      "mask_sha256": "9f8434fdf86d636b273004b0fe34dcbe3f81ec97b3250518f55cdab408fc9b41",
+      "area_fraction": 0.01297092,
+      "family_affinity": 0.456055,
+      "neighbors": [
+        {
+          "region_id": "dbf78b701f8d72b13c94f55f",
+          "similarity": 0.548064
+        },
+        {
+          "region_id": "8455bbda37a9bba939b39e0b",
+          "similarity": 0.545121
+        },
+        {
+          "region_id": "0cc6fd5859b12292584977a4",
+          "similarity": 0.542529
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "dbf78b701f8d72b13c94f55f",
+          "family_internal": 38,
+          "similarity": 0.548064,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e6f6106d92366e8fe2b53e8a",
+          "family_internal": 124,
+          "similarity": 0.427975,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "b9ce293ebbba6d4d5fbff708",
+          "family_internal": 14,
+          "similarity": 0.423131,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2b44448c7fca91d9a7b9bd16",
+          "family_internal": 10,
+          "similarity": 0.414383,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "53136634b9e3aecd4132e81d",
+          "family_internal": 35,
+          "similarity": 0.407888,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "e0752734fdcae5407a961cc6",
+      "parent_id": "5c87e208e9280bb1",
+      "family_internal": 38,
+      "machine_family_id": "F0038",
+      "family_key": "r2_family_0038",
+      "family_name": "Pola belum terselesaikan F0038",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/battery_42.jpg",
+      "source_sha256": "dbef04a9ad79c1e9215369df775c4678b14d9896d65f3c544636bd32ae175b7f",
+      "global_community": 13,
+      "global_context_name": "Aki dan baterai kendaraan",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        74.0,
+        33.0,
+        113.0,
+        76.0
+      ],
+      "mask_sha256": "52700bfeac6ce42c3bbe09973a5a9715ff3133388a01aec4ebfd2b1ec99c1118",
+      "area_fraction": 0.04142222,
+      "family_affinity": 0.681885,
+      "neighbors": [
+        {
+          "region_id": "56a3162fa31d41add58a5dbe",
+          "similarity": 0.789857
+        },
+        {
+          "region_id": "38ee000ec5fb813a41140c77",
+          "similarity": 0.756966
+        },
+        {
+          "region_id": "85969d3068a791981a7362b3",
+          "similarity": 0.752083
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "cdffb2a41392d87b549057b6",
+          "family_internal": 38,
+          "similarity": 0.669149,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "da833da2b77099e28cb8029d",
+          "family_internal": 10,
+          "similarity": 0.521996,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2735634d19d280d8a58a1abf",
+          "family_internal": 124,
+          "similarity": 0.489291,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "d4184d2706497b1bcd20aa96",
+          "family_internal": 0,
+          "similarity": 0.487091,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "fbb2539f61ea4afaa53928de",
+          "family_internal": 13,
+          "similarity": 0.464056,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P25",
+    "pair_id": "7de6da111ca0",
+    "left": {
+      "region_id": "108d190189f7aada339a8c16",
+      "parent_id": "db3947165ba372f1",
+      "family_internal": 49,
+      "machine_family_id": "F0049",
+      "family_key": "display_bezel_or_stand",
+      "family_name": "bingkai atau penyangga layar",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/615.jpg",
+      "source_sha256": "98321536d29a1b3d827bc59f007297a6777ac49f20061ab513700ff4dc13734e",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "width": 3496,
+      "height": 3496,
+      "bbox_xyxy": [
+        939.55,
+        2712.13,
+        1838.13,
+        3302.08
+      ],
+      "mask_sha256": "18d07aac78b21d0cf04ddb04482007fc34c82bebfd787da7cc7c9e3e0bed4c65",
+      "area_fraction": 0.0090918,
+      "family_affinity": 0.735352,
+      "neighbors": [
+        {
+          "region_id": "062ad1c702f0a4eae06fc5c6",
+          "similarity": 0.735094
+        },
+        {
+          "region_id": "8cf126c4a3b2f884e3410e69",
+          "similarity": 0.723036
+        },
+        {
+          "region_id": "2b3a7ba88cca10a95bfde2cf",
+          "similarity": 0.717834
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "062ad1c702f0a4eae06fc5c6",
+          "family_internal": 49,
+          "similarity": 0.735094,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e04ed2e5b6508db82f421295",
+          "family_internal": 48,
+          "similarity": 0.514433,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "0042d2c39231468d884fb7b9",
+          "family_internal": 2,
+          "similarity": 0.451837,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "a93f9417f92d0ee50d823d91",
+          "family_internal": 104,
+          "similarity": 0.440342,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3c79e130ea0da07a53ad92d3",
+          "family_internal": 11,
+          "similarity": 0.439266,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "b49e6eaeaf6cb569db914366",
+      "parent_id": "4de5a9e77bdc11fa",
+      "family_internal": 49,
+      "machine_family_id": "F0049",
+      "family_key": "display_bezel_or_stand",
+      "family_name": "bingkai atau penyangga layar",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/40.led-and-lcd-tvs-monitor-scrap-for-sale--160.jpg",
+      "source_sha256": "f8eb6359e717a2717a15710a722aa023438132b93062a9fdcb8f42aeb527ff58",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 500,
+      "height": 500,
+      "bbox_xyxy": [
+        245.0,
+        416.0,
+        381.0,
+        497.0
+      ],
+      "mask_sha256": "31193377b00945a554bcf1b7edef54c4db1093d4694d30906c4f68fd1bd5741b",
+      "area_fraction": 0.01448,
+      "family_affinity": 0.674805,
+      "neighbors": [
+        {
+          "region_id": "0465fe9a33742a60d06f0f0f",
+          "similarity": 0.674979
+        },
+        {
+          "region_id": "8cf126c4a3b2f884e3410e69",
+          "similarity": 0.626202
+        },
+        {
+          "region_id": "bc95b51cdc59cde120bc3ec1",
+          "similarity": 0.539777
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "7bbf56f3f53610f0e13e92f0",
+          "family_internal": 36,
+          "similarity": 0.662348,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "11ec80d0987ef290827bf6ee",
+          "family_internal": 15,
+          "similarity": 0.64305,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "8cf126c4a3b2f884e3410e69",
+          "family_internal": 49,
+          "similarity": 0.626202,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "16708420929a801e02623c59",
+          "family_internal": 56,
+          "similarity": 0.601003,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "b52e4997b2d8f6a963808ac6",
+          "family_internal": 128,
+          "similarity": 0.585457,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P26",
+    "pair_id": "06eeb29a193d",
+    "left": {
+      "region_id": "58947cbe997aa2a69996c611",
+      "parent_id": "0e8da24e5c2dd59b",
+      "family_internal": 5,
+      "machine_family_id": "F0005",
+      "family_key": "key_matrix",
+      "family_name": "matriks tombol",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Keyboard_209.jpg",
+      "source_sha256": "f30ce3ec13df4f9d5a3f9b376c5d9a70e7a64af2697206a3054b8c9c0fa3e201",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        62.0,
+        8.0,
+        147.0,
+        86.0
+      ],
+      "mask_sha256": "18f5f64e86866fa9b01bc8f1ef5e69357ed7e1d69a95b56d454f593bf4c1f705",
+      "area_fraction": 0.25204444,
+      "family_affinity": 0.922363,
+      "neighbors": [
+        {
+          "region_id": "d689098195d91beed7c61a8c",
+          "similarity": 0.951864
+        },
+        {
+          "region_id": "ebeb798b347358e80c909a79",
+          "similarity": 0.948996
+        },
+        {
+          "region_id": "f4c9b5431c9d108267779934",
+          "similarity": 0.932658
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "84c3e8c58e360ce365402224",
+          "family_internal": 5,
+          "similarity": 0.919306,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "9d742f1c51b3f546a1c8eb86",
+          "family_internal": 9,
+          "similarity": 0.829004,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "f1508197945726432bebb5db",
+          "family_internal": 59,
+          "similarity": 0.825072,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "5a93fa4ba681b657a6b8c659",
+          "family_internal": 69,
+          "similarity": 0.798345,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2e1ba4ca4d78ffe50b849339",
+          "family_internal": 90,
+          "similarity": 0.774826,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    },
+    "right": {
+      "region_id": "f71dd80a6d071486a17e2fe7",
+      "parent_id": "116c6eb679532fe3",
+      "family_internal": 5,
+      "machine_family_id": "F0005",
+      "family_key": "key_matrix",
+      "family_name": "matriks tombol",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/IMG-20200329-WA0076.jpg",
+      "source_sha256": "a74a615fc5941a910861fb98b35bbe12dfdc4a5654999a1be53d031942d3747c",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 720,
+      "height": 1280,
+      "bbox_xyxy": [
+        318.0,
+        284.0,
+        567.0,
+        698.0
+      ],
+      "mask_sha256": "f2ce834cdd584bac7028088a461fc57865c4b5d50d74b97a04f67873e0b9dc8b",
+      "area_fraction": 0.07041558,
+      "family_affinity": 0.933105,
+      "neighbors": [
+        {
+          "region_id": "3f45f134bdd0fe28f8319801",
+          "similarity": 0.949793
+        },
+        {
+          "region_id": "5abee751c8886b7c5d38fe43",
+          "similarity": 0.942637
+        },
+        {
+          "region_id": "2613fd4ce14c8acb763414e6",
+          "similarity": 0.936505
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "b35de253d4dd5b75fd130582",
+          "family_internal": 48,
+          "similarity": 0.897684,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "21850620bc71c6a44bde15c7",
+          "family_internal": 5,
+          "similarity": 0.894831,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "f1508197945726432bebb5db",
+          "family_internal": 59,
+          "similarity": 0.856863,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "0b71fa2f7bab31096936c925",
+          "family_internal": 9,
+          "similarity": 0.84308,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "6236055a92aa7c35e1a03f86",
+          "family_internal": 90,
+          "similarity": 0.812814,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P27",
+    "pair_id": "3c6352de5ee5",
+    "left": {
+      "region_id": "6e72a25d694e14804a8f0b57",
+      "parent_id": "0065ea44bcd594b9",
+      "family_internal": 17,
+      "machine_family_id": "F0017",
+      "family_key": "r2_family_0017",
+      "family_name": "Pola belum terselesaikan F0017",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/339.jpeg",
+      "source_sha256": "7705bb6d53795013af8852969e1bdc4e5a9ba05b4f13f61742e969fcb574d772",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 1152,
+      "height": 864,
+      "bbox_xyxy": [
+        588.0,
+        469.0,
+        898.0,
+        662.0
+      ],
+      "mask_sha256": "f07fc05be7c6918f7e175e458d79109f9bf852f86ee0ce02f37cf644d4f9f883",
+      "area_fraction": 0.01677638,
+      "family_affinity": 0.644531,
+      "neighbors": [
+        {
+          "region_id": "2f4ed302a6db89ffa9993cbc",
+          "similarity": 0.855887
+        },
+        {
+          "region_id": "b1797fdeec0257cfd1a690a0",
+          "similarity": 0.689036
+        },
+        {
+          "region_id": "9ea03ef962c592427d24553f",
+          "similarity": 0.656412
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "8993c6b79869b2c1209e0eaa",
+          "family_internal": 17,
+          "similarity": 0.58301,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "94e3e9dcb7dd1aea8499d86b",
+          "family_internal": 48,
+          "similarity": 0.576475,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "0ca024ea187fe820437ebc34",
+          "family_internal": 29,
+          "similarity": 0.530257,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "0465fe9a33742a60d06f0f0f",
+          "family_internal": 49,
+          "similarity": 0.523095,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "def8c8fb626f316d3d795353",
+          "family_internal": 8,
+          "similarity": 0.5,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "f9b573af995ae0be4d5f39db",
+      "parent_id": "c77b609f9f3de57a",
+      "family_internal": 17,
+      "machine_family_id": "F0017",
+      "family_key": "r2_family_0017",
+      "family_name": "Pola belum terselesaikan F0017",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/14.computer-monitors.jpg",
+      "source_sha256": "dead51ae7294d50241d6715a3349153fa9e962b949f7ca0429af105e3e008be0",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 400,
+      "height": 220,
+      "bbox_xyxy": [
+        193.0,
+        118.0,
+        311.0,
+        174.0
+      ],
+      "mask_sha256": "48be68507b0ea9a06fb26b16f8a20b4749c08c5ddd4e2171dc70c6f9e4af9d06",
+      "area_fraction": 0.01579545,
+      "family_affinity": 0.624023,
+      "neighbors": [
+        {
+          "region_id": "5eed4fb17c870df52edb3d78",
+          "similarity": 0.623828
+        },
+        {
+          "region_id": "af68a418a8c3ea0a2ccf9ab2",
+          "similarity": 0.543821
+        },
+        {
+          "region_id": "141905b71e2709ec10dc4507",
+          "similarity": 0.516182
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "10da4d0fcbca60f598defa76",
+          "family_internal": 22,
+          "similarity": 0.629713,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "83aa83e659a502717c1a37b3",
+          "family_internal": 81,
+          "similarity": 0.5875,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "72d07b2102161311ae75403a",
+          "family_internal": 7,
+          "similarity": 0.586344,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e3e23f7755c4cf01ff2a0e73",
+          "family_internal": 122,
+          "similarity": 0.554011,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "a6f2759c4058e4bef966ec04",
+          "family_internal": 14,
+          "similarity": 0.537962,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P28",
+    "pair_id": "ebeda1649e95",
+    "left": {
+      "region_id": "2512f00bd660f5d00eb5b458",
+      "parent_id": "0724acba74e39d24",
+      "family_internal": 8,
+      "machine_family_id": "F0008",
+      "family_key": "r2_family_0008",
+      "family_name": "Pola belum terselesaikan F0008",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/WhatsApp Image 2020-11-01 at 1.27.55 PM.jpeg",
+      "source_sha256": "7b9ee36f9d769e75e949e064dbdb0a38083441de78f87057775595e02db94c1a",
+      "global_community": 14,
+      "global_context_name": "Stopkontak dan sakelar",
+      "width": 720,
+      "height": 1280,
+      "bbox_xyxy": [
+        344.0,
+        929.0,
+        563.0,
+        1275.0
+      ],
+      "mask_sha256": "38a7cd5afed321961f765e96b7c3e494b8decd2502ec443f435a0e2da30ef736",
+      "area_fraction": 0.04823242,
+      "family_affinity": 0.619873,
+      "neighbors": [
+        {
+          "region_id": "9572c50ab5b41dbc1b8aa400",
+          "similarity": 0.686514
+        },
+        {
+          "region_id": "e901d799e16bcdfa7751d9c7",
+          "similarity": 0.63305
+        },
+        {
+          "region_id": "0af65dd0fd24387bc3b8e01a",
+          "similarity": 0.625722
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "9572c50ab5b41dbc1b8aa400",
+          "family_internal": 8,
+          "similarity": 0.686514,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2a3f8226472cf612690e3e1c",
+          "family_internal": 79,
+          "similarity": 0.571277,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "73afd8ca313bc9927f1a036b",
+          "family_internal": 4,
+          "similarity": 0.504468,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "eb95fd2584c48becb5400c01",
+          "family_internal": 50,
+          "similarity": 0.484813,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "bd6bd679a50c8fbadd59d6f9",
+          "family_internal": 73,
+          "similarity": 0.462345,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "a58e28e01ea505236c377ca9",
+      "parent_id": "0c4ba77b2e9d8edc",
+      "family_internal": 8,
+      "machine_family_id": "F0008",
+      "family_key": "r2_family_0008",
+      "family_name": "Pola belum terselesaikan F0008",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Keyboard_124.jpg",
+      "source_sha256": "c734e013f4c152e59b0df2526330d615aecba3fad03b14cd80aee788dabb70aa",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        72.0,
+        109.0,
+        115.0,
+        147.0
+      ],
+      "mask_sha256": "0de9230927b333694ff8fa442a9af123649a5d87f2e6ee29e3e5719d163071b0",
+      "area_fraction": 0.06413333,
+      "family_affinity": 0.630859,
+      "neighbors": [
+        {
+          "region_id": "a5f6a6ecdb910015e143e1fd",
+          "similarity": 0.630718
+        },
+        {
+          "region_id": "8515d74fcfea688c3a9e1328",
+          "similarity": 0.585207
+        },
+        {
+          "region_id": "6609fe58eec93b922bc1b8fc",
+          "similarity": 0.579973
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "33ae8856250800c502a30913",
+          "family_internal": 5,
+          "similarity": 0.671365,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "6bc9a27225cc4315f0798cb7",
+          "family_internal": 123,
+          "similarity": 0.650735,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "a5f6a6ecdb910015e143e1fd",
+          "family_internal": 8,
+          "similarity": 0.630718,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "cccf7161267245f0cc0ba1b0",
+          "family_internal": 18,
+          "similarity": 0.60623,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "bd6bd679a50c8fbadd59d6f9",
+          "family_internal": 73,
+          "similarity": 0.605882,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P29",
+    "pair_id": "b39b8f2be00b",
+    "left": {
+      "region_id": "23b2418c0a0d7a6265631af6",
+      "parent_id": "0c4ba77b2e9d8edc",
+      "family_internal": 5,
+      "machine_family_id": "F0005",
+      "family_key": "key_matrix",
+      "family_name": "matriks tombol",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Keyboard_124.jpg",
+      "source_sha256": "c734e013f4c152e59b0df2526330d615aecba3fad03b14cd80aee788dabb70aa",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        68.0,
+        37.0,
+        115.0,
+        80.0
+      ],
+      "mask_sha256": "5aeb469d53d869edb68e59d45209021d6f15f1f3ab59ee69366194be75cc858e",
+      "area_fraction": 0.06986667,
+      "family_affinity": 0.928955,
+      "neighbors": [
+        {
+          "region_id": "024c577198a1f32fa1b5cd67",
+          "similarity": 0.930362
+        },
+        {
+          "region_id": "b8ebf7822b0f1bfcd607eee6",
+          "similarity": 0.927763
+        },
+        {
+          "region_id": "ebeb798b347358e80c909a79",
+          "similarity": 0.910439
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "b8ebf7822b0f1bfcd607eee6",
+          "family_internal": 5,
+          "similarity": 0.927763,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "9d742f1c51b3f546a1c8eb86",
+          "family_internal": 9,
+          "similarity": 0.810188,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2e1ba4ca4d78ffe50b849339",
+          "family_internal": 90,
+          "similarity": 0.802829,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "f1508197945726432bebb5db",
+          "family_internal": 59,
+          "similarity": 0.772943,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "5a93fa4ba681b657a6b8c659",
+          "family_internal": 69,
+          "similarity": 0.763319,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "f71dd80a6d071486a17e2fe7",
+      "parent_id": "116c6eb679532fe3",
+      "family_internal": 5,
+      "machine_family_id": "F0005",
+      "family_key": "key_matrix",
+      "family_name": "matriks tombol",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/IMG-20200329-WA0076.jpg",
+      "source_sha256": "a74a615fc5941a910861fb98b35bbe12dfdc4a5654999a1be53d031942d3747c",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 720,
+      "height": 1280,
+      "bbox_xyxy": [
+        318.0,
+        284.0,
+        567.0,
+        698.0
+      ],
+      "mask_sha256": "f2ce834cdd584bac7028088a461fc57865c4b5d50d74b97a04f67873e0b9dc8b",
+      "area_fraction": 0.07041558,
+      "family_affinity": 0.933105,
+      "neighbors": [
+        {
+          "region_id": "3f45f134bdd0fe28f8319801",
+          "similarity": 0.949793
+        },
+        {
+          "region_id": "5abee751c8886b7c5d38fe43",
+          "similarity": 0.942637
+        },
+        {
+          "region_id": "2613fd4ce14c8acb763414e6",
+          "similarity": 0.936505
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "b35de253d4dd5b75fd130582",
+          "family_internal": 48,
+          "similarity": 0.897684,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "21850620bc71c6a44bde15c7",
+          "family_internal": 5,
+          "similarity": 0.894831,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "f1508197945726432bebb5db",
+          "family_internal": 59,
+          "similarity": 0.856863,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "0b71fa2f7bab31096936c925",
+          "family_internal": 9,
+          "similarity": 0.84308,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "6236055a92aa7c35e1a03f86",
+          "family_internal": 90,
+          "similarity": 0.812814,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P30",
+    "pair_id": "7539faa53753",
+    "left": {
+      "region_id": "108d190189f7aada339a8c16",
+      "parent_id": "db3947165ba372f1",
+      "family_internal": 49,
+      "machine_family_id": "F0049",
+      "family_key": "display_bezel_or_stand",
+      "family_name": "bingkai atau penyangga layar",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/615.jpg",
+      "source_sha256": "98321536d29a1b3d827bc59f007297a6777ac49f20061ab513700ff4dc13734e",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "width": 3496,
+      "height": 3496,
+      "bbox_xyxy": [
+        939.55,
+        2712.13,
+        1838.13,
+        3302.08
+      ],
+      "mask_sha256": "18d07aac78b21d0cf04ddb04482007fc34c82bebfd787da7cc7c9e3e0bed4c65",
+      "area_fraction": 0.0090918,
+      "family_affinity": 0.735352,
+      "neighbors": [
+        {
+          "region_id": "062ad1c702f0a4eae06fc5c6",
+          "similarity": 0.735094
+        },
+        {
+          "region_id": "8cf126c4a3b2f884e3410e69",
+          "similarity": 0.723036
+        },
+        {
+          "region_id": "2b3a7ba88cca10a95bfde2cf",
+          "similarity": 0.717834
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "062ad1c702f0a4eae06fc5c6",
+          "family_internal": 49,
+          "similarity": 0.735094,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e04ed2e5b6508db82f421295",
+          "family_internal": 48,
+          "similarity": 0.514433,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "0042d2c39231468d884fb7b9",
+          "family_internal": 2,
+          "similarity": 0.451837,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "a93f9417f92d0ee50d823d91",
+          "family_internal": 104,
+          "similarity": 0.440342,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "3c79e130ea0da07a53ad92d3",
+          "family_internal": 11,
+          "similarity": 0.439266,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "c5e049f8eb6e31d4481bb8c9",
+      "parent_id": "0065ea44bcd594b9",
+      "family_internal": 49,
+      "machine_family_id": "F0049",
+      "family_key": "display_bezel_or_stand",
+      "family_name": "bingkai atau penyangga layar",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": true,
+      "source_relative_path": "1_Electronic/339.jpeg",
+      "source_sha256": "7705bb6d53795013af8852969e1bdc4e5a9ba05b4f13f61742e969fcb574d772",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 1152,
+      "height": 864,
+      "bbox_xyxy": [
+        381.0,
+        439.0,
+        626.0,
+        662.0
+      ],
+      "mask_sha256": "5fff1e7f1fec068e409142057690ea2017a92c2139808af1054ae90009dfa2e4",
+      "area_fraction": 0.02958723,
+      "family_affinity": 0.810547,
+      "neighbors": [
+        {
+          "region_id": "2b3a7ba88cca10a95bfde2cf",
+          "similarity": 0.933372
+        },
+        {
+          "region_id": "3cbc25325a0ed6a03b8437f0",
+          "similarity": 0.927155
+        },
+        {
+          "region_id": "5edc1b70d9692bfaa2b36ca5",
+          "similarity": 0.895356
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "0465fe9a33742a60d06f0f0f",
+          "family_internal": 49,
+          "similarity": 0.775846,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "877e9ad2667895a2e9f5c473",
+          "family_internal": 15,
+          "similarity": 0.773194,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e04ed2e5b6508db82f421295",
+          "family_internal": 48,
+          "similarity": 0.63985,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "0042d2c39231468d884fb7b9",
+          "family_internal": 2,
+          "similarity": 0.600032,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "a1fc6f248c920a811dbb8f7c",
+          "family_internal": 72,
+          "similarity": 0.548585,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P31",
+    "pair_id": "36a3e1de1c5e",
+    "left": {
+      "region_id": "467b66fa4b592a426ffd6fd4",
+      "parent_id": "58f124be36cddd15",
+      "family_internal": 48,
+      "machine_family_id": "F0048",
+      "family_key": "key_matrix",
+      "family_name": "matriks tombol",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/3.jpeg",
+      "source_sha256": "bb65ea31e17ff8a87288e49cd92f59d2e7eb8bfd0d980c45a5ea330410672bde",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 1040,
+      "height": 780,
+      "bbox_xyxy": [
+        229.0,
+        372.0,
+        567.0,
+        599.0
+      ],
+      "mask_sha256": "caa0895437a2f798e53acdf38ceb30a18c014c95369f47141fdf2ddd11d8431c",
+      "area_fraction": 0.05853057,
+      "family_affinity": 0.766602,
+      "neighbors": [
+        {
+          "region_id": "a7b71efcf23f1309dc8d1320",
+          "similarity": 0.791976
+        },
+        {
+          "region_id": "d0422adf94c58dd11f7417df",
+          "similarity": 0.767216
+        },
+        {
+          "region_id": "5ac34ed0a34fd8be3b08ab69",
+          "similarity": 0.766265
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "50c898e0f76b81f10bc45b16",
+          "family_internal": 5,
+          "similarity": 0.784363,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "1bac01f05ef5c60212545795",
+          "family_internal": 9,
+          "similarity": 0.781396,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "d0422adf94c58dd11f7417df",
+          "family_internal": 48,
+          "similarity": 0.767216,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "5a93fa4ba681b657a6b8c659",
+          "family_internal": 69,
+          "similarity": 0.733606,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "e84348dfd482f72811b38112",
+          "family_internal": 85,
+          "similarity": 0.6885,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "d23bef49263c329c3a0168d9",
+      "parent_id": "0e8da24e5c2dd59b",
+      "family_internal": 48,
+      "machine_family_id": "F0048",
+      "family_key": "key_matrix",
+      "family_name": "matriks tombol",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Keyboard_209.jpg",
+      "source_sha256": "f30ce3ec13df4f9d5a3f9b376c5d9a70e7a64af2697206a3054b8c9c0fa3e201",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        2.0,
+        67.0,
+        79.0,
+        143.0
+      ],
+      "mask_sha256": "bf7705f8b891742f0e6da71738f5ef65d90c36da06306d08b671cbec20686339",
+      "area_fraction": 0.1316,
+      "family_affinity": 0.837402,
+      "neighbors": [
+        {
+          "region_id": "080f626365fdecc14cbdf99b",
+          "similarity": 0.880265
+        },
+        {
+          "region_id": "628760e3fc9af409f38f0774",
+          "similarity": 0.864283
+        },
+        {
+          "region_id": "4b5aa23bcf22553b6f662c19",
+          "similarity": 0.842259
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "9bfeb9a3bd9c3ba99fb29050",
+          "family_internal": 5,
+          "similarity": 0.773305,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "a7b71efcf23f1309dc8d1320",
+          "family_internal": 48,
+          "similarity": 0.746684,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "d1e39a713e484cbc9e864338",
+          "family_internal": 69,
+          "similarity": 0.745075,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "b19435f8b6b0cf9004c1d3e0",
+          "family_internal": 123,
+          "similarity": 0.727642,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "571ca5de7fc8f3836a13943a",
+          "family_internal": 97,
+          "similarity": 0.684896,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P32",
+    "pair_id": "90c1c7559cdc",
+    "left": {
+      "region_id": "8c9f57113b4bf2c3497f7a1e",
+      "parent_id": "f1a356d582026c24",
+      "family_internal": 18,
+      "machine_family_id": "F0018",
+      "family_key": "r2_family_0018",
+      "family_name": "Pola belum terselesaikan F0018",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Printer_148.jpg",
+      "source_sha256": "e8179cfcd1a4f0fe140c687d6a766e5f69f0ff5f39363ca24e422d6145717e4d",
+      "global_community": 5,
+      "global_context_name": "Pencetak",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        30.0,
+        72.0,
+        81.0,
+        119.0
+      ],
+      "mask_sha256": "d95dc29e0ee7368670323173e496950264ee574ed619d25d7567fe242ca5d9df",
+      "area_fraction": 0.05631111,
+      "family_affinity": 0.619629,
+      "neighbors": [
+        {
+          "region_id": "e5b26848db9ee34bda7601fa",
+          "similarity": 0.619776
+        },
+        {
+          "region_id": "9a144baa8d60709dec3fbacd",
+          "similarity": 0.535534
+        },
+        {
+          "region_id": "e4bc4d6e7e2634d839459751",
+          "similarity": 0.50136
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "9a144baa8d60709dec3fbacd",
+          "family_internal": 18,
+          "similarity": 0.535534,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "b418bbe015fd47956acadda4",
+          "family_internal": 48,
+          "similarity": 0.529644,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "cb596e76ec0fe3cb8c3391dd",
+          "family_internal": 37,
+          "similarity": 0.52334,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "081584f21f543c160cc63808",
+          "family_internal": 4,
+          "similarity": 0.512285,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "eb2fa121e530bde82ef41e2e",
+          "family_internal": 43,
+          "similarity": 0.505541,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    },
+    "right": {
+      "region_id": "9a144baa8d60709dec3fbacd",
+      "parent_id": "0c4ba77b2e9d8edc",
+      "family_internal": 18,
+      "machine_family_id": "F0018",
+      "family_key": "r2_family_0018",
+      "family_name": "Pola belum terselesaikan F0018",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Keyboard_124.jpg",
+      "source_sha256": "c734e013f4c152e59b0df2526330d615aecba3fad03b14cd80aee788dabb70aa",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        36.0,
+        110.0,
+        80.0,
+        147.0
+      ],
+      "mask_sha256": "5668490fb91edb7f342c59f749c58db9230ff5d8757d71d5fd90811311e0291c",
+      "area_fraction": 0.0624,
+      "family_affinity": 0.623047,
+      "neighbors": [
+        {
+          "region_id": "cccf7161267245f0cc0ba1b0",
+          "similarity": 0.623181
+        },
+        {
+          "region_id": "f31e78c282050e1d7329a265",
+          "similarity": 0.622773
+        },
+        {
+          "region_id": "be8555c0a9d5e75e1553b9da",
+          "similarity": 0.558639
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "6609fe58eec93b922bc1b8fc",
+          "family_internal": 8,
+          "similarity": 0.638688,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "33ae8856250800c502a30913",
+          "family_internal": 5,
+          "similarity": 0.638273,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "b87ae368d92bd10d92d6d148",
+          "family_internal": 12,
+          "similarity": 0.637127,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "cccf7161267245f0cc0ba1b0",
+          "family_internal": 18,
+          "similarity": 0.623181,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "6bc9a27225cc4315f0798cb7",
+          "family_internal": 123,
+          "similarity": 0.618432,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P33",
+    "pair_id": "a97ec212eec7",
+    "left": {
+      "region_id": "3c00af227208f7a3e167b7ba",
+      "parent_id": "94c35b81b52b14ea",
+      "family_internal": 44,
+      "machine_family_id": "F0044",
+      "family_key": "turntable_record_area",
+      "family_name": "area piringan pemutar rekaman",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Printer_223.jpg",
+      "source_sha256": "e144163101b282ba0aa37fb99df1970b27683c755d5e0ca5958ccf21555dc570",
+      "global_community": 5,
+      "global_context_name": "Pencetak",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        73.0,
+        4.0,
+        145.0,
+        79.0
+      ],
+      "mask_sha256": "e9da18f2c13b85cef8db00acd03b6724b3317f0b2fa747bd1637ef9197731ef3",
+      "area_fraction": 0.09088889,
+      "family_affinity": 0.575684,
+      "neighbors": [
+        {
+          "region_id": "4319e44083bf44fc1292732b",
+          "similarity": 0.576021
+        },
+        {
+          "region_id": "aa3a2fcbee659faa04751513",
+          "similarity": 0.521158
+        },
+        {
+          "region_id": "e1ef7efa6d94e5f7fc6a0d1b",
+          "similarity": 0.507721
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "11006642b6ecf5af1c13f016",
+          "family_internal": 7,
+          "similarity": 0.591351,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "4319e44083bf44fc1292732b",
+          "family_internal": 44,
+          "similarity": 0.576021,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "99a9b863d9fbeaa9b631612a",
+          "family_internal": 17,
+          "similarity": 0.543029,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e8656b6eaa8df89abd77da15",
+          "family_internal": 28,
+          "similarity": 0.533971,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "8fd17b39264ed6dc51a20c78",
+          "family_internal": 40,
+          "similarity": 0.533576,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "43585a9de8f614f6099f4aac",
+      "parent_id": "786e96f425c8ab03",
+      "family_internal": 44,
+      "machine_family_id": "F0044",
+      "family_key": "turntable_record_area",
+      "family_name": "area piringan pemutar rekaman",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": true,
+      "source_relative_path": "1_Electronic/14.2728905_20190122100223.jpg",
+      "source_sha256": "5a4838f06091ea0a45a18c77295b084bfeaaa706daeb0128e55c3ae416008138",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 640,
+      "height": 480,
+      "bbox_xyxy": [
+        307.0,
+        102.0,
+        486.0,
+        243.0
+      ],
+      "mask_sha256": "273b0208e725e1ce1a45d8bd442f287e97248662acf387db29e5f2e65019f9f6",
+      "area_fraction": 0.05626302,
+      "family_affinity": 0.640137,
+      "neighbors": [
+        {
+          "region_id": "aa3a2fcbee659faa04751513",
+          "similarity": 0.66176
+        },
+        {
+          "region_id": "9b29147af9cf3cf78850adbe",
+          "similarity": 0.618678
+        },
+        {
+          "region_id": "6e230a309122c7d82c7e093c",
+          "similarity": 0.596813
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "aa3a2fcbee659faa04751513",
+          "family_internal": 44,
+          "similarity": 0.66176,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "365eb78552f0287accba7d51",
+          "family_internal": 39,
+          "similarity": 0.646561,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "74ed078f00e77ede1f5ca9b7",
+          "family_internal": 37,
+          "similarity": 0.627295,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "dc517321a80050779255bd03",
+          "family_internal": 2,
+          "similarity": 0.617504,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "72ae0d67584d828e0ec10aac",
+          "family_internal": 31,
+          "similarity": 0.614526,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P34",
+    "pair_id": "e6ce689898a5",
+    "left": {
+      "region_id": "b7f8f0a25c9da21bd3ba7653",
+      "parent_id": "133b20f92c15d5c8",
+      "family_internal": 26,
+      "machine_family_id": "F0026",
+      "family_key": "handheld_back_casing",
+      "family_name": "casing belakang perangkat genggam",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/IMG-20200328-WA0045.jpg",
+      "source_sha256": "2099bd4eb09cd16e6f24bea998b3e2351c2018b29407c76c129210843b24fe2c",
+      "global_community": 1,
+      "global_context_name": "Ponsel",
+      "width": 640,
+      "height": 1280,
+      "bbox_xyxy": [
+        132.0,
+        615.0,
+        348.0,
+        1005.0
+      ],
+      "mask_sha256": "327b968846fc6c27a7b9835965a48335e3896976390948f792717f33fb13bc5a",
+      "area_fraction": 0.03367676,
+      "family_affinity": 0.690918,
+      "neighbors": [
+        {
+          "region_id": "285594e62d94c43d693b3096",
+          "similarity": 0.783431
+        },
+        {
+          "region_id": "51636c6d4669e32fb9a8e6e6",
+          "similarity": 0.691027
+        },
+        {
+          "region_id": "3391ee4e716f53e1ff65ddb3",
+          "similarity": 0.654181
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "285594e62d94c43d693b3096",
+          "family_internal": 26,
+          "similarity": 0.783431,
+          "same_family": true,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "7de760d7111cfb26e1b7f9d4",
+          "family_internal": 1,
+          "similarity": 0.68791,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "484bdab0ab7dc3ef4ccb648b",
+          "family_internal": 80,
+          "similarity": 0.561254,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "beb5426f4a7bc76aac1d5041",
+          "family_internal": 39,
+          "similarity": 0.557329,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "23d03aa49fea6c7c51056585",
+          "family_internal": 11,
+          "similarity": 0.553637,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "ca69172b413b9bb2999f0377",
+      "parent_id": "d5dcb96967922df1",
+      "family_internal": 26,
+      "machine_family_id": "F0026",
+      "family_key": "handheld_back_casing",
+      "family_name": "casing belakang perangkat genggam",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Microwave_98.jpg",
+      "source_sha256": "1345cc58ec0189c386534db6d812d02b50902bf4db7cced8c570692eec11b090",
+      "global_community": 12,
+      "global_context_name": "Baterai perangkat portabel",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        35.0,
+        70.0,
+        77.0,
+        112.0
+      ],
+      "mask_sha256": "e3f0ca1e60aad5800d2c0198a3d5427d419739183dc137c730075ef848fb960e",
+      "area_fraction": 0.05377778,
+      "family_affinity": 0.665039,
+      "neighbors": [
+        {
+          "region_id": "96f3810abdfe21afe4baf49d",
+          "similarity": 0.673332
+        },
+        {
+          "region_id": "318f2a27db32420069a507ee",
+          "similarity": 0.657015
+        },
+        {
+          "region_id": "8445e00ece0d914d92c1b536",
+          "similarity": 0.631127
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "0b3178005b1970b6457d7c68",
+          "family_internal": 10,
+          "similarity": 0.731249,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "96f3810abdfe21afe4baf49d",
+          "family_internal": 26,
+          "similarity": 0.673332,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "a623b2fcb9fb16be40b27102",
+          "family_internal": 28,
+          "similarity": 0.645315,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "bbf5060c5868747b1e995bcf",
+          "family_internal": 31,
+          "similarity": 0.64465,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "49104f97142e571bf9d9b379",
+          "family_internal": 18,
+          "similarity": 0.607505,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P35",
+    "pair_id": "2bde702bcb61",
+    "left": {
+      "region_id": "2512f00bd660f5d00eb5b458",
+      "parent_id": "0724acba74e39d24",
+      "family_internal": 8,
+      "machine_family_id": "F0008",
+      "family_key": "r2_family_0008",
+      "family_name": "Pola belum terselesaikan F0008",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/WhatsApp Image 2020-11-01 at 1.27.55 PM.jpeg",
+      "source_sha256": "7b9ee36f9d769e75e949e064dbdb0a38083441de78f87057775595e02db94c1a",
+      "global_community": 14,
+      "global_context_name": "Stopkontak dan sakelar",
+      "width": 720,
+      "height": 1280,
+      "bbox_xyxy": [
+        344.0,
+        929.0,
+        563.0,
+        1275.0
+      ],
+      "mask_sha256": "38a7cd5afed321961f765e96b7c3e494b8decd2502ec443f435a0e2da30ef736",
+      "area_fraction": 0.04823242,
+      "family_affinity": 0.619873,
+      "neighbors": [
+        {
+          "region_id": "9572c50ab5b41dbc1b8aa400",
+          "similarity": 0.686514
+        },
+        {
+          "region_id": "e901d799e16bcdfa7751d9c7",
+          "similarity": 0.63305
+        },
+        {
+          "region_id": "0af65dd0fd24387bc3b8e01a",
+          "similarity": 0.625722
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "9572c50ab5b41dbc1b8aa400",
+          "family_internal": 8,
+          "similarity": 0.686514,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2a3f8226472cf612690e3e1c",
+          "family_internal": 79,
+          "similarity": 0.571277,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "73afd8ca313bc9927f1a036b",
+          "family_internal": 4,
+          "similarity": 0.504468,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "eb95fd2584c48becb5400c01",
+          "family_internal": 50,
+          "similarity": 0.484813,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "bd6bd679a50c8fbadd59d6f9",
+          "family_internal": 73,
+          "similarity": 0.462345,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "efb2c24c182f82ca5f043331",
+      "parent_id": "0ebc1bde48d57d8d",
+      "family_internal": 8,
+      "machine_family_id": "F0008",
+      "family_key": "r2_family_0008",
+      "family_name": "Pola belum terselesaikan F0008",
+      "scientific_role": "not_retained",
+      "r3_decision": "rejected_visual_review",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/45.clock-1495963_1280.jpg",
+      "source_sha256": "1f78ef592ce27affafb4b412a59ebfd07ded6ef12dce9612896d1eed81a2ed2d",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 1280,
+      "height": 720,
+      "bbox_xyxy": [
+        595.0,
+        522.0,
+        968.0,
+        718.0
+      ],
+      "mask_sha256": "40a7ed37d4eae33a8aabaddb6c3db49d56fc94627216ed66f6747d3d0dae7828",
+      "area_fraction": 0.05044162,
+      "family_affinity": 0.647705,
+      "neighbors": [
+        {
+          "region_id": "0eb8a8761d6d362b054e85b7",
+          "similarity": 0.738312
+        },
+        {
+          "region_id": "f8b07bdd45430f8153bf2330",
+          "similarity": 0.662316
+        },
+        {
+          "region_id": "71a2d65a908fb57fa2d7af8c",
+          "similarity": 0.660285
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "0eb8a8761d6d362b054e85b7",
+          "family_internal": 8,
+          "similarity": 0.738312,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "588546aa85852dddd68abae3",
+          "family_internal": 4,
+          "similarity": 0.551196,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e9351ab4f8c39cff4f002e1d",
+          "family_internal": 12,
+          "similarity": 0.491266,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2a3f8226472cf612690e3e1c",
+          "family_internal": 79,
+          "similarity": 0.462045,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "1bede361b0f828ee2d5b533a",
+          "family_internal": 58,
+          "similarity": 0.422052,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P36",
+    "pair_id": "b5ca5266c8fd",
+    "left": {
+      "region_id": "021b3a6a9e5dd68272109df7",
+      "parent_id": "9778e2c6d876749b",
+      "family_internal": 39,
+      "machine_family_id": "F0039",
+      "family_key": "laptop_display_assembly",
+      "family_name": "rakitan layar laptop",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/68.kiel-germany-november-22-2018-260nw-1511680658.jpg",
+      "source_sha256": "0c6d7a64095092561f09f7686f15c684cbfdf61527ca1978d0ba6288ab78bea1",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 390,
+      "height": 280,
+      "bbox_xyxy": [
+        21.0,
+        64.0,
+        106.0,
+        154.0
+      ],
+      "mask_sha256": "a8df9bab090fa1c7645fad46aba3f9fc0b4ca09d75b3381b47780c4e512bf2b8",
+      "area_fraction": 0.03844322,
+      "family_affinity": 0.721191,
+      "neighbors": [
+        {
+          "region_id": "7b29d15366207b5d5022db40",
+          "similarity": 0.766024
+        },
+        {
+          "region_id": "b7b126a844792c58e8b68c1c",
+          "similarity": 0.708026
+        },
+        {
+          "region_id": "365eb78552f0287accba7d51",
+          "similarity": 0.70179
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "9f9a5e6b12808fd2712c4b76",
+          "family_internal": 11,
+          "similarity": 0.711911,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "365eb78552f0287accba7d51",
+          "family_internal": 39,
+          "similarity": 0.70179,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "77227352120e8aca05143a1f",
+          "family_internal": 36,
+          "similarity": 0.669846,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "24fa6a71853b63acbcf7e6ab",
+          "family_internal": 14,
+          "similarity": 0.629363,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e5e93b61f024d0f3962e5a74",
+          "family_internal": 1,
+          "similarity": 0.619254,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    "right": {
+      "region_id": "55550729c17e2469b0f0d6e1",
+      "parent_id": "41819bf4c59c9e54",
+      "family_internal": 39,
+      "machine_family_id": "F0039",
+      "family_key": "laptop_display_assembly",
+      "family_name": "rakitan layar laptop",
+      "scientific_role": "within_product_configuration_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/188.jpeg",
+      "source_sha256": "cc15cdc830b0831c444b4b56578de625d23b43f35d7f1a9b672b613264a254e0",
+      "global_community": 11,
+      "global_context_name": "Laptop",
+      "width": 1280,
+      "height": 721,
+      "bbox_xyxy": [
+        298.0,
+        4.0,
+        622.0,
+        212.0
+      ],
+      "mask_sha256": "f9bc1d097fb01dffb99be89bef19b68d9e2f6a9112d0a5f418a3696fda39f45c",
+      "area_fraction": 0.04855127,
+      "family_affinity": 0.785645,
+      "neighbors": [
+        {
+          "region_id": "eca1ae3eb861e1fd1e961b24",
+          "similarity": 0.856045
+        },
+        {
+          "region_id": "0f39f22a508a9d5ec0aff4d1",
+          "similarity": 0.796719
+        },
+        {
+          "region_id": "beb5426f4a7bc76aac1d5041",
+          "similarity": 0.785637
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "2656b58028b7bd465956e0ef",
+          "family_internal": 39,
+          "similarity": 0.755613,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "1094b3a5729baf098b93ebdf",
+          "family_internal": 1,
+          "similarity": 0.750725,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "200768aff59abede2b0aef43",
+          "family_internal": 52,
+          "similarity": 0.706366,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "afa629bb708ac1b330008355",
+          "family_internal": 11,
+          "similarity": 0.697861,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "42f4a483f84e7c06c872df5a",
+          "family_internal": 27,
+          "similarity": 0.6751,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "P37",
+    "pair_id": "ed118de500be",
+    "left": {
+      "region_id": "04c7acab1203cfb0f5ec2cc9",
+      "parent_id": "0e8da24e5c2dd59b",
+      "family_internal": 9,
+      "machine_family_id": "F0009",
+      "family_key": "key_matrix",
+      "family_name": "matriks tombol",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/Keyboard_209.jpg",
+      "source_sha256": "f30ce3ec13df4f9d5a3f9b376c5d9a70e7a64af2697206a3054b8c9c0fa3e201",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "width": 150,
+      "height": 150,
+      "bbox_xyxy": [
+        110.0,
+        34.0,
+        147.0,
+        82.0
+      ],
+      "mask_sha256": "5df0dd052571b2caf9d53a905d31f885650f76c7c750244a05865e0eee60d9bc",
+      "area_fraction": 0.05684444,
+      "family_affinity": 0.92627,
+      "neighbors": [
+        {
+          "region_id": "d201400a1aa9ae78a0de5387",
+          "similarity": 0.939394
+        },
+        {
+          "region_id": "77a58390a424b1cf2cc83b98",
+          "similarity": 0.928586
+        },
+        {
+          "region_id": "2f400e21ac3910e58b4cf535",
+          "similarity": 0.928028
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "4ba142d44f233f6b87ee3bca",
+          "family_internal": 5,
+          "similarity": 0.912757,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "571ca5de7fc8f3836a13943a",
+          "family_internal": 97,
+          "similarity": 0.817602,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "9d742f1c51b3f546a1c8eb86",
+          "family_internal": 9,
+          "similarity": 0.792928,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "f1508197945726432bebb5db",
+          "family_internal": 59,
+          "similarity": 0.786847,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2e1ba4ca4d78ffe50b849339",
+          "family_internal": 90,
+          "similarity": 0.745539,
+          "same_family": false,
+          "cross_context_priority": false
+        }
+      ]
+    },
+    "right": {
+      "region_id": "92d118f6f6ad7b6a1e746093",
+      "parent_id": "58f124be36cddd15",
+      "family_internal": 9,
+      "machine_family_id": "F0009",
+      "family_key": "key_matrix",
+      "family_name": "matriks tombol",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": true,
+      "source_relative_path": "1_Electronic/3.jpeg",
+      "source_sha256": "bb65ea31e17ff8a87288e49cd92f59d2e7eb8bfd0d980c45a5ea330410672bde",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "width": 1040,
+      "height": 780,
+      "bbox_xyxy": [
+        460.0,
+        166.0,
+        830.0,
+        417.0
+      ],
+      "mask_sha256": "04bad47e32be88cc70e94f02f3437869b7979c999652de1f5c3fada13f7b03d8",
+      "area_fraction": 0.08244453,
+      "family_affinity": 0.864014,
+      "neighbors": [
+        {
+          "region_id": "ba114ef2a170dcf1f7a84208",
+          "similarity": 0.874315
+        },
+        {
+          "region_id": "d3b57cc62d8990bc4dbbdca0",
+          "similarity": 0.866848
+        },
+        {
+          "region_id": "758fe940943bd04338aa2047",
+          "similarity": 0.866391
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "ba114ef2a170dcf1f7a84208",
+          "family_internal": 9,
+          "similarity": 0.874315,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "792330e898b24d1e82118a41",
+          "family_internal": 5,
+          "similarity": 0.829081,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "0682474141d4f4f8332cac56",
+          "family_internal": 27,
+          "similarity": 0.784381,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2e1ba4ca4d78ffe50b849339",
+          "family_internal": 90,
+          "similarity": 0.770749,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "e84348dfd482f72811b38112",
+          "family_internal": 85,
+          "similarity": 0.719365,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  }
+]

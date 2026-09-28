@@ -1,0 +1,20 @@
+{
+  "review_id": "P05",
+  "pair_id": "eae5bb8a14d0",
+  "selection_reason": "Both original BDC images show photographed surroundings and visible branching screen cracks; replaces a composited laptop example. Image provenance is preserved; no causal damage claim.",
+  "claim_scope": "Visible cross-device condition; no material, function or damage-cause inference",
+  "query": {
+    "region_id": "088dc1dcda358a90159624ee",
+    "parent_id": "c1f23791c7e4feb3",
+    "source_relative_path": "1_Electronic/5.sddefault.jpg",
+    "source_sha256": "2a1ead5e608f2b690f5c1b8a76ea55ea2ab81ff5b2ced7e3a7d156cce6412428",
+    "mask_sha256": "dd1728e48b124d7faecd30232a7ad5c05bf517d73806a80b7632087fd5990fba"
+  },
+  "candidate": {
+    "region_id": "0ceb2dfc46cc4b56343a8180",
+    "parent_id": "34b799173faf6c17",
+    "source_relative_path": "1_Electronic/Mobile_208.jpg",
+    "source_sha256": "6fcdbaaebd65cffdd58bde54c5822a31201506cb182290c21fa58199c8035f02",
+    "mask_sha256": "2ff4919c5caff1149380d7a4ad3cab070e1ed810d5c29c9dd3151ba54b6d7c1f"
+  }
+}

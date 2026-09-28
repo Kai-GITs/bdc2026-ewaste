@@ -1,0 +1,38 @@
+review_id,decision,observation,qualification
+P01,supported,Permukaan layar gelap pada dua monitor,Kesamaan umum layar; fungsi perangkat tidak diketahui
+P02,rejected,Label alat dipasangkan dengan penjepit logam,Tidak menunjukkan bagian yang sama
+P03,ambiguous,Tepi monitor dipasangkan dengan panel belakang layar terbuka,Mask pertama didominasi bingkai dan mask kedua bidang panel; bagian homolog belum jelas
+P04,supported,Panel luar laptop tertutup dan bagian bawah laptop pada tumpukan,Sisi casing berbeda; dukungan hanya pada tingkat panel luar
+P05,supported,Pola retak bercabang pada televisi dan layar genggam,Kedua citra memuat konteks pemotretan; sebab kerusakan dan kedalaman retak tidak diketahui
+P06,supported,Permukaan layar gelap pada monitor terisolasi dan monitor di meja,Kesamaan umum layar
+P07,ambiguous,Fragmen tepi putih tumpukan monitor dan alas monitor,Identitas struktur putih pada tumpukan tidak cukup jelas
+P08,rejected,Rangkaian papan dengan beberapa komponen dipasangkan dengan bingkai monitor,Tidak menunjukkan korespondensi bagian
+P09,supported,Pola retak layar televisi dan laptop,Citra laptop berupa komposisi produk; tidak menetapkan kejadian kerusakan lapangan
+P10,supported,Konten berwarna pada layar laptop dan televisi,Dukungan berupa tampilan citra; bukan bukti fungsi atau isi yang sama
+P11,supported,Matriks tombol pada dua papan ketik,Produk sama dengan orientasi berbeda; contoh kiri beresolusi rendah
+P12,ambiguous,Label badan sel dipasangkan dengan region sel dan muka jam,Mask campuran mencakup bagian tidak relevan
+P13,rejected,Bola kendali tetikus dan area kendali pencetak,Bentuk membulat tidak menunjukkan komponen sama
+P14,supported,Panel luar terang pada mesin cuci dan pencetak,Kesamaan permukaan umum lintas produk; tidak menunjukkan material atau fungsi identik
+P15,ambiguous,Badan sel silindris dipasangkan dengan region sel dan muka jam,Mask kedua bercampur; kemiripan sel tidak cukup untuk seluruh region
+P16,ambiguous,Panel luar pencetak dan fragmen tepi mesin cuci,Region tepi terlalu sempit dan mencakup latar; homolog bagian tidak jelas
+P17,ambiguous,Tepi layar laptop gelap dan pola retak laptop,Persamaan posisi layar tidak cukup untuk menyamakan kondisi permukaan
+P18,rejected,Pantulan permukaan layar dan fragmen tumpukan perangkat,Tidak terlihat hubungan bagian yang sama
+P19,supported,Sandaran tangan laptop dalam foto dan komposisi produk,Area yang sesuai tetapi salah satu sumber komposisi produk
+P20,supported,Permukaan layar gelap pada monitor dan laptop,Persamaan panel layar lintas perangkat; pantulan tidak menunjukkan kondisi fungsi
+P21,ambiguous,Permukaan papan rangkaian dan alas penjepit berpola sirkuit,Kesetaraan rakitan elektronik tidak terbukti pada alas penjepit
+P22,rejected,Bidang gelap di bawah papan ketik dan panel monitor,Warna gelap tidak membuktikan komponen sama
+P23,ambiguous,Region mencampur tombol dan sandaran papan ketik,Batas mask tidak mengisolasi bagian homolog
+P24,ambiguous,Bagian berwarna tembaga pada sel dan mask campuran sel dengan muka jam,Mask campuran tetap tidak koheren
+P25,ambiguous,Kaki monitor dan fragmen tepi putih pada tumpukan,Identitas penyangga pada tumpukan belum jelas
+P26,supported,Matriks tombol pada papan ketik ergonomis dan papan ketik biasa,Persamaan susunan tombol pada produk sejenis; bukan struktur langka
+P27,rejected,Kabel di meja dan permukaan rak di antara monitor,Tidak menunjukkan bagian yang sama
+P28,rejected,Tekstur dinding dan bidang gelap di bawah papan ketik,Pola latar tidak mendukung hubungan komponen
+P29,supported,Deret tombol pada papan ketik berlampu dan papan ketik biasa,Persamaan bentuk tombol; resolusi foto kiri rendah
+P30,supported,Penyangga monitor pada produk terisolasi dan monitor di meja,Bentuk batang dan alas berbeda tetapi konteks penuh mendukung bagian penyangga
+P31,ambiguous,Sandaran tangan papan ketik dan mask campuran tombol serta sandaran,Mask tidak mengisolasi bagian yang sama secara konsisten
+P32,rejected,Area keluaran pencetak dan bidang gelap di bawah papan ketik,Kemiripan warna tidak menunjukkan korespondensi bagian
+P33,rejected,Penutup pencetak dan bagian belakang panel layar laptop,Tidak menunjukkan hubungan komponen yang cukup spesifik
+P34,rejected,Fragmen retak layar genggam dan label perangkat,Objek lokal berbeda
+P35,rejected,Permukaan dinding dan permukaan meja,Hanya kemiripan latar; bukan bagian perangkat
+P36,supported,Panel layar pada laptop tunggal dan perangkat dalam tumpukan,Identitas produk kedua tidak pasti; dukungan terbatas pada panel layar
+P37,supported,Matriks tombol pada dua papan ketik,Produk sama; struktur tombol terlihat pada kedua mask

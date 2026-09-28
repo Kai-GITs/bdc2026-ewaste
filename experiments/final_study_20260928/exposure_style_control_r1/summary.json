@@ -1,0 +1,380 @@
+{
+  "results": {
+    "all_photos": {
+      "n": 48,
+      "positive": 10,
+      "negative": 38,
+      "estimable": true,
+      "models": {
+        "global_dinov3": {
+          "auc": 0.9631578947368421,
+          "low95": 0.9,
+          "high95": 1.0
+        },
+        "global_siglip2": {
+          "auc": 0.8105263157894737,
+          "low95": 0.6447368421052632,
+          "high95": 0.9447368421052632
+        },
+        "global_fused": {
+          "auc": 0.9210526315789473,
+          "low95": 0.8157894736842105,
+          "high95": 0.9894736842105263
+        },
+        "region_families": {
+          "auc": 0.6236842105263158,
+          "low95": 0.4473355263157895,
+          "high95": 0.7921052631578948
+        },
+        "region_plus_global": {
+          "auc": 0.6210526315789474,
+          "low95": 0.4342105263157895,
+          "high95": 0.8
+        }
+      },
+      "dino_minus_region": {
+        "delta": 0.33947368421052626,
+        "low95": 0.16315789473684206,
+        "high95": 0.5289473684210526
+      }
+    },
+    "presentation_isolated": {
+      "n": 7,
+      "positive": 1,
+      "negative": 6,
+      "estimable": true,
+      "models": {
+        "global_dinov3": {
+          "auc": 1.0,
+          "low95": 1.0,
+          "high95": 1.0
+        },
+        "global_siglip2": {
+          "auc": 1.0,
+          "low95": 1.0,
+          "high95": 1.0
+        },
+        "global_fused": {
+          "auc": 1.0,
+          "low95": 1.0,
+          "high95": 1.0
+        },
+        "region_families": {
+          "auc": 0.8333333333333334,
+          "low95": 0.5,
+          "high95": 1.0
+        },
+        "region_plus_global": {
+          "auc": 0.3333333333333333,
+          "low95": 0.0,
+          "high95": 0.6666666666666666
+        }
+      },
+      "dino_minus_region": {
+        "delta": 0.16666666666666663,
+        "low95": 0.0,
+        "high95": 0.5
+      }
+    },
+    "presentation_scene": {
+      "n": 38,
+      "positive": 8,
+      "negative": 30,
+      "estimable": true,
+      "models": {
+        "global_dinov3": {
+          "auc": 0.9625,
+          "low95": 0.8916666666666667,
+          "high95": 1.0
+        },
+        "global_siglip2": {
+          "auc": 0.7833333333333333,
+          "low95": 0.5958333333333333,
+          "high95": 0.9333333333333333
+        },
+        "global_fused": {
+          "auc": 0.9166666666666666,
+          "low95": 0.7875,
+          "high95": 1.0
+        },
+        "region_families": {
+          "auc": 0.625,
+          "low95": 0.425,
+          "high95": 0.8041666666666667
+        },
+        "region_plus_global": {
+          "auc": 0.6291666666666667,
+          "low95": 0.4125,
+          "high95": 0.825
+        }
+      },
+      "dino_minus_region": {
+        "delta": 0.3375,
+        "low95": 0.14166666666666672,
+        "high95": 0.5458333333333334
+      }
+    },
+    "presentation_uncertain": {
+      "n": 3,
+      "positive": 1,
+      "negative": 2,
+      "estimable": true,
+      "models": {
+        "global_dinov3": {
+          "auc": 1.0,
+          "low95": 1.0,
+          "high95": 1.0
+        },
+        "global_siglip2": {
+          "auc": 1.0,
+          "low95": 1.0,
+          "high95": 1.0
+        },
+        "global_fused": {
+          "auc": 1.0,
+          "low95": 1.0,
+          "high95": 1.0
+        },
+        "region_families": {
+          "auc": 1.0,
+          "low95": 1.0,
+          "high95": 1.0
+        },
+        "region_plus_global": {
+          "auc": 1.0,
+          "low95": 1.0,
+          "high95": 1.0
+        }
+      },
+      "dino_minus_region": {
+        "delta": 0.0,
+        "low95": 0.0,
+        "high95": 0.0
+      }
+    },
+    "scene_min_side_150": {
+      "n": 38,
+      "positive": 8,
+      "negative": 30,
+      "estimable": true,
+      "models": {
+        "global_dinov3": {
+          "auc": 0.9625,
+          "low95": 0.8916666666666667,
+          "high95": 1.0
+        },
+        "global_siglip2": {
+          "auc": 0.7833333333333333,
+          "low95": 0.5958333333333333,
+          "high95": 0.9333333333333333
+        },
+        "global_fused": {
+          "auc": 0.9166666666666666,
+          "low95": 0.7875,
+          "high95": 1.0
+        },
+        "region_families": {
+          "auc": 0.625,
+          "low95": 0.425,
+          "high95": 0.8041666666666667
+        },
+        "region_plus_global": {
+          "auc": 0.6291666666666667,
+          "low95": 0.4125,
+          "high95": 0.825
+        }
+      },
+      "dino_minus_region": {
+        "delta": 0.3375,
+        "low95": 0.14166666666666672,
+        "high95": 0.5458333333333334
+      }
+    },
+    "scene_deduplicated_all": {
+      "n": 40,
+      "positive": 8,
+      "negative": 32,
+      "estimable": true,
+      "models": {
+        "global_dinov3": {
+          "auc": 0.953125,
+          "low95": 0.875,
+          "high95": 1.0
+        },
+        "global_siglip2": {
+          "auc": 0.88671875,
+          "low95": 0.7381835937500001,
+          "high95": 0.99609375
+        },
+        "global_fused": {
+          "auc": 0.9296875,
+          "low95": 0.8203125,
+          "high95": 1.0
+        },
+        "region_families": {
+          "auc": 0.68359375,
+          "low95": 0.474609375,
+          "high95": 0.87109375
+        },
+        "region_plus_global": {
+          "auc": 0.66796875,
+          "low95": 0.44921875,
+          "high95": 0.8671875
+        }
+      },
+      "dino_minus_region": {
+        "delta": 0.26953125,
+        "low95": 0.07421875,
+        "high95": 0.4921875
+      }
+    },
+    "scene_deduplicated_presentation_scene": {
+      "n": 30,
+      "positive": 6,
+      "negative": 24,
+      "estimable": true,
+      "models": {
+        "global_dinov3": {
+          "auc": 0.9513888888888888,
+          "low95": 0.8611111111111112,
+          "high95": 1.0
+        },
+        "global_siglip2": {
+          "auc": 0.8680555555555556,
+          "low95": 0.6805555555555556,
+          "high95": 1.0
+        },
+        "global_fused": {
+          "auc": 0.9166666666666666,
+          "low95": 0.7638888888888888,
+          "high95": 1.0
+        },
+        "region_families": {
+          "auc": 0.7083333333333334,
+          "low95": 0.4652777777777778,
+          "high95": 0.9097222222222222
+        },
+        "region_plus_global": {
+          "auc": 0.6944444444444444,
+          "low95": 0.4166666666666667,
+          "high95": 0.9236111111111112
+        }
+      },
+      "dino_minus_region": {
+        "delta": 0.24305555555555547,
+        "low95": 0.03472222222222221,
+        "high95": 0.49322916666666416
+      }
+    },
+    "scene_deduplicated_excluding_unresolved_source": {
+      "n": 39,
+      "positive": 8,
+      "negative": 31,
+      "estimable": true,
+      "models": {
+        "global_dinov3": {
+          "auc": 0.9516129032258065,
+          "low95": 0.8668346774193549,
+          "high95": 1.0
+        },
+        "global_siglip2": {
+          "auc": 0.8830645161290323,
+          "low95": 0.7258064516129032,
+          "high95": 0.9959677419354839
+        },
+        "global_fused": {
+          "auc": 0.9274193548387096,
+          "low95": 0.8104838709677419,
+          "high95": 1.0
+        },
+        "region_families": {
+          "auc": 0.6895161290322581,
+          "low95": 0.4798387096774194,
+          "high95": 0.8709677419354839
+        },
+        "region_plus_global": {
+          "auc": 0.6693548387096774,
+          "low95": 0.45161290322580644,
+          "high95": 0.8669354838709677
+        }
+      },
+      "dino_minus_region": {
+        "delta": 0.2620967741935484,
+        "low95": 0.06854838709677424,
+        "high95": 0.4838709677419355
+      }
+    },
+    "scene_deduplicated_presentation_scene_excluding_unresolved_source": {
+      "n": 29,
+      "positive": 6,
+      "negative": 23,
+      "estimable": true,
+      "models": {
+        "global_dinov3": {
+          "auc": 0.9492753623188406,
+          "low95": 0.8548913043478262,
+          "high95": 1.0
+        },
+        "global_siglip2": {
+          "auc": 0.8623188405797102,
+          "low95": 0.6666666666666666,
+          "high95": 0.992934782608693
+        },
+        "global_fused": {
+          "auc": 0.9130434782608695,
+          "low95": 0.7536231884057971,
+          "high95": 1.0
+        },
+        "region_families": {
+          "auc": 0.717391304347826,
+          "low95": 0.4782608695652174,
+          "high95": 0.9130434782608695
+        },
+        "region_plus_global": {
+          "auc": 0.6956521739130435,
+          "low95": 0.427536231884058,
+          "high95": 0.927536231884058
+        }
+      },
+      "dino_minus_region": {
+        "delta": 0.23188405797101452,
+        "low95": 0.021739130434782594,
+        "high95": 0.4855072463768116
+      }
+    }
+  },
+  "conditional_auc": {
+    "within_presentation_positive_negative_pairs": 248,
+    "auc": {
+      "global_dinov3": 0.9637096774193549,
+      "global_siglip2": 0.7903225806451613,
+      "global_fused": 0.9193548387096774,
+      "region_families": 0.6330645161290323,
+      "region_plus_global": 0.625
+    }
+  },
+  "scene_group_target_conflicts": [],
+  "inputs": {
+    "protocol": {
+      "path": "experiments/protocols/exposure_style_control_r1.json",
+      "sha256": "b7c1763c1ebbba61fde556b042264e069b1fcd782b8459d5e5647c93875fb15b"
+    },
+    "predictions": {
+      "path": "experiments/final_study_20260928/exposure_state_holdout_r1/blind_test_predictions.csv",
+      "sha256": "9977d7513be2a654b04c33b2ec184e45db71c577f3173da37bf7a8200f82b833"
+    },
+    "review_manifest": {
+      "path": "experiments/final_study_20260928/exposure_style_control_r1/review_manifest.json",
+      "sha256": "49d701651a29f91850786f2711b4df57ebda2160144e91d6d63b23b8213e4eab"
+    },
+    "visual_labels": {
+      "path": "experiments/final_study_20260928/exposure_style_control_r1/visual_style_adjudication.csv",
+      "sha256": "f2011833366791079feacd6b00965c50591137bc114f08fb0a9450b9b92d2156"
+    },
+    "cross_split_review": {
+      "path": "experiments/final_study_20260928/exposure_style_control_r1/cross_split_review.json",
+      "sha256": "424dfe75e2c0112c678629e84bcdf8fbcf37e16ad58b8041c199f21a6e7aa5d2"
+    }
+  },
+  "caveat": "Adaptive, single-agent descriptive controls. Presentation labels and within-test scene grouping do not prove source independence from development photos or causal context use."
+}

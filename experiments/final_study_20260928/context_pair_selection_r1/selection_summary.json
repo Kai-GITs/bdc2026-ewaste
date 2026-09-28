@@ -1,0 +1,42 @@
+{
+  "inputs": {
+    "protocol": {
+      "path": "experiments\\protocols\\context_pair_selection_r1.json",
+      "sha256": "29f1387b95ad5c872f16ac5317b587fcbd08515c2a313c88847a0680c9d36018"
+    },
+    "catalog": {
+      "path": "solution\\evidence_intake\\demo\\collection_catalog.json",
+      "sha256": "4b4deab731b7c9cb8dfd3f4ec67cdfd2263da91e46d9131c8cda9dc60f803c7b"
+    },
+    "orders": {
+      "path": "experiments\\final_study_20260928\\inspection_planning_r1\\selected_photos.csv",
+      "sha256": "197aa06d72879694b1885958b0c85b8fcb1e854c7e47dfc4832f7018285ed91e"
+    },
+    "baseline": {
+      "path": "experiments\\final_study_20260928\\inspection_context_coverage_r1\\pair_review_manifest.json",
+      "sha256": "c0b3d6091388a02e04970220bd67718034daef2e9be7a9ce61a00827766169a6"
+    },
+    "assignments": {
+      "path": ".local\\final_study_20260928\\region-family-graph-object-filtered-r2\\assignments.csv.gz",
+      "sha256": "e219d0d0f42959086ebcaf61fe85be8ed5038787ead06d215ffd8c29869afd81"
+    },
+    "foreground": {
+      "path": ".local\\final_study_20260928\\composition-region-bank-r1\\dinov3_foreground.npy",
+      "sha256": "7adb08f1f8577bc73b5bff8ef58ab7d6c5e4dfcc384a9db7178abaa2a870bc56"
+    },
+    "box": {
+      "path": ".local\\final_study_20260928\\dinov3-region-box-r1\\dinov3_box.npy",
+      "sha256": "a330b14ff204dd381976dacaad9cad8aa3aea3deaceb6c59a3a48b41a3dfa7dd"
+    },
+    "siglip": {
+      "path": ".local\\final_study_20260928\\siglip2-region-crop-r1\\siglip2_crop.npy",
+      "sha256": "fbd9ee772ab6bf5cfc5a172a6f8e450514f3785bd6cdf24df69c3850f062d9be"
+    }
+  },
+  "families": 25,
+  "selected_photos": 50,
+  "selected_feature_rows": 84,
+  "eligible_pairs": 81,
+  "unique_review_pairs": 37,
+  "claim_scope": "Adaptive transductive mechanism experiment; no semantic result until original-image inspection."
+}

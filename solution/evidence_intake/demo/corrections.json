@@ -1,0 +1,61 @@
+[
+  {
+    "entry_id": "entry_cdea350132d9",
+    "changes": {
+      "visible_part_label": "Papan sirkuit terlihat dalam tumpukan rakitan",
+      "evidence_status": "observed_manual",
+      "review_status": "accepted",
+      "review_note": "Dikonfirmasi dari foto asli dan mask tersimpan pada audit demo."
+    },
+    "reason": "visual confirmation from original photo and stored mask"
+  },
+  {
+    "entry_id": "entry_229cf8a00310",
+    "changes": {
+      "visible_part_label": "Papan sirkuit lepas terlihat",
+      "evidence_status": "observed_manual",
+      "review_status": "accepted",
+      "review_note": "Dikonfirmasi dari foto asli dan mask tersimpan pada audit demo."
+    },
+    "reason": "visual confirmation from original photo and stored mask"
+  },
+  {
+    "entry_id": "entry_bfb080e7e0c9",
+    "changes": {
+      "visible_part_label": "Kemasan sirkuit terpadu terlihat pada papan",
+      "evidence_status": "observed_manual",
+      "review_status": "accepted",
+      "review_note": "Dikonfirmasi dari foto asli dan mask tersimpan pada audit demo."
+    },
+    "reason": "visual confirmation from original photo and stored mask"
+  },
+  {
+    "entry_id": "entry_8fe69dbe7cb1",
+    "changes": {
+      "visible_part_label": "Kerusakan fisik terlihat pada layar ponsel",
+      "evidence_status": "observed_manual",
+      "review_status": "accepted",
+      "review_note": "Dikonfirmasi dari foto asli dan mask tersimpan pada audit demo."
+    },
+    "reason": "visual confirmation from original photo and stored mask"
+  },
+  {
+    "entry_id": "entry_ac575a461368",
+    "changes": {
+      "visible_part_label": "Kerusakan fisik terlihat pada layar televisi",
+      "evidence_status": "observed_manual",
+      "review_status": "accepted",
+      "review_note": "Dikonfirmasi dari foto asli dan mask tersimpan pada audit demo."
+    },
+    "reason": "visual confirmation from original photo and stored mask"
+  },
+  {
+    "entry_id": "entry_84d7425d9eaf",
+    "changes": {
+      "evidence_status": "unresolved",
+      "review_status": "needs_additional_evidence",
+      "review_note": "Layar gelap terlihat, tetapi foto statis belum membedakan perangkat mati dan gangguan tampilan."
+    },
+    "reason": "static photo cannot resolve display state"
+  }
+]

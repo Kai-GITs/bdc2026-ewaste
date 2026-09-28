@@ -1,0 +1,55 @@
+{
+  "method_counts": [
+    {
+      "method": "first_encounter",
+      "supported": 10,
+      "ambiguous": 5,
+      "rejected": 10,
+      "denominator": 25
+    },
+    {
+      "method": "foreground_nearest",
+      "supported": 10,
+      "ambiguous": 6,
+      "rejected": 9,
+      "denominator": 25
+    },
+    {
+      "method": "view_consensus",
+      "supported": 10,
+      "ambiguous": 6,
+      "rejected": 9,
+      "denominator": 25
+    }
+  ],
+  "paired_comparisons": [
+    {
+      "method": "foreground_nearest",
+      "baseline": "first_encounter",
+      "wins": 1,
+      "losses": 1,
+      "tied_supported": 9,
+      "tied_not_supported": 14
+    },
+    {
+      "method": "view_consensus",
+      "baseline": "first_encounter",
+      "wins": 0,
+      "losses": 0,
+      "tied_supported": 10,
+      "tied_not_supported": 15
+    },
+    {
+      "method": "view_consensus",
+      "baseline": "foreground_nearest",
+      "wins": 1,
+      "losses": 1,
+      "tied_supported": 9,
+      "tied_not_supported": 14
+    }
+  ],
+  "baseline_review_changes": [],
+  "reviewer": "one Codex agent; adaptive and not independent",
+  "scope": "Broad visible correspondence in a fixed batch; not semantic component identity, source independence or novel discovery count",
+  "adjudication_sha256": "9bab32a3fd0b901792f7fe87516eefcd73fdd9c1210dc8f912f9e3aec1c83949"
+}

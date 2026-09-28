@@ -1,0 +1,228 @@
+{
+  "dossier_id": "dossier_bdc_demo_20260928",
+  "batch_id": "BDC-DEMO-20260928",
+  "discovery_revision": "region-family-census-r2+consensus-r3",
+  "family_name_map_revision": "family-adjudication-r3-20260928",
+  "photos": [
+    {
+      "photo_id": "93bcd9f51f027f41",
+      "sha256": "5f2e7fbbc1d4a095f6a6feae261bc832e5cc8fffae340fa3e821e5b254c15d46",
+      "image_path": "1_Electronic/72.24102021-singapore-republic-of-singapore-asia-electronic-waste-e-waste-pile-from-discarded-laptop-computer-components-with-circuit-board-2H32PRD.jpg",
+      "width": 1300,
+      "height": 955,
+      "readable": true,
+      "closed_casing": false,
+      "sensor_ambiguity_cue": false,
+      "ambiguity_kind": null
+    },
+    {
+      "photo_id": "93bcd9f51f027f41-receipt-copy",
+      "sha256": "5f2e7fbbc1d4a095f6a6feae261bc832e5cc8fffae340fa3e821e5b254c15d46",
+      "image_path": "1_Electronic/72.24102021-singapore-republic-of-singapore-asia-electronic-waste-e-waste-pile-from-discarded-laptop-computer-components-with-circuit-board-2H32PRD.jpg",
+      "width": 1300,
+      "height": 955,
+      "readable": true,
+      "closed_casing": false,
+      "sensor_ambiguity_cue": false,
+      "ambiguity_kind": null
+    },
+    {
+      "photo_id": "297b5776844a8d24",
+      "sha256": "ce299487b81f74be90331dd8fa7d6b0a98478e25d5ca5ab3882ab4002a0c8dbf",
+      "image_path": "1_Electronic/pcb_213.jpg",
+      "width": 150,
+      "height": 150,
+      "readable": true,
+      "closed_casing": false,
+      "sensor_ambiguity_cue": false,
+      "ambiguity_kind": null
+    },
+    {
+      "photo_id": "f14e54d29cd238a9",
+      "sha256": "de9c430af13b90fec4975c1842fb735ff361971ad88d59dde2cb17159031573d",
+      "image_path": "1_Electronic/4.s-l400.jpg",
+      "width": 300,
+      "height": 400,
+      "readable": true,
+      "closed_casing": false,
+      "sensor_ambiguity_cue": false,
+      "ambiguity_kind": null
+    },
+    {
+      "photo_id": "e31f2b952c857db8",
+      "sha256": "51af625866fa7607f7506afd1faeac84bc3ff7553568c15c0695e0107f75b891",
+      "image_path": "1_Electronic/5d10ffd5e3ecba0ba12427c4.jpg",
+      "width": 1200,
+      "height": 600,
+      "readable": true,
+      "closed_casing": false,
+      "sensor_ambiguity_cue": false,
+      "ambiguity_kind": null
+    },
+    {
+      "photo_id": "ee677fbd3c36d3fd",
+      "sha256": "d3298d55d7c7ae078ad2309004e0df92bb1fc4dbd9d7b6f5d4c6084517260add",
+      "image_path": "1_Electronic/2.b4f4de90-db8c-4a4a-a0b6-2b2cf3fac074.jpg",
+      "width": 250,
+      "height": 250,
+      "readable": true,
+      "closed_casing": false,
+      "sensor_ambiguity_cue": false,
+      "ambiguity_kind": null
+    },
+    {
+      "photo_id": "96eefdc0ef05bd36",
+      "sha256": "5231f26cb6c80603da95d83057fcf6eb59e32da41f62667a51959bad4841dc98",
+      "image_path": "1_Electronic/605.jpeg",
+      "width": 1254,
+      "height": 1280,
+      "readable": true,
+      "closed_casing": true,
+      "sensor_ambiguity_cue": true,
+      "ambiguity_kind": "display_state"
+    }
+  ],
+  "family_support": [
+    {
+      "photo_id": "93bcd9f51f027f41",
+      "family_key": "circuit_board_surface",
+      "family_name": "permukaan papan sirkuit terpopulasi",
+      "machine_family_id": "F0013",
+      "region_id": "3c924a774442d2f716fe2dda",
+      "bbox_xyxy": [
+        286.41,
+        455.15,
+        666.25,
+        709.14
+      ],
+      "mask_sha256": "49cfa5c7a4d3376ac5842b47ac990ff8b21951d795b4eedb8be75acd1d33cfe0",
+      "support_strength": 0.8294573643410853,
+      "support_status": "r3_core_local_foreground_box_at_or_above_family_medians",
+      "claim_gate_status": "r3_core_requires_human_confirmation"
+    },
+    {
+      "photo_id": "297b5776844a8d24",
+      "family_key": "circuit_board_surface",
+      "family_name": "permukaan papan sirkuit terpopulasi",
+      "machine_family_id": "F0000",
+      "region_id": "32e33062d553da6a63546e13",
+      "bbox_xyxy": [
+        68.0,
+        69.0,
+        119.0,
+        115.0
+      ],
+      "mask_sha256": "1ef2ee9aac5201a19a8fa59a9c3a29d2df3ded30c910c3e665bd26de7f1f8d0d",
+      "support_strength": 0.843501326259947,
+      "support_status": "r3_core_local_foreground_box_at_or_above_family_medians",
+      "claim_gate_status": "r3_core_requires_human_confirmation"
+    },
+    {
+      "photo_id": "f14e54d29cd238a9",
+      "family_key": "integrated_circuit_package",
+      "family_name": "kemasan sirkuit terpadu pada papan",
+      "machine_family_id": "F0041",
+      "region_id": "232533266c1b0e21ddf8e282",
+      "bbox_xyxy": [
+        72.0,
+        93.0,
+        156.0,
+        201.0
+      ],
+      "mask_sha256": "ef7d9c629458281ff4aa6eeda72b4c3e88b2ab1315f7d223e025e256952c8a14",
+      "support_strength": 0.64,
+      "support_status": "r3_core_local_foreground_box_at_or_above_family_medians",
+      "claim_gate_status": "r3_core_requires_human_confirmation"
+    },
+    {
+      "photo_id": "e31f2b952c857db8",
+      "family_key": "visible_display_damage",
+      "family_name": "kerusakan tampak pada layar",
+      "machine_family_id": "F0034",
+      "region_id": "1024fc06f5bc23b4bbba0cad",
+      "bbox_xyxy": [
+        530.0,
+        286.0,
+        947.0,
+        480.0
+      ],
+      "mask_sha256": "8104083b147c6008d2b5e2f4cc7c435492125bc88d72bf18ec1f698b50e88929",
+      "support_strength": 0.9066666666666666,
+      "support_status": "r3_core_local_foreground_box_at_or_above_family_medians",
+      "claim_gate_status": "r3_core_requires_human_confirmation"
+    },
+    {
+      "photo_id": "ee677fbd3c36d3fd",
+      "family_key": "visible_display_damage",
+      "family_name": "kerusakan tampak pada layar",
+      "machine_family_id": "F0052",
+      "region_id": "f87fe2e4aa3245866fb0900e",
+      "bbox_xyxy": [
+        119.0,
+        117.0,
+        197.0,
+        200.0
+      ],
+      "mask_sha256": "b4766e8d786a017353b5868f5cb0fe65fe0fdae46937fcdfbff99e9f09d42d5e",
+      "support_strength": 0.6956521739130435,
+      "support_status": "r3_core_local_foreground_box_at_or_above_family_medians",
+      "claim_gate_status": "r3_core_requires_human_confirmation"
+    },
+    {
+      "photo_id": "96eefdc0ef05bd36",
+      "family_key": "dark_display_surface",
+      "family_name": "permukaan layar gelap",
+      "machine_family_id": "F0011",
+      "region_id": "87c7f60dd2cbe58cf900b885",
+      "bbox_xyxy": [
+        293.0,
+        305.0,
+        673.0,
+        666.0
+      ],
+      "mask_sha256": "a7f28211a4c6d70e89f41b5a18a237d8315dd340fbe51c8b4981cffd2c4068e5",
+      "support_strength": 0.8194444444444444,
+      "support_status": "r3_core_local_foreground_box_at_or_above_family_medians",
+      "claim_gate_status": "r3_core_requires_human_confirmation"
+    }
+  ],
+  "ownership_evidence": [
+    {
+      "photo_id": "93bcd9f51f027f41",
+      "region_id": "3c924a774442d2f716fe2dda",
+      "ownership_status": "geometric_parent_candidate",
+      "owner_region_id": "93bcd9f51f027f41"
+    },
+    {
+      "photo_id": "297b5776844a8d24",
+      "region_id": "32e33062d553da6a63546e13",
+      "ownership_status": "geometric_parent_candidate",
+      "owner_region_id": "297b5776844a8d24"
+    },
+    {
+      "photo_id": "f14e54d29cd238a9",
+      "region_id": "232533266c1b0e21ddf8e282",
+      "ownership_status": "geometric_parent_candidate",
+      "owner_region_id": "f14e54d29cd238a9"
+    },
+    {
+      "photo_id": "e31f2b952c857db8",
+      "region_id": "1024fc06f5bc23b4bbba0cad",
+      "ownership_status": "geometric_parent_candidate",
+      "owner_region_id": "e31f2b952c857db8"
+    },
+    {
+      "photo_id": "ee677fbd3c36d3fd",
+      "region_id": "f87fe2e4aa3245866fb0900e",
+      "ownership_status": "geometric_parent_candidate",
+      "owner_region_id": "ee677fbd3c36d3fd"
+    },
+    {
+      "photo_id": "96eefdc0ef05bd36",
+      "region_id": "87c7f60dd2cbe58cf900b885",
+      "ownership_status": "geometric_parent_candidate",
+      "owner_region_id": "96eefdc0ef05bd36"
+    }
+  ],
+  "demo_scope": "six real r3 core supports plus one repeated file receipt"
+}

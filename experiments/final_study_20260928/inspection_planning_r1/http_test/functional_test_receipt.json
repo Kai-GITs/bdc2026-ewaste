@@ -1,0 +1,28 @@
+{
+  "status": "pass",
+  "first_batch": {
+    "families_seen": 54,
+    "families_repeated": 33
+  },
+  "second_batch": {
+    "families_seen": 77,
+    "families_repeated": 54
+  },
+  "distinct_photos_across_batches": 50,
+  "persistent_plan": true,
+  "exports": {
+    "json": {
+      "bytes": 96000,
+      "sha256": "c615ab106d11efef268105aaab6c10e0ee97af455e688750d793e760255cac3e"
+    },
+    "csv": {
+      "bytes": 14860,
+      "sha256": "6c447854552f12bf05b20b43aae75d6517a3b06b37a2414e485736fa632202cf"
+    },
+    "pdf": {
+      "bytes": 42342,
+      "sha256": "3cea4fe9265d15a64170ef0797d70e80092a7819cfd2446651717d3af860b92f"
+    }
+  },
+  "scope": "known collection; HTTP functionality, not operator time or physical sorting validation"
+}

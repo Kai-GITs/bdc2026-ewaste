@@ -1,0 +1,16 @@
+{
+  "status": "pass",
+  "catalog_regions": 6093,
+  "exported_photos": 10,
+  "verified_region_records": 55,
+  "outcomes": {
+    "recorded": 3,
+    "uncertain": 1,
+    "excluded": 1,
+    "pending": 5
+  },
+  "resume_preserves_saved_state": true,
+  "export_is_read_only": true,
+  "catalog_sha256": "4b4deab731b7c9cb8dfd3f4ec67cdfd2263da91e46d9131c8cda9dc60f803c7b",
+  "scope": "Scripted functional check over the frozen catalog, not operator or semantic validation."
+}

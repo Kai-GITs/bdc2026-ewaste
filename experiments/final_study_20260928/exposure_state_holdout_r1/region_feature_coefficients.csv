@@ -1,0 +1,74 @@
+feature,family_internal,descriptive_name_posthoc,coefficient_standardized
+F0031_max_graph_strength,31,fragmen internal laptop dan slot,0.09659656476799044
+F0031_presence,31,fragmen internal laptop dan slot,0.09397375552614196
+F0031_relative_count,31,fragmen internal laptop dan slot,0.07962016151961766
+F0002_max_graph_strength,2,fragmen tumpukan perangkat dan layar,0.07575126050575154
+F0039_max_graph_strength,39,rakitan layar laptop,0.06743541793669111
+F0032_presence,32,isi layar dan antarmuka,0.06743541468523787
+F0032_relative_count,32,isi layar dan antarmuka,0.06743541468523787
+F0032_max_graph_strength,32,isi layar dan antarmuka,0.06743541468523787
+F0039_presence,39,rakitan layar laptop,0.06743541226762595
+F0039_relative_count,39,rakitan layar laptop,0.06743541226762595
+F0012_max_graph_strength,12,basis dan tepi objek terang,0.0628278825183083
+F0002_relative_count,2,fragmen tumpukan perangkat dan layar,0.06162536700758013
+F0036_relative_count,36,tepi dan port laptop,0.058347755895032806
+F0036_max_graph_strength,36,tepi dan port laptop,0.058347755895032806
+F0036_presence,36,tepi dan port laptop,0.058347755895032806
+F0072_max_graph_strength,72,area kontrol perangkat terbuka,0.057939449558158836
+F0044_max_graph_strength,44,tutup dan area pemutar rekaman,0.0533385272554325
+F0044_relative_count,44,tutup dan area pemutar rekaman,0.05333852363300788
+F0044_presence,44,tutup dan area pemutar rekaman,0.05333852363300788
+F0035_presence,35,tangan toko dan konteks ponsel,0.04831385266149106
+F0072_relative_count,72,area kontrol perangkat terbuka,0.04693318155445542
+F0013_max_graph_strength,13,papan sirkuit dalam rakitan dan tumpukan,0.045712915905339935
+F0072_presence,72,area kontrol perangkat terbuka,0.03827030175785907
+F0022_presence,22,sasis internal komputer meja,0.029401607541663436
+F0002_presence,2,fragmen tumpukan perangkat dan layar,0.027595532947401916
+F0022_max_graph_strength,22,sasis internal komputer meja,0.027071530875593844
+F0012_presence,12,basis dan tepi objek terang,0.025617962065439745
+F0035_relative_count,35,tangan toko dan konteks ponsel,0.016070342133233276
+F0022_relative_count,22,sasis internal komputer meja,0.015615547048583048
+unresolved_isolate_present,-1,region isolat,0.012914450113281364
+F0035_max_graph_strength,35,tangan toko dan konteks ponsel,0.007210426577732011
+F0012_relative_count,12,basis dan tepi objek terang,0.006953640253556583
+F0013_presence,13,papan sirkuit dalam rakitan dan tumpukan,0.004409718873163885
+F0013_relative_count,13,papan sirkuit dalam rakitan dan tumpukan,0.0007881931250830656
+F0116_presence,116,pad dan jalur tepi papan,-0.00717353663579033
+F0116_relative_count,116,pad dan jalur tepi papan,-0.00717353663579033
+F0116_max_graph_strength,116,pad dan jalur tepi papan,-0.00717353745930583
+F0025_max_graph_strength,25,fragmen kemasan tangan dan tumpukan,-0.00786123155058547
+F0050_max_graph_strength,50,tanah atau basis di bawah perangkat,-0.013026612297101801
+F0008_max_graph_strength,8,tepi bawah perangkat gelap,-0.01305819359498846
+F0008_presence,8,tepi bawah perangkat gelap,-0.01305819359498846
+F0008_relative_count,8,tepi bawah perangkat gelap,-0.01305819359498846
+F0050_relative_count,50,tanah atau basis di bawah perangkat,-0.014105609849602902
+F0043_relative_count,43,baki dan jalur media pencetak,-0.014281763745347955
+F0043_presence,43,baki dan jalur media pencetak,-0.014281764564236413
+F0043_max_graph_strength,43,baki dan jalur media pencetak,-0.014281764564236413
+F0050_presence,50,tanah atau basis di bawah perangkat,-0.015044288722940573
+F0018_max_graph_strength,18,slot atau keluaran perangkat cetak,-0.016108877117665465
+F0018_relative_count,18,slot atau keluaran perangkat cetak,-0.016218086915210643
+F0018_presence,18,slot atau keluaran perangkat cetak,-0.016270069277582243
+F0017_max_graph_strength,17,kabel dan tepi periferal,-0.01668032954328236
+F0025_relative_count,25,fragmen kemasan tangan dan tumpukan,-0.017306542303814242
+F0025_presence,25,fragmen kemasan tangan dan tumpukan,-0.017541031080277675
+F0004_max_graph_strength,4,fragmen permukaan dan latar campuran,-0.017894073410828014
+F0014_max_graph_strength,14,fragmen objek pada adegan limbah,-0.01871337065800695
+F0017_relative_count,17,kabel dan tepi periferal,-0.01993148519339211
+F0009_presence,9,fragmen kisi tombol,-0.021041511036748284
+F0009_relative_count,9,fragmen kisi tombol,-0.021041511036748284
+F0009_max_graph_strength,9,fragmen kisi tombol,-0.02104151185123655
+F0014_presence,14,fragmen objek pada adegan limbah,-0.02245357838373263
+F0014_relative_count,14,fragmen objek pada adegan limbah,-0.02254825931437476
+F0047_max_graph_strength,47,tanah dan vegetasi sekitar perangkat,-0.02300300647916984
+F0047_relative_count,47,tanah dan vegetasi sekitar perangkat,-0.02300300647916984
+F0047_presence,47,tanah dan vegetasi sekitar perangkat,-0.02300300647916984
+F0017_presence,17,kabel dan tepi periferal,-0.025778999119941245
+F0004_relative_count,4,fragmen permukaan dan latar campuran,-0.027898673796397662
+F0004_presence,4,fragmen permukaan dan latar campuran,-0.030228988039597008
+F0041_max_graph_strength,41,kemasan sirkuit terpadu,-0.04028538294724753
+F0041_relative_count,41,kemasan sirkuit terpadu,-0.04150985746653702
+F0041_presence,41,kemasan sirkuit terpadu,-0.043696839402182684
+F0000_relative_count,0,permukaan papan sirkuit terpopulasi,-0.0630528288087802
+F0000_max_graph_strength,0,permukaan papan sirkuit terpopulasi,-0.06680196183801576
+F0000_presence,0,permukaan papan sirkuit terpopulasi,-0.0888648696820281

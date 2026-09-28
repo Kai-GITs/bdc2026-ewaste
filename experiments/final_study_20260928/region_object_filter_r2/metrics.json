@@ -1,0 +1,47 @@
+{
+  "status": "complete_class_free_region_object_filter",
+  "input_selected_regions": 60032,
+  "eligible_regions": 6514,
+  "excluded_regions": 53518,
+  "input_parents": 3931,
+  "parents_with_eligible_regions": 2972,
+  "parents_retained_fraction": 0.7560417196642076,
+  "maximum_eligible_regions_per_parent": 13,
+  "exclusion_reason_counts_nonexclusive": {
+    "area_fraction": 1219,
+    "image_boundary": 46925,
+    "mask_occupancy": 1737,
+    "native_resolution": 1747,
+    "prompt_boundary": 46271
+  },
+  "criteria": {
+    "area_fraction": [
+      0.005,
+      0.65
+    ],
+    "minimum_bbox_side_native": 24.0,
+    "mask_occupancy_in_bbox": [
+      0.12,
+      0.92
+    ],
+    "maximum_image_boundary_edges": 0,
+    "maximum_prompt_boundary_edges": 1,
+    "boundary_tolerance_processing_pixels": 1.5
+  },
+  "rationale": "Remove the observed corner, frame, prompt-cut, nearly empty, solid-box and global-mask mechanisms before reclustering.",
+  "claim_limit": "Eligibility is geometric quality control, not component identity or semantic validity. Photos without eligible regions remain represented in the global photo graph.",
+  "input": {
+    "path": "research\\projects\\bdc2026-ewaste\\.local\\final_study_20260928\\composition-region-bank-r1\\proposals.jsonl.gz",
+    "sha256": "b1f74d063e814808edfb2fea427e4d7793af840e8e5a40759ee9b0e02ff293f5"
+  },
+  "outputs": {
+    "region_filter_decisions.csv.gz": {
+      "sha256": "7d2eb3d0044bb778c0dc09a0aca50bcfaac86f78a5c63db592d8516bb9a07d9f",
+      "bytes": 2663923
+    },
+    "eligible_regions.csv.gz": {
+      "sha256": "d8505afd58fa207579587c2d1cd9b99e7aaa9b44b9b19a1ab50e59b22098f083",
+      "bytes": 406342
+    }
+  }
+}

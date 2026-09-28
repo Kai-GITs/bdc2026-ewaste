@@ -1,0 +1,76 @@
+{
+  "status": "complete_cross_view_consensus_refinement_r3",
+  "input_support_rows": 2372,
+  "supports_removed_by_visual_pair_correction": 91,
+  "visual_pair_correction_counts": {
+    "screen_content_shortcut": 51,
+    "pictorial_content_shortcut": 40
+  },
+  "retained_internal_families": 32,
+  "retained_concepts_with_any_core_support": 24,
+  "retained_support_rows_including_peripheral": 2281,
+  "consensus_core_support_rows": 583,
+  "canonical_photos_with_consensus_core_support": 578,
+  "photos_by_distinct_consensus_core_concept_count": {
+    "1": 573,
+    "2": 5
+  },
+  "sensitivity_definition": "r2 local affinity, foreground to medoid, and box to medoid are each at or above their family median",
+  "confidence_warning": "Median consensus is a fixed sensitivity analysis, not calibrated probability or component identity.",
+  "inputs": {
+    "foreground": {
+      "path": "research\\projects\\bdc2026-ewaste\\.local\\final_study_20260928\\composition-region-bank-r1\\dinov3_foreground.npy",
+      "sha256": "7adb08f1f8577bc73b5bff8ef58ab7d6c5e4dfcc384a9db7178abaa2a870bc56"
+    },
+    "box": {
+      "path": "research\\projects\\bdc2026-ewaste\\.local\\final_study_20260928\\dinov3-region-box-r1\\dinov3_box.npy",
+      "sha256": "a330b14ff204dd381976dacaad9cad8aa3aea3deaceb6c59a3a48b41a3dfa7dd"
+    },
+    "assignments": {
+      "path": "research\\projects\\bdc2026-ewaste\\.local\\final_study_20260928\\region-family-graph-object-filtered-r2\\assignments.csv.gz",
+      "sha256": "e219d0d0f42959086ebcaf61fe85be8ed5038787ead06d215ffd8c29869afd81"
+    },
+    "edges": {
+      "path": "research\\projects\\bdc2026-ewaste\\.local\\final_study_20260928\\region-family-graph-object-filtered-r2\\edges.csv.gz",
+      "sha256": "a769e61eaf160cb7676f418b9779f92188efbe10a794eb931460458ac66721e3"
+    },
+    "families": {
+      "path": "research\\projects\\bdc2026-ewaste\\.local\\final_study_20260928\\region-family-graph-object-filtered-r2\\family_summary.csv",
+      "sha256": "04230a9c031b21153d4f3d3f9469675e9acdef01104cf18ea9b061808dfc32c4"
+    },
+    "adjudication": {
+      "path": "research\\projects\\bdc2026-ewaste\\experiments\\final_study_20260928\\region_family_adjudication_core_r2\\family_adjudication.csv",
+      "sha256": "ac244d4978fb754f00d06c600a0842d4b0c264d0c680b4c216335eb93968857b"
+    },
+    "concept_support": {
+      "path": "research\\projects\\bdc2026-ewaste\\experiments\\final_study_20260928\\region_family_adjudication_core_r2\\photo_concept_support.csv.gz",
+      "sha256": "20d7ee0f0f4d621add81fd7ff35409a8512c1d01e849011b16d37cb214d35c2e"
+    },
+    "global_assignments": {
+      "path": "research\\projects\\bdc2026-ewaste\\experiments\\multiscale_graph_20260928\\global\\canonical_assignments.csv",
+      "sha256": "95ce9282bf4cb9bfe5291cdcc738849159baee56be31e6549902e2383ece4f8c"
+    }
+  },
+  "outputs": {
+    "family_cross_view_diagnostics.csv": {
+      "bytes": 13318,
+      "sha256": "e9d25aa31716db18ff44745a05a2d0ad3dbe47d6ad1f59795431296adfd9676e"
+    },
+    "family_adjudication_r3.csv": {
+      "bytes": 57003,
+      "sha256": "6dc2a02a70c4f10c837f47c483802b32c2ab5354dc2e967a0da4c69227c682d1"
+    },
+    "photo_concept_support.csv.gz": {
+      "bytes": 221434,
+      "sha256": "5bb52a459347f0d0084051a79e9630900e763215fc81ab942829f0b6ef574ed9"
+    },
+    "conceptual_family_summary.csv": {
+      "bytes": 3765,
+      "sha256": "0013ac7eba3db0250f723774c0f257a3b5558ab9082569c590f46d272f2f9636"
+    },
+    "mask_box_diagnostic.json": {
+      "bytes": 1080,
+      "sha256": "9da755ee670d71c7b63b1a770e01b3a2b6147b40d3aab53f9663cbcba8635e8f"
+    }
+  }
+}

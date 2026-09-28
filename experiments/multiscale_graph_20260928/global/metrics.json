@@ -1,0 +1,990 @@
+{
+  "status": "complete_unsupervised_photo_graph",
+  "parents": 3961,
+  "canonicals": 3931,
+  "inputs": {
+    "manifest_sha256": "32de9850f466e4c0064d2f3a7ca4bb4ba4659e7a84ae7fcbdd130db4aea671b4",
+    "dinov3_features_sha256": "ccd147c81e983bcdab273e96fc1869cd5c2356afdf043ae2c48d6698e1576d63",
+    "siglip2_features_sha256": "69ea5ec957dc44225eed427e67c757fe0756c088f0ac17349b5416a2b06deb11"
+  },
+  "base": {
+    "k": 30,
+    "resolution": 0.8,
+    "seed": 11,
+    "algorithm": "Leiden RBConfigurationVertexPartition",
+    "fusion": "0.5*(W_D+W_S)+0.5*min(W_D,W_S)",
+    "communities": 15,
+    "sizes": [
+      572,
+      515,
+      342,
+      306,
+      304,
+      282,
+      259,
+      247,
+      240,
+      230,
+      206,
+      163,
+      140,
+      82,
+      43
+    ],
+    "edges": 140958,
+    "connected_community_failures": 0,
+    "disconnected_community_ids": [],
+    "backbone_edges": 3930,
+    "mutual_extra_edges": 3623
+  },
+  "views": {
+    "dino_communities": 18,
+    "siglip_communities": 15,
+    "partition_ari": 0.5808204888806661,
+    "neighbor_overlap_mean_at_30": 0.3715509200373103,
+    "leiden_vs_historical_louvain_ari": 0.9413591425633603
+  },
+  "sensitivity": {
+    "k15_r0.5": {
+      "communities": 14,
+      "seed_ari": {
+        "23": 0.9360400835587901,
+        "37": 0.9355861206377145
+      },
+      "ari_to_base": 0.9371550491553731
+    },
+    "k15_r0.8": {
+      "communities": 17,
+      "seed_ari": {
+        "23": 0.8613515741078338,
+        "37": 0.8663307723239418
+      },
+      "ari_to_base": 0.8978035907754536
+    },
+    "k15_r1.2": {
+      "communities": 21,
+      "seed_ari": {
+        "23": 0.9411025805376917,
+        "37": 0.9409282892628326
+      },
+      "ari_to_base": 0.804391782368807
+    },
+    "k30_r0.5": {
+      "communities": 13,
+      "seed_ari": {
+        "23": 0.9239771190459817,
+        "37": 0.9251584289220959
+      },
+      "ari_to_base": 0.9005332596612715
+    },
+    "k30_r0.8": {
+      "communities": 15,
+      "seed_ari": {
+        "23": 0.9347706577608413,
+        "37": 0.9039120551670624
+      },
+      "ari_to_base": 1.0
+    },
+    "k30_r1.2": {
+      "communities": 17,
+      "seed_ari": {
+        "23": 0.9172774045999665,
+        "37": 0.924736191896955
+      },
+      "ari_to_base": 0.8534295222564677
+    },
+    "k45_r0.5": {
+      "communities": 13,
+      "seed_ari": {
+        "23": 0.9939592368806051,
+        "37": 0.8201437031361815
+      },
+      "ari_to_base": 0.9254281728267894
+    },
+    "k45_r0.8": {
+      "communities": 13,
+      "seed_ari": {
+        "23": 0.914258556254013,
+        "37": 0.9794494499191062
+      },
+      "ari_to_base": 0.9360494589600588
+    },
+    "k45_r1.2": {
+      "communities": 16,
+      "seed_ari": {
+        "23": 0.9601825541642036,
+        "37": 0.9949890710608501
+      },
+      "ari_to_base": 0.8287195814117823
+    }
+  },
+  "layout": "force-directed community quotient and force-directed induced subgraphs; display only",
+  "limits": "Photo communities organize appearance. They do not identify components, physical ownership, hidden content, or safety. Region-family edges are added in a separate stage.",
+  "review_pages": [
+    {
+      "path": "review/leiden_review_01.jpg",
+      "rows": [
+        {
+          "community": 0,
+          "row": 776,
+          "role": "pusat",
+          "canonical_id": "9ded9e1344536ec9",
+          "source_sha256": "8b72e4217c02f3b136356f181bb7e7848a1657ce219f88662e1bbd83883b96bf"
+        },
+        {
+          "community": 0,
+          "row": 170,
+          "role": "pusat",
+          "canonical_id": "b08aed059399d4ba",
+          "source_sha256": "f9ac32bbf19abbf67a0a933650973ec7b23bc9070397a2fc506b03c08d6de370"
+        },
+        {
+          "community": 0,
+          "row": 1327,
+          "role": "pusat",
+          "canonical_id": "41243c39667849ae",
+          "source_sha256": "76220cdf786d1f2517a4e7271396a987c59319e2eb1357783b52dabe43142724"
+        },
+        {
+          "community": 0,
+          "row": 1319,
+          "role": "pusat",
+          "canonical_id": "ae4bf4c323ef6bf8",
+          "source_sha256": "cb29e514cf17689c8b299280ea12ece719b98195873fe79970350bbf9bc86ace"
+        },
+        {
+          "community": 0,
+          "row": 835,
+          "role": "batas",
+          "canonical_id": "8dfb0427dc8cb15f",
+          "source_sha256": "ac1d0501b94129489cbceca5db977ac6db866da371b4da60dbab45401f0257b3"
+        },
+        {
+          "community": 0,
+          "row": 1334,
+          "role": "batas",
+          "canonical_id": "3a4b98d4406229d9",
+          "source_sha256": "ed9b01697223add76da02f70478ce70a00283fee50bb8fd6712772cc44aa1f39"
+        },
+        {
+          "community": 0,
+          "row": 1335,
+          "role": "batas",
+          "canonical_id": "5557e9a8afbf2949",
+          "source_sha256": "c5d5e941846b5565423d0e6d9089271aea68b8e3f9518281b34530da8afdcd64"
+        },
+        {
+          "community": 0,
+          "row": 148,
+          "role": "acak",
+          "canonical_id": "9d5aa76562026f8f",
+          "source_sha256": "2004b10e6ec3def3c97631e687a7fb5481cde7c6c6955c96233e2b29a76329b5"
+        },
+        {
+          "community": 1,
+          "row": 2068,
+          "role": "pusat",
+          "canonical_id": "efee17361c34e8fc",
+          "source_sha256": "4346b7bfa1532dc2f2a64dc53876de97712007ae3c8a870c40248c4aad314c94"
+        },
+        {
+          "community": 1,
+          "row": 2096,
+          "role": "pusat",
+          "canonical_id": "487c548bd4fcb1e8",
+          "source_sha256": "03b1568f73220736dc6cc04c3ce1df42b6d9864ac2c6fb4dd538843a509c3c49"
+        },
+        {
+          "community": 1,
+          "row": 2118,
+          "role": "pusat",
+          "canonical_id": "e5902a95d6aa3b19",
+          "source_sha256": "78f302d57dd47cca43cb6b069683e647a8443c6f47cf11027e5b4d668b817374"
+        },
+        {
+          "community": 1,
+          "row": 2234,
+          "role": "pusat",
+          "canonical_id": "fbb23406c6a63e7e",
+          "source_sha256": "dea06c418f5a73a16824086d56d55c6f3d5b2eebad2965139e9079ce0331bd57"
+        },
+        {
+          "community": 1,
+          "row": 685,
+          "role": "batas",
+          "canonical_id": "f182270d0866a64c",
+          "source_sha256": "0e1c494157aa9882b557028b417d24f86e0b9ae3f255875d01107d5f3b72c529"
+        },
+        {
+          "community": 1,
+          "row": 3827,
+          "role": "batas",
+          "canonical_id": "d6f510fda7f73415",
+          "source_sha256": "c61314e1a87bcd6b63eb10542be17db6dfa52b2a1028111951aa18ba1273aceb"
+        },
+        {
+          "community": 1,
+          "row": 1483,
+          "role": "batas",
+          "canonical_id": "f587089689417f9f",
+          "source_sha256": "780fce045a088854048ae63e24df077ec77c3238e93bd38ae5d3985c66a4eeca"
+        },
+        {
+          "community": 1,
+          "row": 468,
+          "role": "acak",
+          "canonical_id": "e3eaf507766afd28",
+          "source_sha256": "7d03bf95358c5b7a36716e0dbd73ad137ceb8b6436a5c963a51bbf85511661b0"
+        },
+        {
+          "community": 2,
+          "row": 2514,
+          "role": "pusat",
+          "canonical_id": "4561f1400f5df16d",
+          "source_sha256": "2643454f9412bdb12c7036c8d69cd439526aa6ef7eab4c1aa1fb029e5408d886"
+        },
+        {
+          "community": 2,
+          "row": 2400,
+          "role": "pusat",
+          "canonical_id": "add5e4e50c897bb3",
+          "source_sha256": "ec93e31728da226ab92087d9403a98a0a368c67a477f21907e9d307a453270d8"
+        },
+        {
+          "community": 2,
+          "row": 2438,
+          "role": "pusat",
+          "canonical_id": "876e5155337b055f",
+          "source_sha256": "23deb9b5f4a9ccf3b081c3daea0ce2dbfce5a377fce839803331e0bc429ee589"
+        },
+        {
+          "community": 2,
+          "row": 2277,
+          "role": "pusat",
+          "canonical_id": "c2c37a97286beec4",
+          "source_sha256": "2ce87c42ef9060577a0e740c7ac7b993fa4e7571084cc77a09739b99a291650e"
+        },
+        {
+          "community": 2,
+          "row": 1433,
+          "role": "batas",
+          "canonical_id": "cb8af7a885824c0f",
+          "source_sha256": "138f0a027cae0c4d17c5fdea901256a5d49c6ac82eceb7437bf26474e127c59e"
+        },
+        {
+          "community": 2,
+          "row": 1431,
+          "role": "batas",
+          "canonical_id": "caa18891730212f9",
+          "source_sha256": "08b9a601e2bc5c74a191d4715462db2cc94c93686324b22a5a40be92a22e2e61"
+        },
+        {
+          "community": 2,
+          "row": 1448,
+          "role": "batas",
+          "canonical_id": "1f345a4561e776f8",
+          "source_sha256": "c20d71b3874cfe7225a0468ef64c60d014597a0e4d16a76abcdc9936eb27199a"
+        },
+        {
+          "community": 2,
+          "row": 2423,
+          "role": "acak",
+          "canonical_id": "09bb010a9a7831e0",
+          "source_sha256": "1fcc75d222d8c17130708815700ab0188f4724df46efc4ff8606a68e6750eeee"
+        }
+      ]
+    },
+    {
+      "path": "review/leiden_review_02.jpg",
+      "rows": [
+        {
+          "community": 3,
+          "row": 3567,
+          "role": "pusat",
+          "canonical_id": "35cee8db33b1cc0e",
+          "source_sha256": "60653422410c5561eecdff8572fead19d9497edc3a89d000ad0895ed1c3c481e"
+        },
+        {
+          "community": 3,
+          "row": 3390,
+          "role": "pusat",
+          "canonical_id": "6094195ffe5aa2a4",
+          "source_sha256": "2b9ed8224b977b7da18665f5e2bacb95fe5aadf08b637da296b13088553fb43e"
+        },
+        {
+          "community": 3,
+          "row": 3382,
+          "role": "pusat",
+          "canonical_id": "f95e525fa9432add",
+          "source_sha256": "34ecc8ce60e9768755c63178dc71493b3a96d57978af7b1eeeff30fde7c1b9d7"
+        },
+        {
+          "community": 3,
+          "row": 3479,
+          "role": "pusat",
+          "canonical_id": "9288a2e05b6ee3e3",
+          "source_sha256": "08c10cb7ae767c281551480af1c4b15e8506c7f85f1041505fe02353a58cf756"
+        },
+        {
+          "community": 3,
+          "row": 3412,
+          "role": "batas",
+          "canonical_id": "cab60618b2bea3e6",
+          "source_sha256": "f893a41c7a4c2196cd4cef81a1c0c8864f7a5570cccac0a35c147329d29f0d7a"
+        },
+        {
+          "community": 3,
+          "row": 238,
+          "role": "batas",
+          "canonical_id": "c909b1ddda2e9e3f",
+          "source_sha256": "8956bad567e7f763a5e6eb4d8b494fb026402036409a7798cfd127a6a0900034"
+        },
+        {
+          "community": 3,
+          "row": 3432,
+          "role": "batas",
+          "canonical_id": "109a68490e8ec0aa",
+          "source_sha256": "0597687879dca749bc41cca3d06ba73886b07b3344dd8bd8ad6b150bc50a8654"
+        },
+        {
+          "community": 3,
+          "row": 3414,
+          "role": "acak",
+          "canonical_id": "067923566b055c2c",
+          "source_sha256": "5af8936db5565192e8f602dafe479613800fe848e8c9c44a9cfaea7042a8f312"
+        },
+        {
+          "community": 4,
+          "row": 3617,
+          "role": "pusat",
+          "canonical_id": "322d505ec18187a2",
+          "source_sha256": "d3bd207cd1bf4b8d79bc3eed61b434beec95f103fc6df08d4afdfaaf51aebe57"
+        },
+        {
+          "community": 4,
+          "row": 3887,
+          "role": "pusat",
+          "canonical_id": "da7f34f600a836a1",
+          "source_sha256": "0de0dd2a511f84e5e6576da9fa8e023e476704a3ecf4a2a5f676748560c89f2b"
+        },
+        {
+          "community": 4,
+          "row": 3892,
+          "role": "pusat",
+          "canonical_id": "d0f3f5923c418648",
+          "source_sha256": "e5819b6abfb66e27e650a9d97d06b2c9357a946705dc6ae7bb18767b8c150ffa"
+        },
+        {
+          "community": 4,
+          "row": 3638,
+          "role": "pusat",
+          "canonical_id": "edf9defa4790e8ed",
+          "source_sha256": "5fd45ea87f4bf33b8480bcac557501739deccee35e598ad8587c9fa37a7207dc"
+        },
+        {
+          "community": 4,
+          "row": 3287,
+          "role": "batas",
+          "canonical_id": "a596b60b0bf5bc46",
+          "source_sha256": "2723503b28d2c69e0fa3845c371bfa81faea1c27322a3695305eb175d5a0b25d"
+        },
+        {
+          "community": 4,
+          "row": 3701,
+          "role": "batas",
+          "canonical_id": "740445dc1630c572",
+          "source_sha256": "70034401dcc2b0493505862ea8836b101e77da064cf982305324134da33c26f2"
+        },
+        {
+          "community": 4,
+          "row": 3860,
+          "role": "batas",
+          "canonical_id": "e9afe24b13e1ab56",
+          "source_sha256": "10d22897b416000ac7a3a20c9377514041a92f6927ca706769dd3dc2c666550d"
+        },
+        {
+          "community": 4,
+          "row": 3653,
+          "role": "acak",
+          "canonical_id": "544615c399ab78be",
+          "source_sha256": "f7f4b0a517f576a6ad0117316f0a50e6262bc2bae8a48edce6ac804ce531aaf1"
+        },
+        {
+          "community": 5,
+          "row": 3217,
+          "role": "pusat",
+          "canonical_id": "f64cff9412f2bee6",
+          "source_sha256": "a65c033f11fdc62f3e3e19ebccf0550aca2bfd4d6f1f57e747544eddba99cf3a"
+        },
+        {
+          "community": 5,
+          "row": 3093,
+          "role": "pusat",
+          "canonical_id": "4109b269558ea26f",
+          "source_sha256": "1a344636fb59560a78a2cf1569f17ab157397510e07f978b2b6c5f07cba0e7b9"
+        },
+        {
+          "community": 5,
+          "row": 3094,
+          "role": "pusat",
+          "canonical_id": "2ecbcc974aa84e48",
+          "source_sha256": "3161d48ecbabc57eca8d2cce3eda181dc28690f628fff8c9036f0bc1fe47c2f1"
+        },
+        {
+          "community": 5,
+          "row": 3195,
+          "role": "pusat",
+          "canonical_id": "125616a126d600fc",
+          "source_sha256": "93ab36ce14b654cc407edbdc40ad15390f21f9759df239cfe9ff776cf37d8137"
+        },
+        {
+          "community": 5,
+          "row": 3277,
+          "role": "batas",
+          "canonical_id": "81a89825f12d0abf",
+          "source_sha256": "d27902160a6e7a4d86dbc640c1b77813ad5c5f1da52daa9aec76afc28e45f42a"
+        },
+        {
+          "community": 5,
+          "row": 3261,
+          "role": "batas",
+          "canonical_id": "ba59ae579c2bb1bd",
+          "source_sha256": "92140f370c20734f49c5ac39c2805759ad9ed8fa2ca5fa4a33fab1f6bb819426"
+        },
+        {
+          "community": 5,
+          "row": 3199,
+          "role": "batas",
+          "canonical_id": "9460018b0f5b739e",
+          "source_sha256": "dfdc749e4c251eb3731d5d88ac16e731d4103affcada178ac52f1c3e2d3ef2ac"
+        },
+        {
+          "community": 5,
+          "row": 3262,
+          "role": "acak",
+          "canonical_id": "7d311fe28bcc8b4d",
+          "source_sha256": "175a7698f460ee108d869a44e2864f286a7ac5ac0d99480b5e7aa4c4bcdd1790"
+        }
+      ]
+    },
+    {
+      "path": "review/leiden_review_03.jpg",
+      "rows": [
+        {
+          "community": 6,
+          "row": 2996,
+          "role": "pusat",
+          "canonical_id": "4c80926f2a51cfe7",
+          "source_sha256": "cbc2d69eff97e9bcb29941297252db45942abd1b1c3a1ac75389b6d7668069e3"
+        },
+        {
+          "community": 6,
+          "row": 2983,
+          "role": "pusat",
+          "canonical_id": "efaee55873b7f8d8",
+          "source_sha256": "ab355cbc50d17721039f7387eb3e61853147ad19aa48af59d7928db010d8b2c8"
+        },
+        {
+          "community": 6,
+          "row": 2759,
+          "role": "pusat",
+          "canonical_id": "292cdca2952473fe",
+          "source_sha256": "4012855b0882b1301ad311d95d4f4985e2025e433a633b65f4ef588bd4860389"
+        },
+        {
+          "community": 6,
+          "row": 2912,
+          "role": "pusat",
+          "canonical_id": "ff4b2c1f1b077870",
+          "source_sha256": "0ac940558a33bff408d64a71729cb542031470fa6721b02a9e8ecb1b15681619"
+        },
+        {
+          "community": 6,
+          "row": 3824,
+          "role": "batas",
+          "canonical_id": "6b24ca21a30e2420",
+          "source_sha256": "7547d3dcf89dc2c494fe841317417dda9d84c89666017abb7b12fe728d39a1eb"
+        },
+        {
+          "community": 6,
+          "row": 1700,
+          "role": "batas",
+          "canonical_id": "09532c6ace9371a7",
+          "source_sha256": "2d2116d6ca2d7326fccbf09f11ce9db8dc984ceaeaf392d64fff00e81e21908c"
+        },
+        {
+          "community": 6,
+          "row": 2842,
+          "role": "batas",
+          "canonical_id": "6740ee72d2ce02aa",
+          "source_sha256": "6196f55206ad51f855240bf6b06be582ac7f174c7a920f9f21fa7dda96c1840d"
+        },
+        {
+          "community": 6,
+          "row": 2801,
+          "role": "acak",
+          "canonical_id": "551073f64f1a39b6",
+          "source_sha256": "a4ad68979c047d5d578b297b09fdf67280892b222727bb35412241de70c3423f"
+        },
+        {
+          "community": 7,
+          "row": 1795,
+          "role": "pusat",
+          "canonical_id": "a83244551c22bb57",
+          "source_sha256": "30622520a53dda1c42d8af468bc97d8c966102084fdee485d6c9f84072680e58"
+        },
+        {
+          "community": 7,
+          "row": 1942,
+          "role": "pusat",
+          "canonical_id": "a2420a58669bae30",
+          "source_sha256": "7a52642a6bba61ed18ae78a84081cedc0014241debf0d975a721e0a1c37574b4"
+        },
+        {
+          "community": 7,
+          "row": 1957,
+          "role": "pusat",
+          "canonical_id": "58c75abe74ada189",
+          "source_sha256": "5fb0c091d7bd80fd24250e0de85559152a1499c3cc945501419efac2571c37da"
+        },
+        {
+          "community": 7,
+          "row": 1770,
+          "role": "pusat",
+          "canonical_id": "958e3d4999044285",
+          "source_sha256": "3685ce0664f42f555e97b9880702f7a2610d5f55eea31dbbb9557a20176979fc"
+        },
+        {
+          "community": 7,
+          "row": 1961,
+          "role": "batas",
+          "canonical_id": "ed97368c44f7e829",
+          "source_sha256": "f56a17ab8addc2c3d931f3b72808016519c0c51176a11d7dcf02a1b6d562d5b6"
+        },
+        {
+          "community": 7,
+          "row": 1725,
+          "role": "batas",
+          "canonical_id": "7e0842e2794acb74",
+          "source_sha256": "94fe89f13f71b8a906da09c6090a54d30ed588f8ea6c5f6a8216d369e687bdea"
+        },
+        {
+          "community": 7,
+          "row": 1912,
+          "role": "batas",
+          "canonical_id": "3a0cbb5614f6f734",
+          "source_sha256": "76dbfa557fd17ff9609b02a170c59cbf8ceb5ac0a5e9c0d8d7c9cb65d3475276"
+        },
+        {
+          "community": 7,
+          "row": 1752,
+          "role": "acak",
+          "canonical_id": "7d2d0911687b2320",
+          "source_sha256": "956ec9e542cde7771491763ec562ee6907dd7e8bfdd00a31c140aaa00162b7e4"
+        },
+        {
+          "community": 8,
+          "row": 2558,
+          "role": "pusat",
+          "canonical_id": "ebf0623531d70bf7",
+          "source_sha256": "e8d733e203a56d8af8aca3f6b4d05da8fac844f016f3bc474ff0bb3a74292e88"
+        },
+        {
+          "community": 8,
+          "row": 2525,
+          "role": "pusat",
+          "canonical_id": "f2b00c387b94a8a5",
+          "source_sha256": "57f36ac671ed5a4dfe31a34d29c63bcf682364d08f0be25017ff2e98381c4ab9"
+        },
+        {
+          "community": 8,
+          "row": 2631,
+          "role": "pusat",
+          "canonical_id": "00d40c2b2eb8d7b7",
+          "source_sha256": "2986199d37140099f1d5c25b6bf0b7826ec5c62a54e63ab5e64964085c2f660e"
+        },
+        {
+          "community": 8,
+          "row": 2625,
+          "role": "pusat",
+          "canonical_id": "d96650f326e6b564",
+          "source_sha256": "1da8a985d7b016c254a4e2a6eb52cfe51f631f2476f37d3fd478e6cea6018fde"
+        },
+        {
+          "community": 8,
+          "row": 2586,
+          "role": "batas",
+          "canonical_id": "68664b5a01a05f7d",
+          "source_sha256": "b39f8c54f58dc4c06fff8d45f94f0b6da46bd4ab743c84bd4ee76eb3f3368415"
+        },
+        {
+          "community": 8,
+          "row": 779,
+          "role": "batas",
+          "canonical_id": "f92932b857e07c40",
+          "source_sha256": "435025b4f53b4576eadf70926fbcb99bc40cc36dbcdfb7845ba38afe4bdf1d9c"
+        },
+        {
+          "community": 8,
+          "row": 2538,
+          "role": "batas",
+          "canonical_id": "6cdd2889e7b4d8ae",
+          "source_sha256": "77374ac4eb2156d3f20204ee036b219f9d2b8ed9f3460b237036da02f0596fec"
+        },
+        {
+          "community": 8,
+          "row": 2545,
+          "role": "acak",
+          "canonical_id": "0c99aec04dff9e87",
+          "source_sha256": "f8836cf8165bcce5e7870c8323bdf5e3ea7cec961533ba6c0eb42489340470fc"
+        }
+      ]
+    },
+    {
+      "path": "review/leiden_review_04.jpg",
+      "rows": [
+        {
+          "community": 9,
+          "row": 1607,
+          "role": "pusat",
+          "canonical_id": "d4e4a17c31973684",
+          "source_sha256": "9ef161b02982ce491919e9017b75cb01c085395607b8158fdef4368f744336ff"
+        },
+        {
+          "community": 9,
+          "row": 1638,
+          "role": "pusat",
+          "canonical_id": "d33d9ab3ec0573c5",
+          "source_sha256": "a9b6917109fc9e6b99e272fc43e4a62ce85c5fbf65949842c4a900f390c540ef"
+        },
+        {
+          "community": 9,
+          "row": 1619,
+          "role": "pusat",
+          "canonical_id": "5cad35c9b2a024fd",
+          "source_sha256": "cabc5daa778a46136ac452737fb997f7677821e6ff65162db12bc860920f2569"
+        },
+        {
+          "community": 9,
+          "row": 1592,
+          "role": "pusat",
+          "canonical_id": "dd946e438db2ae89",
+          "source_sha256": "7d152a0f2194d9e20cc699cf793f1a90517e1c009c85ed6d6e5dbe45379aab2f"
+        },
+        {
+          "community": 9,
+          "row": 2445,
+          "role": "batas",
+          "canonical_id": "c70a0cfcf2103938",
+          "source_sha256": "ac057c44c41283602167754d0caf27d4153a19e746d17a219d6c92a716387dc0"
+        },
+        {
+          "community": 9,
+          "row": 3838,
+          "role": "batas",
+          "canonical_id": "caee14088307ea78",
+          "source_sha256": "d57787bbf5884fad38fc3c1a67a957f91dc0b8ecdf327f6fd0e296a234a3372c"
+        },
+        {
+          "community": 9,
+          "row": 2319,
+          "role": "batas",
+          "canonical_id": "897ddd13fb583cb4",
+          "source_sha256": "ce8762728b34a97fb0f05bb6034e78027924b0e3e6c7fbdb10371cd8fdc99573"
+        },
+        {
+          "community": 9,
+          "row": 1571,
+          "role": "acak",
+          "canonical_id": "8312738d4023cfe0",
+          "source_sha256": "ae00544401e5ca3bbe07fc2669298d6303cdef82eb16f7abd1d58f4114b41fdd"
+        },
+        {
+          "community": 10,
+          "row": 443,
+          "role": "pusat",
+          "canonical_id": "0065ea44bcd594b9",
+          "source_sha256": "7705bb6d53795013af8852969e1bdc4e5a9ba05b4f13f61742e969fcb574d772"
+        },
+        {
+          "community": 10,
+          "row": 447,
+          "role": "pusat",
+          "canonical_id": "cd23542229e32001",
+          "source_sha256": "9a48094e6602a355b52e638710f30a3233ea34d2dbc726467a98ac85506ceda2"
+        },
+        {
+          "community": 10,
+          "row": 429,
+          "role": "pusat",
+          "canonical_id": "adf719458e591daf",
+          "source_sha256": "cdb6441b84ffea2549de0c5cafb2f752ae4b0b17a66ec5236e60d962a301386b"
+        },
+        {
+          "community": 10,
+          "row": 441,
+          "role": "pusat",
+          "canonical_id": "b06071e3c74f3dcb",
+          "source_sha256": "37dab69f22f837b095983954d195dc7554be44480c7fb2de1d0819b07e5d6668"
+        },
+        {
+          "community": 10,
+          "row": 566,
+          "role": "batas",
+          "canonical_id": "0bad5a9c82b8c983",
+          "source_sha256": "f95cc17ad8778b521afdbe4d2802effca50030838b91b8263faf24874a9a3ee8"
+        },
+        {
+          "community": 10,
+          "row": 744,
+          "role": "batas",
+          "canonical_id": "abb7bd850f5ff00b",
+          "source_sha256": "3b97df03b3cbdd42a3d44103ef01b9d3bac4504c2460d75946b7e4395800907e"
+        },
+        {
+          "community": 10,
+          "row": 738,
+          "role": "batas",
+          "canonical_id": "bcb1eb732acd5c44",
+          "source_sha256": "1c5a8ab088db8246b2e175d95174ec38df7e2d653cbfc00a55dff4cf4aa72ce9"
+        },
+        {
+          "community": 10,
+          "row": 407,
+          "role": "acak",
+          "canonical_id": "a08ca9a4643c324f",
+          "source_sha256": "5bb0353a7794305cb87b78a5c4becf0110e578b600a11904077f0c343575c526"
+        },
+        {
+          "community": 11,
+          "row": 229,
+          "role": "pusat",
+          "canonical_id": "089a7d492a733109",
+          "source_sha256": "b939cf139071fe6f53564ea7f937fdc0afa1648185fd374af73d19a254e069f8"
+        },
+        {
+          "community": 11,
+          "row": 1377,
+          "role": "pusat",
+          "canonical_id": "9d27a2e02c320006",
+          "source_sha256": "b1674a5dc44a5f25a441cf18de7b6eb61dec149b1cb04771d867cdca4ce46fca"
+        },
+        {
+          "community": 11,
+          "row": 1381,
+          "role": "pusat",
+          "canonical_id": "1286ebd2e8f13f43",
+          "source_sha256": "7da039a2992b67daffc49dc1e6f34de230e96eb2ace2af3fb338c77d359764cc"
+        },
+        {
+          "community": 11,
+          "row": 1399,
+          "role": "pusat",
+          "canonical_id": "34f62255ac4d2e31",
+          "source_sha256": "59846a9612f2b4d8b9c27c25e1b1c57b1b3048543b5298b989c36e2adb36dbb8"
+        },
+        {
+          "community": 11,
+          "row": 153,
+          "role": "batas",
+          "canonical_id": "3a888e1226153bdb",
+          "source_sha256": "c5092f9d71b3a661e51aca49690e616a1fe51196880598b9e325dbd1265c683b"
+        },
+        {
+          "community": 11,
+          "row": 130,
+          "role": "batas",
+          "canonical_id": "bd0ef048ac8cecd6",
+          "source_sha256": "a8c7c46578b2bf394f557c896a65e8877e168d3daf1cfe19a0d6749748b61a88"
+        },
+        {
+          "community": 11,
+          "row": 2213,
+          "role": "batas",
+          "canonical_id": "ba86746dad83d446",
+          "source_sha256": "c57d05c09b8d353474cf94c491575c488ddb0669c2adf7f14d61af47b04e3815"
+        },
+        {
+          "community": 11,
+          "row": 1409,
+          "role": "acak",
+          "canonical_id": "35e64edfc86a9a9a",
+          "source_sha256": "f5df974a77498ed7067a2686288f56e2b36ddde6dea244d5dfc3ff20e11410d2"
+        }
+      ]
+    },
+    {
+      "path": "review/leiden_review_05.jpg",
+      "rows": [
+        {
+          "community": 12,
+          "row": 1070,
+          "role": "pusat",
+          "canonical_id": "abf725210242d43a",
+          "source_sha256": "1615bac4d2882d10205e00253def736155a30e1896719aa05752f48a3005f2cf"
+        },
+        {
+          "community": 12,
+          "row": 1086,
+          "role": "pusat",
+          "canonical_id": "d587394d5f5ef52e",
+          "source_sha256": "a7e2d035cefa67293d2e5fd9858d01aa254f09520c572ed396d4ee05e131958e"
+        },
+        {
+          "community": 12,
+          "row": 1142,
+          "role": "pusat",
+          "canonical_id": "e25ab5d18ec5bdf0",
+          "source_sha256": "b51ba969c52dc20b4035b69ec3be7da08d8f1a1351a68a7494967dd68d478ec0"
+        },
+        {
+          "community": 12,
+          "row": 1183,
+          "role": "pusat",
+          "canonical_id": "19a387c82a783729",
+          "source_sha256": "c53ba1184ec1be35d5c8e246ef68eb592e9d3a40a0c2efa6ac0e509c2b0fea7e"
+        },
+        {
+          "community": 12,
+          "row": 1066,
+          "role": "batas",
+          "canonical_id": "60dd7809c5dfe3f6",
+          "source_sha256": "d33557b98c144dfc505a78cabceb5dd060d685ae12edc3376f3257910489f5f6"
+        },
+        {
+          "community": 12,
+          "row": 1974,
+          "role": "batas",
+          "canonical_id": "d5dcb96967922df1",
+          "source_sha256": "1345cc58ec0189c386534db6d812d02b50902bf4db7cced8c570692eec11b090"
+        },
+        {
+          "community": 12,
+          "row": 2949,
+          "role": "batas",
+          "canonical_id": "1917d2237dc6c7b9",
+          "source_sha256": "38d5fbe9673036ceb9501b9ad0b7456b46e27f3c632eb2163b7fbec8c72e3cc6"
+        },
+        {
+          "community": 12,
+          "row": 1110,
+          "role": "acak",
+          "canonical_id": "dbe15979148c4b7d",
+          "source_sha256": "62281ee808bbaaa9bf0aeced73fe86854eaf3ed2b7585b90dc0c3ab67f8bac3b"
+        },
+        {
+          "community": 13,
+          "row": 1148,
+          "role": "pusat",
+          "canonical_id": "5b2a425897642c5a",
+          "source_sha256": "29b3acc3121d34d7d7e88510ca70852971887daa550efd3061800abfb6f4ece3"
+        },
+        {
+          "community": 13,
+          "row": 1098,
+          "role": "pusat",
+          "canonical_id": "2dc8c9fc773bbd3f",
+          "source_sha256": "38dba86feca3765e30d1d2a1a37600ab7811ebdf62c7697f2f81f01d1e8c55c2"
+        },
+        {
+          "community": 13,
+          "row": 1050,
+          "role": "pusat",
+          "canonical_id": "7633bc28274ac427",
+          "source_sha256": "2ec75f7c9ea3667dff4d94b3c75fb152cace696c60ca85afff263c9c581a01a2"
+        },
+        {
+          "community": 13,
+          "row": 1103,
+          "role": "pusat",
+          "canonical_id": "8acb5e3994501941",
+          "source_sha256": "9fb883d0d222ad4164ac1ce293f23da8717a20ae121bc2148429923eeb3b1209"
+        },
+        {
+          "community": 13,
+          "row": 3927,
+          "role": "batas",
+          "canonical_id": "9a90f6d66305c1e7",
+          "source_sha256": "97bbfcf3d21a041de9aa328196bc1b90e711b6c6ff0920fe6f042dd0dab27d6b"
+        },
+        {
+          "community": 13,
+          "row": 1210,
+          "role": "batas",
+          "canonical_id": "7668ab21be841aac",
+          "source_sha256": "29f2d33eef9b38381cf190ab2ec7e9a847b5712fd50c2a78518ce80d502fe3b0"
+        },
+        {
+          "community": 13,
+          "row": 1135,
+          "role": "batas",
+          "canonical_id": "839e8290a64669af",
+          "source_sha256": "d20a4058e2cdd69da4f1b342df2f2b1c2386c6807365e8681e5015f7689baf88"
+        },
+        {
+          "community": 13,
+          "row": 1144,
+          "role": "acak",
+          "canonical_id": "60f9656806a9597a",
+          "source_sha256": "5a628c4156e0e3f9675b14a3b116e69939ad623437657ff0d8418ff8c416ff55"
+        },
+        {
+          "community": 14,
+          "row": 3917,
+          "role": "pusat",
+          "canonical_id": "eb0d1318d1125504",
+          "source_sha256": "bb60356ebc00183e177b95f8d3576275eadd05bc7a97032e422f58f4e88d0530"
+        },
+        {
+          "community": 14,
+          "row": 3913,
+          "role": "pusat",
+          "canonical_id": "ac7f2d3dde0d52a9",
+          "source_sha256": "4b07bcb1f809abdc443901cae1d001793ac860e9ff099d82f8000eb29802df1a"
+        },
+        {
+          "community": 14,
+          "row": 3907,
+          "role": "pusat",
+          "canonical_id": "fba80a57dfdb8491",
+          "source_sha256": "1dcbfb69258333569974754dcf22fb6d6abe503216bfba46b06bd590b4954735"
+        },
+        {
+          "community": 14,
+          "row": 3908,
+          "role": "pusat",
+          "canonical_id": "28439f2dc02e4550",
+          "source_sha256": "08b9404a6201ef072ff123122582692bfa0a3f0ba0831e68b6f12159c541a60c"
+        },
+        {
+          "community": 14,
+          "row": 1257,
+          "role": "batas",
+          "canonical_id": "95116e51e835b56f",
+          "source_sha256": "0928137958c757b29ced5b6d91d0d339b9f281364c73f73f71b334b2b59cdb2c"
+        },
+        {
+          "community": 14,
+          "row": 1430,
+          "role": "batas",
+          "canonical_id": "5123805dba1cafef",
+          "source_sha256": "8ec1671a2325e063dfc55062cf3760c37eaf50878a1c3bc684cf892400ab3dc0"
+        },
+        {
+          "community": 14,
+          "row": 1447,
+          "role": "batas",
+          "canonical_id": "93bd745121742ea7",
+          "source_sha256": "53e21afb2e274116d88aabe2e763fddf59322831806f2bf60fbaa2f534362df0"
+        },
+        {
+          "community": 14,
+          "row": 1441,
+          "role": "acak",
+          "canonical_id": "ea6021eb3a75b6f9",
+          "source_sha256": "c74541b6e0c2559b104b8a54f13299d4ae8f58fec576fc430ce0ab120267b697"
+        }
+      ]
+    }
+  ]
+}

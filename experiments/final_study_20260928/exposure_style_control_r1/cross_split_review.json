@@ -1,0 +1,33 @@
+{
+  "scope": "Visual source screen of all 130 development and 48 test originals; four candidate pairs compared side by side at larger size. Adaptive single-agent inspection, not exhaustive forensic source verification.",
+  "development_photos": 130,
+  "test_photos": 48,
+  "confirmed_cross_split_same_scene_pairs": 0,
+  "candidate_pairs": [
+    {
+      "test_review_id": "S10",
+      "development_review_id": "D021",
+      "decision": "different_visible_arrangement",
+      "reason": "Keyboard orientation, board arrangement and underlying objects differ; no shared crop identified."
+    },
+    {
+      "test_review_id": "S43",
+      "development_review_id": "D040",
+      "decision": "different_visible_arrangement",
+      "reason": "Different laptop arrangement and surroundings; development view has BROKEN note and separate blower."
+    },
+    {
+      "test_review_id": "S33",
+      "development_review_id": "D092",
+      "decision": "unresolved",
+      "reason": "Similar blue-toned piles, but development image is strongly blurred; common source cannot be established or excluded. Sensitivity excludes this test scene."
+    },
+    {
+      "test_review_id": "S11",
+      "development_review_id": "D047",
+      "decision": "different_visible_arrangement",
+      "reason": "Test scene has disassembled CRT-like metal frames; development scene shows laptop bodies, keyboard and drives in a different arrangement."
+    }
+  ],
+  "claim_limit": "No confirmed same-scene cross-split pair was identified in this screen. This does not establish independence of all source derivatives."
+}

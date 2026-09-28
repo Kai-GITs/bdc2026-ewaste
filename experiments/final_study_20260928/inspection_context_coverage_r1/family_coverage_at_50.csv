@@ -1,0 +1,388 @@
+method,family_internal,visual_name,selected_photos,selected_contexts,contexts_with_two_photos,counts,full_contexts,median_partition_jaccard,coherence,shortcut_risk,semantic_status
+discovery_greedy,0,permukaan papan sirkuit terpopulasi,3,2,1,"{""0"": 2, ""8"": 1}",2,0.6737400530503979,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,1,permukaan layar gelap perangkat genggam,2,1,1,"{""1"": 2}",2,0.7948717948717948,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,2,fragmen tumpukan perangkat dan layar,3,1,1,"{""0"": 3}",4,0.6227758007117438,2,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,3,zona depan dan keluaran pencetak,2,1,1,"{""5"": 2}",3,0.944636678200692,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,4,fragmen permukaan dan latar campuran,1,1,0,"{""10"": 1}",7,0.594017094017094,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,5,matriks tombol papan ketik,3,2,1,"{""9"": 2, ""10"": 1}",2,0.6635220125786163,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,6,cangkang dan kontrol tetikus,2,1,1,"{""2"": 2}",3,0.5138888888888888,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,7,panel depan perangkat audio,2,1,1,"{""6"": 2}",7,0.6188925081433225,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,8,tepi bawah perangkat gelap,3,3,0,"{""0"": 1, ""9"": 1, ""14"": 1}",8,0.9337016574585636,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,9,fragmen kisi tombol,2,2,0,"{""9"": 1, ""10"": 1}",3,0.4939759036144578,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,10,casing dan terminal paket baterai,2,2,0,"{""8"": 1, ""12"": 1}",2,0.987012987012987,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,11,permukaan layar gelap monitor,2,2,0,"{""3"": 1, ""10"": 1}",4,0.9726027397260274,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,12,basis dan tepi objek terang,0,0,0,{},14,0.6491228070175439,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,13,papan sirkuit dalam rakitan dan tumpukan,2,1,1,"{""0"": 2}",4,0.1932989690721649,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,14,fragmen objek pada adegan limbah,1,1,0,"{""0"": 1}",7,0.7230769230769231,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,15,strip samping speaker dan layar,2,1,1,"{""3"": 2}",6,0.6030534351145038,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,16,muka layar tabung,2,1,1,"{""3"": 2}",3,0.7058823529411765,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,17,kabel dan tepi periferal,2,2,0,"{""0"": 1, ""10"": 1}",14,0.925,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,18,slot atau keluaran perangkat cetak,3,2,1,"{""5"": 2, ""9"": 1}",10,0.408695652173913,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,19,panel samping peralatan terang,3,2,1,"{""4"": 2, ""5"": 1}",4,0.4732142857142857,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,20,panel kontrol microwave,2,1,1,"{""7"": 2}",1,0.7874015748031497,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,21,permukaan layar aktif,2,2,0,"{""3"": 1, ""11"": 1}",5,0.6635514018691588,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,22,sasis internal komputer meja,3,2,1,"{""0"": 2, ""3"": 1}",4,0.3514644351464435,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,23,dek masukan laptop,2,2,0,"{""0"": 1, ""11"": 1}",3,0.4468085106382978,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,24,pintu atau rongga microwave,2,1,1,"{""7"": 2}",1,0.9444444444444444,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,25,fragmen kemasan tangan dan tumpukan,1,1,0,"{""0"": 1}",7,0.723404255319149,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,26,casing belakang perangkat genggam,2,2,0,"{""1"": 1, ""12"": 1}",5,0.75,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,27,keyboard dan dek laptop,2,1,1,"{""11"": 2}",2,0.9148936170212766,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,28,label dan bidang atas persegi panjang,0,0,0,{},6,0.976470588235294,2,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,29,aksesori campuran,0,0,0,{},9,0.3525641025641026,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,30,pintu akses mesin cuci,2,1,1,"{""4"": 2}",2,0.675,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,31,fragmen internal laptop dan slot,2,1,1,"{""0"": 2}",7,0.3275109170305676,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,32,isi layar dan antarmuka,2,2,0,"{""0"": 1, ""11"": 1}",7,0.9240506329113924,3,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,33,penutup luar laptop,2,2,0,"{""0"": 1, ""11"": 1}",2,0.9342105263157896,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,34,retak dan pecah layar,3,3,0,"{""0"": 1, ""1"": 1, ""3"": 1}",4,0.5631067961165048,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,35,tangan toko dan konteks ponsel,1,1,0,"{""0"": 1}",8,0.4933333333333333,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,36,tepi dan port laptop,3,1,1,"{""0"": 3}",3,0.7101449275362319,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,37,gambar pada kertas atau layar,0,0,0,{},4,0.8363636363636363,2,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,38,label ujung baterai dan panel kecil,3,2,1,"{""0"": 1, ""13"": 2}",7,0.7361111111111112,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,39,rakitan layar laptop,3,3,0,"{""0"": 1, ""10"": 1, ""11"": 1}",5,0.9433962264150944,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,40,panel atas mesin cuci,2,1,1,"{""4"": 2}",2,0.8823529411764706,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,41,kemasan sirkuit terpadu,2,1,1,"{""0"": 2}",2,0.96,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,42,panel samping peralatan,2,1,1,"{""7"": 2}",4,0.2156862745098039,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,43,baki dan jalur media pencetak,2,1,1,"{""5"": 2}",2,0.951219512195122,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,44,tutup dan area pemutar rekaman,2,2,0,"{""0"": 1, ""5"": 1}",6,0.6122448979591837,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,45,bingkai pintu mesin cuci,2,1,1,"{""4"": 2}",1,0.3482142857142857,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,46,piringan dan rekaman pemutar,2,1,1,"{""6"": 2}",1,0.926829268292683,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,47,tanah dan vegetasi sekitar perangkat,1,1,0,"{""11"": 1}",9,0.6363636363636364,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,48,matriks tombol ergonomis,3,2,1,"{""9"": 2, ""10"": 1}",3,0.6486486486486487,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,49,bingkai bawah atau penyangga layar,3,3,0,"{""0"": 1, ""3"": 1, ""10"": 1}",3,0.4029850746268656,3,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,50,tanah atau basis di bawah perangkat,1,1,0,"{""0"": 1}",5,0.9629629629629628,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,51,saklar dan soket dinding,2,1,1,"{""14"": 2}",1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,52,garis dan panel layar rusak,2,1,1,"{""3"": 2}",2,0.2763157894736842,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,53,konteks fasilitas dan tumpukan e-waste,2,2,0,"{""0"": 1, ""10"": 1}",4,0.9545454545454546,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,54,sisi dan kontrol tetikus,2,1,1,"{""2"": 2}",1,0.9444444444444444,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,55,bola atau kontrol bundar perangkat,2,2,0,"{""2"": 1, ""5"": 1}",3,0.2125,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,56,CRT dalam tumpukan limbah,2,1,1,"{""0"": 2}",2,0.0582010582010582,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,57,cangkang belakang tetikus,1,1,0,"{""9"": 1}",2,0.0769230769230769,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,58,kaki furnitur dan basis adegan,0,0,0,{},5,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,59,papan ketik dalam tumpukan,1,1,0,"{""0"": 1}",1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,60,tepi pintu atau rongga microwave,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,61,bagian putar atau kipas pada rakitan,1,1,0,"{""0"": 1}",2,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,62,fragmen matriks tombol kecil,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,63,fragmen papan sirkuit buram,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,64,retak layar langka,2,1,1,"{""1"": 2}",1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,65,fragmen objek dan adegan campuran,0,0,0,{},3,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,66,sudut penutup laptop satu sumber,1,1,0,"{""11"": 1}",1,1.0,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,67,perangkat rusak berat dalam limbah,0,0,0,{},1,0.0248447204968944,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,68,asap atau pembakaran di sekitar e-waste,0,0,0,{},1,1.0,3,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,69,strip samping papan ketik,1,1,0,"{""10"": 1}",1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,70,corong gramofon,2,1,1,"{""6"": 2}",1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,71,tepi vertikal perangkat gelap,0,0,0,{},2,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,72,area kontrol perangkat terbuka,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,73,bidang hitam sudut bawah,2,2,0,"{""0"": 1, ""9"": 1}",3,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,74,antarmuka aktif ponsel,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,75,basis bundar atau drum perangkat,0,0,0,{},2,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,76,panel layar gelap langka,2,2,0,"{""3"": 1, ""10"": 1}",2,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,77,konektor gelap pada papan satu sumber,1,1,0,"{""8"": 1}",1,1.0,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,78,matriks tombol langka,2,1,1,"{""10"": 2}",2,0.0405405405405405,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,79,bukaan dan kontrol kecil campuran,1,1,0,"{""14"": 1}",1,0.0182926829268292,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,80,panel belakang ponsel satu bentuk,0,0,0,{},1,0.0094936708860759,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,81,bingkai dan belakang CRT di tumpukan,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,82,tepi peralatan pada tumpukan,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,83,pantulan pada layar monitor,0,0,0,{},1,0.75,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,84,papan sirkuit dalam satu adegan tumpukan,0,0,0,{},1,1.0,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,85,tombol papan ketik bercahaya,0,0,0,{},2,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,86,komponen atau kontrol bundar elektronik,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,87,muka jam analog,1,1,0,"{""0"": 1}",1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,88,permukaan furnitur dan kain,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,89,permukaan peralatan sangat terang,0,0,0,{},2,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,90,tombol papan ketik bercahaya dekat,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,91,isi layar statis atau permainan,1,1,0,"{""3"": 1}",2,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,92,papan dalam tumpukan satu sumber,0,0,0,{},1,1.0,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,93,isi gambar pada microwave atau layar,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,94,konektor kabel berwarna krem,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,95,fragmen kabel dan rakitan dalam tumpukan,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,96,tanah di samping perangkat,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,97,sudut papan ketik,1,1,0,"{""9"": 1}",1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,98,permukaan lengkung tetikus,1,1,0,"{""2"": 1}",1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,99,pad dan kontak papan sirkuit,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,100,tepi layar sangat terang,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,101,tombol bundar tetikus,1,1,0,"{""2"": 1}",1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,102,area cahaya pada layar atau lampu,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,103,perangkat hitam bertumpuk satu sumber,0,0,0,{},1,1.0,3,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,104,bidang gelap pada kipas dan tumpukan,0,0,0,{},2,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,105,adegan pasar barang logam,0,0,0,{},1,1.0,2,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,106,persegi panjang hitam buram,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,107,perangkat cetak rusak di tanah,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,108,artefak atau gangguan tampilan,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,109,isi tayangan pada televisi,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,110,bidang kayu dan sisi perangkat,0,0,0,{},2,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,111,panel samping microwave,0,0,0,{},1,1.0,3,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,112,latar dapur di sekitar microwave,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,113,isi pemandangan pada layar,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,114,panel status kecil pada peralatan,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,115,kemasan chip buram pada papan,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,116,pad dan jalur tepi papan,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,117,slot atau tepi depan laptop,1,1,0,"{""0"": 1}",2,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,118,sudut papan sirkuit gelap,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,119,pola uji warna pada layar,2,1,1,"{""3"": 2}",1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,120,logo atau tombol atas tetikus,1,1,0,"{""2"": 1}",1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,121,ponsel di atas meja atau kain,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,122,mekanisme internal pencetak,1,1,0,"{""0"": 1}",1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,123,tepi bawah papan ketik,1,1,0,"{""9"": 1}",1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,124,terminal positif baterai silinder,2,1,1,"{""13"": 2}",1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,125,matriks tombol gelap,0,0,0,{},2,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,126,bagian dalam microwave dengan objek,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,127,permukaan layar gelap kecil,0,0,0,{},1,0.0063291139240506,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+discovery_greedy,128,tepi monitor dalam tumpukan,1,1,0,"{""0"": 1}",1,0.017094017094017,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,0,permukaan papan sirkuit terpopulasi,3,1,1,"{""8"": 3}",2,0.6737400530503979,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,1,permukaan layar gelap perangkat genggam,3,1,1,"{""1"": 3}",2,0.7948717948717948,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,2,fragmen tumpukan perangkat dan layar,3,1,1,"{""0"": 3}",4,0.6227758007117438,2,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,3,zona depan dan keluaran pencetak,3,1,1,"{""5"": 3}",3,0.944636678200692,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,4,fragmen permukaan dan latar campuran,4,2,2,"{""1"": 2, ""11"": 2}",7,0.594017094017094,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,5,matriks tombol papan ketik,4,2,1,"{""9"": 3, ""10"": 1}",2,0.6635220125786163,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,6,cangkang dan kontrol tetikus,4,1,1,"{""2"": 4}",3,0.5138888888888888,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,7,panel depan perangkat audio,2,1,1,"{""6"": 2}",7,0.6188925081433225,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,8,tepi bawah perangkat gelap,2,1,1,"{""2"": 2}",8,0.9337016574585636,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,9,fragmen kisi tombol,2,1,1,"{""9"": 2}",3,0.4939759036144578,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,10,casing dan terminal paket baterai,3,1,1,"{""12"": 3}",2,0.987012987012987,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,11,permukaan layar gelap monitor,5,2,2,"{""3"": 2, ""10"": 3}",4,0.9726027397260274,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,12,basis dan tepi objek terang,3,2,1,"{""10"": 1, ""14"": 2}",14,0.6491228070175439,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,13,papan sirkuit dalam rakitan dan tumpukan,3,1,1,"{""0"": 3}",4,0.1932989690721649,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,14,fragmen objek pada adegan limbah,0,0,0,{},7,0.7230769230769231,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,15,strip samping speaker dan layar,1,1,0,"{""3"": 1}",6,0.6030534351145038,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,16,muka layar tabung,1,1,0,"{""3"": 1}",3,0.7058823529411765,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,17,kabel dan tepi periferal,2,2,0,"{""10"": 1, ""14"": 1}",14,0.925,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,18,slot atau keluaran perangkat cetak,0,0,0,{},10,0.408695652173913,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,19,panel samping peralatan terang,1,1,0,"{""4"": 1}",4,0.4732142857142857,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,20,panel kontrol microwave,2,1,1,"{""7"": 2}",1,0.7874015748031497,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,21,permukaan layar aktif,2,1,1,"{""3"": 2}",5,0.6635514018691588,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,22,sasis internal komputer meja,1,1,0,"{""0"": 1}",4,0.3514644351464435,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,23,dek masukan laptop,1,1,0,"{""11"": 1}",3,0.4468085106382978,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,24,pintu atau rongga microwave,2,1,1,"{""7"": 2}",1,0.9444444444444444,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,25,fragmen kemasan tangan dan tumpukan,0,0,0,{},7,0.723404255319149,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,26,casing belakang perangkat genggam,0,0,0,{},5,0.75,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,27,keyboard dan dek laptop,2,1,1,"{""11"": 2}",2,0.9148936170212766,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,28,label dan bidang atas persegi panjang,3,1,1,"{""13"": 3}",6,0.976470588235294,2,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,29,aksesori campuran,0,0,0,{},9,0.3525641025641026,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,30,pintu akses mesin cuci,3,1,1,"{""4"": 3}",2,0.675,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,31,fragmen internal laptop dan slot,1,1,0,"{""5"": 1}",7,0.3275109170305676,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,32,isi layar dan antarmuka,0,0,0,{},7,0.9240506329113924,3,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,33,penutup luar laptop,0,0,0,{},2,0.9342105263157896,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,34,retak dan pecah layar,0,0,0,{},4,0.5631067961165048,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,35,tangan toko dan konteks ponsel,0,0,0,{},8,0.4933333333333333,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,36,tepi dan port laptop,0,0,0,{},3,0.7101449275362319,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,37,gambar pada kertas atau layar,1,1,0,"{""5"": 1}",4,0.8363636363636363,2,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,38,label ujung baterai dan panel kecil,0,0,0,{},7,0.7361111111111112,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,39,rakitan layar laptop,3,1,1,"{""11"": 3}",5,0.9433962264150944,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,40,panel atas mesin cuci,0,0,0,{},2,0.8823529411764706,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,41,kemasan sirkuit terpadu,0,0,0,{},2,0.96,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,42,panel samping peralatan,2,1,1,"{""7"": 2}",4,0.2156862745098039,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,43,baki dan jalur media pencetak,0,0,0,{},2,0.951219512195122,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,44,tutup dan area pemutar rekaman,1,1,0,"{""6"": 1}",6,0.6122448979591837,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,45,bingkai pintu mesin cuci,1,1,0,"{""4"": 1}",1,0.3482142857142857,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,46,piringan dan rekaman pemutar,1,1,0,"{""6"": 1}",1,0.926829268292683,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,47,tanah dan vegetasi sekitar perangkat,0,0,0,{},9,0.6363636363636364,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,48,matriks tombol ergonomis,0,0,0,{},3,0.6486486486486487,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,49,bingkai bawah atau penyangga layar,1,1,0,"{""10"": 1}",3,0.4029850746268656,3,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,50,tanah atau basis di bawah perangkat,0,0,0,{},5,0.9629629629629628,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,51,saklar dan soket dinding,2,1,1,"{""14"": 2}",1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,52,garis dan panel layar rusak,0,0,0,{},2,0.2763157894736842,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,53,konteks fasilitas dan tumpukan e-waste,0,0,0,{},4,0.9545454545454546,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,54,sisi dan kontrol tetikus,0,0,0,{},1,0.9444444444444444,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,55,bola atau kontrol bundar perangkat,0,0,0,{},3,0.2125,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,56,CRT dalam tumpukan limbah,0,0,0,{},2,0.0582010582010582,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,57,cangkang belakang tetikus,0,0,0,{},2,0.0769230769230769,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,58,kaki furnitur dan basis adegan,0,0,0,{},5,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,59,papan ketik dalam tumpukan,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,60,tepi pintu atau rongga microwave,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,61,bagian putar atau kipas pada rakitan,0,0,0,{},2,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,62,fragmen matriks tombol kecil,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,63,fragmen papan sirkuit buram,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,64,retak layar langka,0,0,0,{},1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,65,fragmen objek dan adegan campuran,0,0,0,{},3,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,66,sudut penutup laptop satu sumber,0,0,0,{},1,1.0,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,67,perangkat rusak berat dalam limbah,0,0,0,{},1,0.0248447204968944,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,68,asap atau pembakaran di sekitar e-waste,0,0,0,{},1,1.0,3,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,69,strip samping papan ketik,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,70,corong gramofon,0,0,0,{},1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,71,tepi vertikal perangkat gelap,0,0,0,{},2,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,72,area kontrol perangkat terbuka,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,73,bidang hitam sudut bawah,0,0,0,{},3,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,74,antarmuka aktif ponsel,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,75,basis bundar atau drum perangkat,0,0,0,{},2,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,76,panel layar gelap langka,0,0,0,{},2,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,77,konektor gelap pada papan satu sumber,0,0,0,{},1,1.0,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,78,matriks tombol langka,0,0,0,{},2,0.0405405405405405,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,79,bukaan dan kontrol kecil campuran,0,0,0,{},1,0.0182926829268292,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,80,panel belakang ponsel satu bentuk,0,0,0,{},1,0.0094936708860759,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,81,bingkai dan belakang CRT di tumpukan,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,82,tepi peralatan pada tumpukan,1,1,0,"{""0"": 1}",1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,83,pantulan pada layar monitor,0,0,0,{},1,0.75,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,84,papan sirkuit dalam satu adegan tumpukan,0,0,0,{},1,1.0,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,85,tombol papan ketik bercahaya,0,0,0,{},2,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,86,komponen atau kontrol bundar elektronik,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,87,muka jam analog,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,88,permukaan furnitur dan kain,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,89,permukaan peralatan sangat terang,0,0,0,{},2,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,90,tombol papan ketik bercahaya dekat,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,91,isi layar statis atau permainan,0,0,0,{},2,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,92,papan dalam tumpukan satu sumber,0,0,0,{},1,1.0,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,93,isi gambar pada microwave atau layar,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,94,konektor kabel berwarna krem,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,95,fragmen kabel dan rakitan dalam tumpukan,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,96,tanah di samping perangkat,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,97,sudut papan ketik,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,98,permukaan lengkung tetikus,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,99,pad dan kontak papan sirkuit,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,100,tepi layar sangat terang,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,101,tombol bundar tetikus,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,102,area cahaya pada layar atau lampu,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,103,perangkat hitam bertumpuk satu sumber,0,0,0,{},1,1.0,3,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,104,bidang gelap pada kipas dan tumpukan,0,0,0,{},2,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,105,adegan pasar barang logam,0,0,0,{},1,1.0,2,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,106,persegi panjang hitam buram,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,107,perangkat cetak rusak di tanah,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,108,artefak atau gangguan tampilan,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,109,isi tayangan pada televisi,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,110,bidang kayu dan sisi perangkat,0,0,0,{},2,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,111,panel samping microwave,0,0,0,{},1,1.0,3,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,112,latar dapur di sekitar microwave,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,113,isi pemandangan pada layar,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,114,panel status kecil pada peralatan,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,115,kemasan chip buram pada papan,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,116,pad dan jalur tepi papan,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,117,slot atau tepi depan laptop,0,0,0,{},2,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,118,sudut papan sirkuit gelap,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,119,pola uji warna pada layar,0,0,0,{},1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,120,logo atau tombol atas tetikus,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,121,ponsel di atas meja atau kain,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,122,mekanisme internal pencetak,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,123,tepi bawah papan ketik,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,124,terminal positif baterai silinder,0,0,0,{},1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,125,matriks tombol gelap,0,0,0,{},2,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,126,bagian dalam microwave dengan objek,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,127,permukaan layar gelap kecil,0,0,0,{},1,0.0063291139240506,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+global_centroids,128,tepi monitor dalam tumpukan,0,0,0,{},1,0.017094017094017,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,0,permukaan papan sirkuit terpopulasi,6,2,2,"{""0"": 4, ""8"": 2}",2,0.6737400530503979,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,1,permukaan layar gelap perangkat genggam,0,0,0,{},2,0.7948717948717948,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,2,fragmen tumpukan perangkat dan layar,1,1,0,"{""0"": 1}",4,0.6227758007117438,2,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,3,zona depan dan keluaran pencetak,1,1,0,"{""5"": 1}",3,0.944636678200692,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,4,fragmen permukaan dan latar campuran,2,2,0,"{""10"": 1, ""11"": 1}",7,0.594017094017094,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,5,matriks tombol papan ketik,6,2,1,"{""9"": 5, ""10"": 1}",2,0.6635220125786163,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,6,cangkang dan kontrol tetikus,3,2,1,"{""2"": 2, ""9"": 1}",3,0.5138888888888888,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,7,panel depan perangkat audio,5,2,1,"{""5"": 1, ""6"": 4}",7,0.6188925081433225,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,8,tepi bawah perangkat gelap,1,1,0,"{""9"": 1}",8,0.9337016574585636,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,9,fragmen kisi tombol,7,2,2,"{""9"": 5, ""10"": 2}",3,0.4939759036144578,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,10,casing dan terminal paket baterai,0,0,0,{},2,0.987012987012987,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,11,permukaan layar gelap monitor,1,1,0,"{""3"": 1}",4,0.9726027397260274,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,12,basis dan tepi objek terang,0,0,0,{},14,0.6491228070175439,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,13,papan sirkuit dalam rakitan dan tumpukan,6,2,1,"{""0"": 5, ""8"": 1}",4,0.1932989690721649,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,14,fragmen objek pada adegan limbah,1,1,0,"{""0"": 1}",7,0.7230769230769231,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,15,strip samping speaker dan layar,2,1,1,"{""3"": 2}",6,0.6030534351145038,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,16,muka layar tabung,1,1,0,"{""3"": 1}",3,0.7058823529411765,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,17,kabel dan tepi periferal,1,1,0,"{""0"": 1}",14,0.925,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,18,slot atau keluaran perangkat cetak,1,1,0,"{""9"": 1}",10,0.408695652173913,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,19,panel samping peralatan terang,2,1,1,"{""4"": 2}",4,0.4732142857142857,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,20,panel kontrol microwave,6,1,1,"{""7"": 6}",1,0.7874015748031497,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,21,permukaan layar aktif,0,0,0,{},5,0.6635514018691588,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,22,sasis internal komputer meja,4,2,1,"{""0"": 3, ""3"": 1}",4,0.3514644351464435,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,23,dek masukan laptop,13,2,2,"{""0"": 3, ""11"": 10}",3,0.4468085106382978,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,24,pintu atau rongga microwave,6,1,1,"{""7"": 6}",1,0.9444444444444444,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,25,fragmen kemasan tangan dan tumpukan,1,1,0,"{""0"": 1}",7,0.723404255319149,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,26,casing belakang perangkat genggam,0,0,0,{},5,0.75,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,27,keyboard dan dek laptop,11,2,1,"{""0"": 1, ""11"": 10}",2,0.9148936170212766,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,28,label dan bidang atas persegi panjang,0,0,0,{},6,0.976470588235294,2,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,29,aksesori campuran,0,0,0,{},9,0.3525641025641026,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,30,pintu akses mesin cuci,3,1,1,"{""4"": 3}",2,0.675,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,31,fragmen internal laptop dan slot,0,0,0,{},7,0.3275109170305676,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,32,isi layar dan antarmuka,8,3,1,"{""0"": 1, ""3"": 1, ""11"": 6}",7,0.9240506329113924,3,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,33,penutup luar laptop,0,0,0,{},2,0.9342105263157896,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,34,retak dan pecah layar,3,2,1,"{""0"": 1, ""3"": 2}",4,0.5631067961165048,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,35,tangan toko dan konteks ponsel,3,1,1,"{""0"": 3}",8,0.4933333333333333,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,36,tepi dan port laptop,2,1,1,"{""0"": 2}",3,0.7101449275362319,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,37,gambar pada kertas atau layar,0,0,0,{},4,0.8363636363636363,2,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,38,label ujung baterai dan panel kecil,0,0,0,{},7,0.7361111111111112,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,39,rakitan layar laptop,7,2,2,"{""0"": 2, ""11"": 5}",5,0.9433962264150944,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,40,panel atas mesin cuci,0,0,0,{},2,0.8823529411764706,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,41,kemasan sirkuit terpadu,3,2,1,"{""0"": 2, ""8"": 1}",2,0.96,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,42,panel samping peralatan,6,2,1,"{""4"": 1, ""7"": 5}",4,0.2156862745098039,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,43,baki dan jalur media pencetak,1,1,0,"{""5"": 1}",2,0.951219512195122,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,44,tutup dan area pemutar rekaman,3,2,1,"{""0"": 1, ""6"": 2}",6,0.6122448979591837,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,45,bingkai pintu mesin cuci,3,1,1,"{""4"": 3}",1,0.3482142857142857,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,46,piringan dan rekaman pemutar,4,1,1,"{""6"": 4}",1,0.926829268292683,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,47,tanah dan vegetasi sekitar perangkat,0,0,0,{},9,0.6363636363636364,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,48,matriks tombol ergonomis,8,2,2,"{""9"": 6, ""10"": 2}",3,0.6486486486486487,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,49,bingkai bawah atau penyangga layar,2,2,0,"{""0"": 1, ""3"": 1}",3,0.4029850746268656,3,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,50,tanah atau basis di bawah perangkat,1,1,0,"{""0"": 1}",5,0.9629629629629628,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,51,saklar dan soket dinding,0,0,0,{},1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,52,garis dan panel layar rusak,3,1,1,"{""3"": 3}",2,0.2763157894736842,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,53,konteks fasilitas dan tumpukan e-waste,0,0,0,{},4,0.9545454545454546,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,54,sisi dan kontrol tetikus,2,1,1,"{""2"": 2}",1,0.9444444444444444,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,55,bola atau kontrol bundar perangkat,0,0,0,{},3,0.2125,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,56,CRT dalam tumpukan limbah,0,0,0,{},2,0.0582010582010582,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,57,cangkang belakang tetikus,2,1,1,"{""9"": 2}",2,0.0769230769230769,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,58,kaki furnitur dan basis adegan,0,0,0,{},5,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,59,papan ketik dalam tumpukan,1,1,0,"{""0"": 1}",1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,60,tepi pintu atau rongga microwave,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,61,bagian putar atau kipas pada rakitan,0,0,0,{},2,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,62,fragmen matriks tombol kecil,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,63,fragmen papan sirkuit buram,1,1,0,"{""8"": 1}",1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,64,retak layar langka,0,0,0,{},1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,65,fragmen objek dan adegan campuran,0,0,0,{},3,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,66,sudut penutup laptop satu sumber,0,0,0,{},1,1.0,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,67,perangkat rusak berat dalam limbah,0,0,0,{},1,0.0248447204968944,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,68,asap atau pembakaran di sekitar e-waste,0,0,0,{},1,1.0,3,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,69,strip samping papan ketik,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,70,corong gramofon,2,1,1,"{""6"": 2}",1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,71,tepi vertikal perangkat gelap,0,0,0,{},2,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,72,area kontrol perangkat terbuka,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,73,bidang hitam sudut bawah,2,2,0,"{""0"": 1, ""9"": 1}",3,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,74,antarmuka aktif ponsel,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,75,basis bundar atau drum perangkat,0,0,0,{},2,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,76,panel layar gelap langka,1,1,0,"{""3"": 1}",2,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,77,konektor gelap pada papan satu sumber,0,0,0,{},1,1.0,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,78,matriks tombol langka,2,2,0,"{""9"": 1, ""10"": 1}",2,0.0405405405405405,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,79,bukaan dan kontrol kecil campuran,0,0,0,{},1,0.0182926829268292,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,80,panel belakang ponsel satu bentuk,0,0,0,{},1,0.0094936708860759,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,81,bingkai dan belakang CRT di tumpukan,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,82,tepi peralatan pada tumpukan,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,83,pantulan pada layar monitor,0,0,0,{},1,0.75,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,84,papan sirkuit dalam satu adegan tumpukan,0,0,0,{},1,1.0,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,85,tombol papan ketik bercahaya,0,0,0,{},2,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,86,komponen atau kontrol bundar elektronik,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,87,muka jam analog,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,88,permukaan furnitur dan kain,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,89,permukaan peralatan sangat terang,0,0,0,{},2,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,90,tombol papan ketik bercahaya dekat,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,91,isi layar statis atau permainan,1,1,0,"{""3"": 1}",2,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,92,papan dalam tumpukan satu sumber,0,0,0,{},1,1.0,4,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,93,isi gambar pada microwave atau layar,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,94,konektor kabel berwarna krem,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,95,fragmen kabel dan rakitan dalam tumpukan,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,96,tanah di samping perangkat,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,97,sudut papan ketik,1,1,0,"{""9"": 1}",1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,98,permukaan lengkung tetikus,1,1,0,"{""2"": 1}",1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,99,pad dan kontak papan sirkuit,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,100,tepi layar sangat terang,0,0,0,{},1,1.0,2,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,101,tombol bundar tetikus,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,102,area cahaya pada layar atau lampu,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,103,perangkat hitam bertumpuk satu sumber,0,0,0,{},1,1.0,3,3,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,104,bidang gelap pada kipas dan tumpukan,0,0,0,{},2,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,105,adegan pasar barang logam,0,0,0,{},1,1.0,2,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,106,persegi panjang hitam buram,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,107,perangkat cetak rusak di tanah,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,108,artefak atau gangguan tampilan,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,109,isi tayangan pada televisi,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,110,bidang kayu dan sisi perangkat,0,0,0,{},2,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,111,panel samping microwave,0,0,0,{},1,1.0,3,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,112,latar dapur di sekitar microwave,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,113,isi pemandangan pada layar,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,114,panel status kecil pada peralatan,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,115,kemasan chip buram pada papan,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,116,pad dan jalur tepi papan,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,117,slot atau tepi depan laptop,1,1,0,"{""0"": 1}",2,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,118,sudut papan sirkuit gelap,1,1,0,"{""8"": 1}",1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,119,pola uji warna pada layar,1,1,0,"{""3"": 1}",1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,120,logo atau tombol atas tetikus,1,1,0,"{""2"": 1}",1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,121,ponsel di atas meja atau kain,0,0,0,{},1,1.0,1,4,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,122,mekanisme internal pencetak,0,0,0,{},1,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,123,tepi bawah papan ketik,1,1,0,"{""9"": 1}",1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,124,terminal positif baterai silinder,0,0,0,{},1,1.0,4,0,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,125,matriks tombol gelap,0,0,0,{},2,1.0,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,126,bagian dalam microwave dengan objek,0,0,0,{},1,1.0,3,2,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,127,permukaan layar gelap kecil,0,0,0,{},1,0.0063291139240506,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop
+static_local_degree,128,tepi monitor dalam tumpukan,1,1,0,"{""0"": 1}",1,0.017094017094017,4,1,agent_evaluated_offline_from_original_photo_context_and_exact_region_crop

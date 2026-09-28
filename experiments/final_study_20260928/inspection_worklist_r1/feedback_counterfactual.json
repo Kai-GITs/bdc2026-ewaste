@@ -1,0 +1,67 @@
+{
+  "all_recorded": {
+    "initial_photo_ids": [
+      "0c4ba77b2e9d8edc",
+      "f80b9b87c928d629",
+      "db3947165ba372f1",
+      "0e8da24e5c2dd59b",
+      "2918aa4dca2f0145"
+    ],
+    "next_photo_ids": [
+      "2a976c8c7fdddc1a",
+      "41819bf4c59c9e54",
+      "3aeb311fe06de2bb",
+      "4cf3eb7a5806583d",
+      "cbd5b5e474717b64"
+    ],
+    "before": {
+      "families_seen": 19,
+      "families_repeated": 3
+    },
+    "projected_after_next_batch": {
+      "families_seen": 29,
+      "families_repeated": 11
+    },
+    "review_outcomes": {
+      "0c4ba77b2e9d8edc": "recorded",
+      "f80b9b87c928d629": "recorded",
+      "db3947165ba372f1": "recorded",
+      "0e8da24e5c2dd59b": "recorded",
+      "2918aa4dca2f0145": "recorded"
+    }
+  },
+  "second_photo_excluded": {
+    "initial_photo_ids": [
+      "0c4ba77b2e9d8edc",
+      "f80b9b87c928d629",
+      "db3947165ba372f1",
+      "0e8da24e5c2dd59b",
+      "2918aa4dca2f0145"
+    ],
+    "next_photo_ids": [
+      "2a976c8c7fdddc1a",
+      "41819bf4c59c9e54",
+      "3aeb311fe06de2bb",
+      "4cf3eb7a5806583d",
+      "cbd5b5e474717b64"
+    ],
+    "before": {
+      "families_seen": 16,
+      "families_repeated": 2
+    },
+    "projected_after_next_batch": {
+      "families_seen": 29,
+      "families_repeated": 7
+    },
+    "review_outcomes": {
+      "0c4ba77b2e9d8edc": "recorded",
+      "f80b9b87c928d629": "excluded",
+      "db3947165ba372f1": "recorded",
+      "0e8da24e5c2dd59b": "recorded",
+      "2918aa4dca2f0145": "recorded"
+    }
+  },
+  "changed_next_batch_positions": 0,
+  "different_next_batch_photos": 0,
+  "scope": "Paired scripted application behavior; catalog memberships are not expert-confirmed component labels. Projected coverage assumes subsequent completion."
+}

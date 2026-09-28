@@ -1,0 +1,43 @@
+query_region_id,pair_semantic_correspondence,claim_status,scientific_role,evidence_note
+c6ba92b460c49a3f3541611d,yes,supported,recurring_component,Kedua mask mengikuti kemasan sirkuit terpadu pada papan yang berbeda.
+779d90a038df793e11196933,no,unsupported,descriptor_failure,Kueri mengikuti fragmen modul atau papan sedangkan kandidat mengikuti fragmen gelap tidak sejenis.
+bfd5d9f2583de5749f4a8b36,yes,supported,recurring_component,Kedua region mengikuti paket komponen hitam kecil pada papan berbeda; detail terbatas oleh resolusi.
+3f59fbb636afe9974e0d7249,yes,supported,visible_condition,Keduanya memperlihatkan retakan fisik pada panel layar dari jenis perangkat berbeda.
+983c666b570e578ec9a1021d,ambiguous,requires_narrowing,visible_condition,Keduanya berasal dari perangkat rusak tetapi crop kueri tidak cukup jelas untuk menyatakan pola retak yang sama.
+ca51fdbced69409e860d5a0c,no,unsupported,screen_content,Kueri mengikuti isi tampilan berwarna dan bukan kerusakan fisik layar.
+00705657fdf22915cb639426,yes,supported,visible_condition,Keduanya memperlihatkan garis vertikal dan pecah panel yang tampak langsung.
+86ee50a59776e56d95d6a022,no,unsupported,descriptor_failure,Kueri mengikuti area gelap sekitar laptop sedangkan kandidat mengikuti bidang bezel atau layar.
+2d747d762dfa09eb47357298,ambiguous,requires_narrowing,visible_condition,Keduanya bidang gelap layar; hanya kandidat memperlihatkan retak yang jelas.
+03475001f6da1b8f5486cc32,ambiguous,requires_narrowing,rare_visible_condition,Region kecil berada pada layar retak tetapi bentuk lokalnya tidak cukup khas.
+ee5180145ba45fae9967967d,ambiguous,requires_narrowing,rare_visible_condition,Region gelap pada layar retak serupa secara konteks namun tidak secara struktur retak lokal.
+d5ad0c6315af8aa355f5fd9b,ambiguous,requires_narrowing,rare_visible_condition,Region gelap pada layar retak serupa secara konteks namun detail lokal tidak konklusif.
+3c924a774442d2f716fe2dda,yes,supported,cross_context_board,Kedua region mengikuti papan sirkuit yang tampak di antara rakitan atau tumpukan e-waste.
+53a830da7d5d5857a18c677b,yes,supported,cross_context_board,Kedua region mengikuti papan atau rakitan elektronik di antara tumpukan campuran.
+c83d346d76d734b76f6a786d,no,unsupported,descriptor_failure,Kedua crop didominasi benda pucat tanpa korespondensi papan yang dapat dipastikan.
+159a4d55eea8a962f0070170,yes,supported,board_surface,Kedua region memperlihatkan jalur dan pad pada permukaan papan sirkuit.
+1ebe514e1c136ca98548dbf4,ambiguous,requires_narrowing,board_surface,Keduanya berada pada papan tetapi mask mengikuti komponen lokal yang berbeda.
+31774f01633646474f5a5e94,yes,supported,board_surface,Keduanya mengikuti permukaan papan walau kueri buram.
+fa4fb74b8d1014a028f99bcf,yes,supported,display_test_pattern,Keduanya menampilkan pola batang warna pada perangkat tampilan berbeda.
+4c1737deac270961848b32d8,yes,supported,display_test_pattern,Keduanya menampilkan pola batang warna pada perangkat tampilan berbeda.
+2735634d19d280d8a58a1abf,ambiguous,requires_narrowing,battery_part,Kueri mengikuti terminal atas silinder sedangkan kandidat lebih banyak mengikuti sisi badan sel.
+e6f6106d92366e8fe2b53e8a,no,unsupported,battery_part,Kueri dan kandidat mengikuti bagian badan baterai yang berbeda tanpa korespondensi terminal.
+cc35eb9399dddca67c81516f,yes,source_redundant,cable_connector,Kedua crop mengikuti konektor krem yang sama tetapi foto hampir duplikat.
+2b374f040186b010f3d6da67,yes,source_redundant,cable_connector,Kedua crop mengikuti konektor krem yang sama tetapi foto hampir duplikat.
+10997875b6fef83b1d999c54,no,unsupported,descriptor_failure,Kueri tidak memperlihatkan pad atau kontak yang sama dengan region kandidat.
+fd15e42ff8ace7e3f0e7750b,no,unsupported,descriptor_failure,Kueri tidak memperlihatkan pad atau kontak yang sama dengan region kandidat.
+2cc1130cd2ba94c955038860,yes,supported,board_edge,Kedua region memperlihatkan deret pad atau jalur di tepi papan.
+e9a8eda92021e70198bc38de,ambiguous,requires_narrowing,board_edge,Kandidat mengikuti papan lebih luas sehingga korespondensi khusus pada tepi perlu dipersempit.
+53d41cb14925964ac4ed0797,ambiguous,requires_narrowing,printer_mechanism,Keduanya memuat bagian pencetak di konteks e-waste tetapi mask kandidat mencakup beberapa benda.
+e3e23f7755c4cf01ff2a0e73,no,unsupported,printer_mechanism,Region mengikuti benda gelap yang berbeda dan tidak mendukung mekanisme pencetak yang sama.
+897455b3fb3a1b604e3f9152,yes,requires_narrowing,label_shortcut,Keduanya mengikuti bidang label baterai; hubungan adalah tampilan label bukan bagian fungsional.
+060639f7a778b35c22243760,yes,requires_narrowing,label_shortcut,Keduanya mengikuti bidang label baterai; hubungan adalah tampilan label bukan bagian fungsional.
+083502f66c91f464ea6dca5b,yes,requires_narrowing,label_shortcut,Keduanya mengikuti bidang label baterai; hubungan adalah tampilan label bukan bagian fungsional.
+b29665330912027b11d26d4c,yes,requires_narrowing,screen_content,Keduanya mengikuti tampilan garis dan warna abnormal; tidak membuktikan kerusakan internal.
+140b2697eb81e5c95b352b1f,yes,requires_narrowing,screen_content,Keduanya mengikuti figur pada isi layar dan bukan komponen fisik.
+fe4fa27241d5a1aa237e2a18,yes,requires_narrowing,pictorial_content,Keduanya mengikuti gambar ikon atau tombol dalam citra papan ketik.
+d2e255992690189210988b1b,yes,requires_narrowing,pictorial_content,Keduanya mengikuti gambar tercetak pada keluaran pencetak.
+e68ff300365143efd33e8c3b,ambiguous,requires_narrowing,printer_output,Kedua region berada di area keluaran atau bagian atas pencetak tetapi bukti lokal tidak sejenis.
+eed429d3c88056f2403bb76b,yes,requires_narrowing,screen_content,Keduanya mengikuti gambar lanskap pada isi layar.
+48a6b669e1f01f612365c8a5,no,unsupported,corner_shortcut,Kemiripan berasal dari bidang hitam sudut bawah pada papan ketik dan tetikus.
+bd6bd679a50c8fbadd59d6f9,no,unsupported,corner_shortcut,Kemiripan berasal dari bidang hitam sudut bawah pada tetikus dan papan ketik.
+f4c9b37cd6662a299070b050,ambiguous,requires_narrowing,display_housing,Keduanya memuat bidang gelap pada kumpulan monitor tetapi bagian fisik yang sama tidak terlokalisasi.

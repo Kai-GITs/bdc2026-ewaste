@@ -1,0 +1,39 @@
+{
+  "inputs": {
+    "protocol": {
+      "path": "experiments/protocols/inspection_coverage_decomposition_r1.json",
+      "sha256": "280b9e678470e73bead42dfb8667dd59b01b3a61811ed8990afff0dc609f3c8e"
+    },
+    "catalog": {
+      "path": "solution/evidence_intake/demo/collection_catalog.json",
+      "sha256": "4b4deab731b7c9cb8dfd3f4ec67cdfd2263da91e46d9131c8cda9dc60f803c7b"
+    },
+    "census": {
+      "path": "experiments/final_study_20260928/region_family_census_r2/family_census.csv",
+      "sha256": "df71fd487d08ced68e135fc6592dbed66042c0e253700b8ddc24f52d5ea08ca9"
+    },
+    "orders": {
+      "path": "experiments/final_study_20260928/inspection_planning_r1/selected_photos.csv",
+      "sha256": "197aa06d72879694b1885958b0c85b8fcb1e854c7e47dfc4832f7018285ed91e"
+    }
+  },
+  "eligible_photos": 2899,
+  "families": 129,
+  "strata_counts": {
+    "all": 129,
+    "stable": 107,
+    "rare_2_4_photos": 63,
+    "at_least_5_photos": 66,
+    "stable_rare_2_4_photos": 57,
+    "stable_at_least_5_photos": 50,
+    "shortcut_risk_0": 22,
+    "shortcut_risk_1": 41,
+    "shortcut_risk_2": 15,
+    "shortcut_risk_3": 23,
+    "shortcut_risk_4": 28
+  },
+  "existing_context_evaluation_matches": 412,
+  "design": "Descriptive post-hoc decomposition of existing fixed selection orders; no retuning or new model inference.",
+  "interpretation": "Partition stability is not semantic correctness. Census risk/coherence scores are previous model adjudications and inform the selection policy, so their decomposition is not independent validation. No human productivity or novel-photo generalization claims.",
+  "random_intervals": "Empirical central 95% of 100 random orders, not an independent-sample confidence interval."
+}

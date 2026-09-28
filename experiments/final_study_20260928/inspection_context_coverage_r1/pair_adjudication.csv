@@ -1,0 +1,26 @@
+family_internal,decision,observation,qualification
+0,ambiguous,Jejak dan permukaan papan pada dua citra,Contoh kedua tampak sebagai papan berpola sirkuit yang menjadi alas jepit; kesetaraan rakitan elektronik tidak terbukti
+5,supported,Matriks tombol pada dua papan ketik,Konteks komunitas berbeda tetapi jenis produk sama; resolusi contoh pertama rendah
+8,rejected,Bidang gelap perangkat dipasangkan dengan tekstur permukaan latar,Tidak ada kesamaan bagian yang teridentifikasi
+9,supported,Deret tombol papan ketik dengan orientasi berbeda,Pengulangan komponen umum pada jenis produk yang sama
+10,rejected,Label perangkat dipasangkan dengan penjepit logam,Tidak mendukung interpretasi casing atau terminal baterai
+11,supported,Permukaan layar gelap pada produk terisolasi dan monitor di meja,Kondisi fungsi layar tidak dapat disimpulkan
+17,rejected,Permukaan rak kayu dipasangkan dengan kabel di meja,Region tidak menunjuk bagian yang sama
+18,rejected,Bidang gelap di bawah papan ketik dipasangkan dengan area keluaran pencetak,Kemiripan gelap tidak membuktikan kesamaan bagian
+19,supported,Panel luar terang pada mesin cuci dan pencetak,Kesamaan permukaan umum; tidak menunjukkan komponen internal yang sama
+21,supported,Konten berwarna pada layar televisi dan laptop,Menunjukkan tampilan citra pada layar; tidak membuktikan perangkat masih berfungsi
+22,rejected,Bagian beragam pada tumpukan papan dipasangkan dengan bingkai monitor,Tidak mendukung interpretasi sasis komputer yang sama
+23,supported,Area sandaran tangan laptop pada kedua citra,Salah satu citra merupakan komposisi produk dengan latar kotak; bukan dua foto lapangan
+26,rejected,Fragmen retak pada layar ponsel dipasangkan dengan label perangkat,Tidak mendukung interpretasi casing belakang perangkat genggam
+32,ambiguous,Layar retak dan fragmen tepi layar gelap,Tidak mendukung kesamaan isi layar atau antarmuka; hanya sama-sama berada di layar
+33,supported,Panel luar laptop tertutup dan panel bawah laptop dalam tumpukan,Perbedaan sisi penutup harus dipertahankan; bukan bagian homolog yang sudah dibuktikan
+34,supported,Jejaring retak pada layar laptop dan televisi,Citra laptop tampak sebagai komposisi produk; kesamaan pola tidak menetapkan penyebab kerusakan
+38,ambiguous,Label badan baterai dipasangkan dengan region campuran baterai dan muka jam,Mask kedua mencakup bagian yang tidak relevan
+39,supported,Permukaan layar pada laptop tunggal dan tumpukan perangkat,Kategori perangkat pada region kedua tidak pasti; kesamaan terbatas pada panel layar
+44,rejected,Penutup perangkat cetak dipasangkan dengan panel belakang layar laptop,Tidak mendukung kesamaan pemutar rekaman
+48,ambiguous,Mask mencakup tombol dan sandaran tangan papan ketik pada dua foto,Batas region bercampur dan tidak menetapkan struktur ergonomis yang sama
+49,ambiguous,Kaki monitor terisolasi dipasangkan dengan tepi panel pada tumpukan,Kesetaraan bagian penyangga belum jelas
+53,rejected,Fragmen tumpukan perangkat dipasangkan dengan noda atau pantulan layar,Tidak ada hubungan bagian yang dapat diidentifikasi
+55,rejected,Area kendali pencetak dipasangkan dengan bola kendali tetikus,Bentuk membulat tidak membuktikan bagian atau fungsi yang sama
+73,rejected,Bidang gelap di bawah papan ketik dipasangkan dengan layar monitor,Kemiripan warna atau latar saja
+76,supported,Permukaan layar gelap pada monitor terisolasi dan monitor di meja,Kesamaan generik layar; belum menunjukkan substruktur langka yang bermakna

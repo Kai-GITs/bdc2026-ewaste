@@ -1,0 +1,386 @@
+[
+  {
+    "review_id": "S01",
+    "canonical_id": "51ef695d71f54eab",
+    "source_relative_path": "1_Electronic/pcb_279.jpg",
+    "source_sha256": "02998b75930e8bdcc430e2296032a7d1750fe2a169f2f0f8348583a381d2f2f1",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "review_id": "S02",
+    "canonical_id": "9dfe166d8fd5c64b",
+    "source_relative_path": "1_Electronic/13.image-23.png",
+    "source_sha256": "03279d78a878f5c88bbd48e9bdb50a7585f9ff6e855e25e4f69cd0553a38140c",
+    "width": 500,
+    "height": 332
+  },
+  {
+    "review_id": "S03",
+    "canonical_id": "32c3b13e439dc12f",
+    "source_relative_path": "1_Electronic/20.E-waste-disposal.jpg",
+    "source_sha256": "0c8b97e513776c13d00b81e09f35be0334074360d03ba89b56e26172985d0dab",
+    "width": 800,
+    "height": 533
+  },
+  {
+    "review_id": "S04",
+    "canonical_id": "3cc81b8c015ef626",
+    "source_relative_path": "1_Electronic/35.depositphotos_213404014-stock-photo-electronic-waste-old-computers-monitors.jpg",
+    "source_sha256": "0cec92e68516eadb9d185f7b8e9ff922fec6ccbaebc290aecdc8a8f5779ea323",
+    "width": 1600,
+    "height": 1167
+  },
+  {
+    "review_id": "S05",
+    "canonical_id": "8df3ec335e13edb4",
+    "source_relative_path": "1_Electronic/Smashtop.jpg",
+    "source_sha256": "14a728b461df343ace358323b7756b3a476e79d818a4d0f2566851ff0687bf71",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "review_id": "S06",
+    "canonical_id": "9c93a95b2d7e4fac",
+    "source_relative_path": "1_Electronic/16.computer-recycling_800x800.jpg",
+    "source_sha256": "1b1e5f42c00f6113b6030dc47d3d619a6ec2eb65b077b3f1312fd31ca2df859f",
+    "width": 600,
+    "height": 400
+  },
+  {
+    "review_id": "S07",
+    "canonical_id": "9b14924bc1f4dde1",
+    "source_relative_path": "1_Electronic/76.12066708-broken-laptop-disassembled-into-parts.jpg",
+    "source_sha256": "1d2946f837b327270fb41757cb818756c89643c0a4a9c77d6ff5c573ac32f04b",
+    "width": 1300,
+    "height": 866
+  },
+  {
+    "review_id": "S08",
+    "canonical_id": "97c7e808d7f015f1",
+    "source_relative_path": "1_Electronic/10.Sadoff-ERecycling-Data-Destruction_blog-post-header.png",
+    "source_sha256": "23f6b3c0e92ec46bffd3d6005f9a6df51439c37c254d4c1b4337c00c68c9672e",
+    "width": 1000,
+    "height": 667
+  },
+  {
+    "review_id": "S09",
+    "canonical_id": "5885b973a8ece270",
+    "source_relative_path": "1_Electronic/77.recycle-electronics-drop-off-points-min.jpg",
+    "source_sha256": "2483053210521ba0759647db89791282ee66c5de77011b6ee982101d227c269e",
+    "width": 800,
+    "height": 536
+  },
+  {
+    "review_id": "S10",
+    "canonical_id": "a145050d46eaeb7f",
+    "source_relative_path": "1_Electronic/2729458.jpg",
+    "source_sha256": "2a8cabc3e3fa76056867efa7036f273a125e971c5bc498c4c16185ca115a6129",
+    "width": 1000,
+    "height": 666
+  },
+  {
+    "review_id": "S11",
+    "canonical_id": "c6afa9946c6d8efb",
+    "source_relative_path": "1_Electronic/20.Sampah_Elektronik_1.jpg",
+    "source_sha256": "2d688268201758cc84ed2203a3b4613d026738cabfe8c68fc198141ab97f3231",
+    "width": 1000,
+    "height": 563
+  },
+  {
+    "review_id": "S12",
+    "canonical_id": "8fd35027f093628e",
+    "source_relative_path": "1_Electronic/73.motherboard-scrap-1512975832-3511682.jpg",
+    "source_sha256": "39cbfbd237a40cdeae8c54bdce194899eb3e533a4e835a3c2eef2f1b4ab38e62",
+    "width": 300,
+    "height": 150
+  },
+  {
+    "review_id": "S13",
+    "canonical_id": "8daca89def2ea683",
+    "source_relative_path": "1_Electronic/pcb_217.jpg",
+    "source_sha256": "449fe86c5532e81fd8bb6c20a2806ad29c1618417900aa78d02266274e8ef2aa",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "review_id": "S14",
+    "canonical_id": "009d1faad460b734",
+    "source_relative_path": "1_Electronic/18.shredded_electronic_waste_weee_web.jpg",
+    "source_sha256": "499c99d1aeb483c32f71ef87c227cbb29ce5b8336eacfcf501835dc1d9941f76",
+    "width": 2200,
+    "height": 1130
+  },
+  {
+    "review_id": "S15",
+    "canonical_id": "9836e57c9b956a22",
+    "source_relative_path": "1_Electronic/4.old-computer-components-29637543.jpg",
+    "source_sha256": "4a67eebb826fb5d977a08f9958ebef0aaeca2701b8a28df88c5ca090f134a6a7",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "review_id": "S16",
+    "canonical_id": "f98f1336b1e53a95",
+    "source_relative_path": "1_Electronic/37.a-pile-of-discarded-electronic-waste-is-shown-including-a-laptop-television-keyboard-and-other-obsolete-devices-this-image-can-be-used-for-concepts-r-3E1WHH5.jpg",
+    "source_sha256": "4e4c9fa065c0837169d0a54f4a78f7339e26da6da19ae40f5fabcacc9a9472c6",
+    "width": 1300,
+    "height": 956
+  },
+  {
+    "review_id": "S17",
+    "canonical_id": "c2e9ad80a3e84f37",
+    "source_relative_path": "1_Electronic/pcb_31.jpg",
+    "source_sha256": "4f908b071c9de35a04a22154900662ab55d428c013a372948a350b1fccdc523d",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "review_id": "S18",
+    "canonical_id": "82eb0ac651749356",
+    "source_relative_path": "1_Electronic/pcb_287.jpg",
+    "source_sha256": "4ffbb38b8f3d038d84cd34bc1096813931533774021a19185475ae0f1295b069",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "review_id": "S19",
+    "canonical_id": "93545de8b94c0081",
+    "source_relative_path": "1_Electronic/14.laptop-recycling-1422x800.jpg",
+    "source_sha256": "52446e972dbcb606fe61280e77a2ed4747d71cfdd5a219143b3766f3bf4aa227",
+    "width": 1422,
+    "height": 800
+  },
+  {
+    "review_id": "S20",
+    "canonical_id": "858e5813fbba3f2c",
+    "source_relative_path": "1_Electronic/7.stock-photo-pile-of-electronic-waste-rusty-old-computer-cases-and-obsolete-computer-hardware-such-as-1918603046.jpg",
+    "source_sha256": "594d5fd3e429813293138bfe9dbb6ab3c24a84a9adf6d9a7658eb963e7a22462",
+    "width": 1500,
+    "height": 1101
+  },
+  {
+    "review_id": "S21",
+    "canonical_id": "b48a83cf6326d697",
+    "source_relative_path": "1_Electronic/pcb_32.jpg",
+    "source_sha256": "62b6dd313549cebf96dcc0dba2fb9834e12a2ed01518057c4ba542876de23a60",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "review_id": "S22",
+    "canonical_id": "fd7d2143b0bacc90",
+    "source_relative_path": "1_Electronic/19.What_20is_20e-waste_20recycling.jpg",
+    "source_sha256": "6a19f1e0839fc4cd3344f94cbeba4437e0ead806451475d88cde7fa2a6a18741",
+    "width": 885,
+    "height": 885
+  },
+  {
+    "review_id": "S23",
+    "canonical_id": "9b1b6c6d283703e2",
+    "source_relative_path": "1_Electronic/16.e-waste-pile-discarded-electronics-environmental-concerns-close-up-shot-showcasing-pile-discarded-electronic-devices-406665791.jpg",
+    "source_sha256": "74135e01db3ad2513c87d29d2b1ba1cc93326d51b436e38159511c13b4e1693e",
+    "width": 1600,
+    "height": 1004
+  },
+  {
+    "review_id": "S24",
+    "canonical_id": "9df9d4bd8bcc3ee4",
+    "source_relative_path": "1_Electronic/67.antarafoto-potensi-ekonomi-sampah-elektronik-090621-irp-4.jpg",
+    "source_sha256": "79d9a92c9d7978fc64a17a143c0da0658c99cb87889cbb1fafbe082ac073ffbb",
+    "width": 800,
+    "height": 500
+  },
+  {
+    "review_id": "S25",
+    "canonical_id": "141c8a172fc9bde0",
+    "source_relative_path": "1_Electronic/20.steptodown.com801613.jpg",
+    "source_sha256": "7d62fcc9d91c5349fa21b0254abaed48c88748396a3cab8741cb7983764d0549",
+    "width": 1224,
+    "height": 816
+  },
+  {
+    "review_id": "S26",
+    "canonical_id": "ddd5acafde74d2ec",
+    "source_relative_path": "1_Electronic/17.avoid-the-trash-heap-15-great-uses-for-an-old-pc_sjb3.jpg",
+    "source_sha256": "8043d9348e3812743e7c3a0a4685922f9c90845cd8dc745842e71afc06abf0f0",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "review_id": "S27",
+    "canonical_id": "d4b3db3429537da3",
+    "source_relative_path": "1_Electronic/17.Screen-Shot-2016-08-04-at-12.32.42-PM.png",
+    "source_sha256": "874b249ad1d4294a02ca4d7cd0b5bb1d69739db4ec77553bc1d44f981efa286d",
+    "width": 789,
+    "height": 530
+  },
+  {
+    "review_id": "S28",
+    "canonical_id": "d7cf28a4080b774f",
+    "source_relative_path": "1_Electronic/ewaste.jpg",
+    "source_sha256": "89f9b97cad544637316b81a79dfb304ed000920257c6af3a42a8e52cae5e552b",
+    "width": 860,
+    "height": 516
+  },
+  {
+    "review_id": "S29",
+    "canonical_id": "9ded9e1344536ec9",
+    "source_relative_path": "1_Electronic/66.Electronic_20Recyclables.png",
+    "source_sha256": "8b72e4217c02f3b136356f181bb7e7848a1657ce219f88662e1bbd83883b96bf",
+    "width": 2000,
+    "height": 1429
+  },
+  {
+    "review_id": "S30",
+    "canonical_id": "e3387d1813ffc333",
+    "source_relative_path": "1_Electronic/s-l640.jpg",
+    "source_sha256": "8df40afaed6ef9b30d428116954b7ab069a5bbe2c8959c1afbaffbf120c21d83",
+    "width": 640,
+    "height": 430
+  },
+  {
+    "review_id": "S31",
+    "canonical_id": "7f40117646d3155e",
+    "source_relative_path": "1_Electronic/device-recycling.jpg",
+    "source_sha256": "8ea52e4d8ec5bea509d5a6799d5cad32484101ec77375336ee595f73a7b9ca33",
+    "width": 3000,
+    "height": 1997
+  },
+  {
+    "review_id": "S32",
+    "canonical_id": "074e3063222539c3",
+    "source_relative_path": "1_Electronic/59.unearthed-fortune-in-your-old-tech-find-out-how-yo.jpg",
+    "source_sha256": "907e6d91865919b2d9d52d9ee8cbca5e6b37f257883171b16f41e2100e028d1b",
+    "width": 1216,
+    "height": 832
+  },
+  {
+    "review_id": "S33",
+    "canonical_id": "2f1382293b6e1f0f",
+    "source_relative_path": "1_Electronic/83.scrap-yard-electronic-waste-recycling-with-selective-focus-electronic-aluminium-waste_641503-141716.jpg",
+    "source_sha256": "970a6617c3791480407c00efc1f87fe0c6d7a13b0abecef7bcc34f3a7d10629b",
+    "width": 626,
+    "height": 417
+  },
+  {
+    "review_id": "S34",
+    "canonical_id": "cc95f82dfa74bb02",
+    "source_relative_path": "1_Electronic/19.BATAM-ESUN-INI-3.jpeg",
+    "source_sha256": "b101f9de6fb42c2ec882a763c32a72d7868e0f51c6867ae1a747b22db2dec574",
+    "width": 1280,
+    "height": 696
+  },
+  {
+    "review_id": "S35",
+    "canonical_id": "8949d3e95e3abf2f",
+    "source_relative_path": "1_Electronic/imagesyuioop.jpg",
+    "source_sha256": "b14365187acfb6ae08dd6ceaf0ec40b11fb129122e4b3a8f292eb6326992cde5",
+    "width": 310,
+    "height": 163
+  },
+  {
+    "review_id": "S36",
+    "canonical_id": "0ef8da423cd59f22",
+    "source_relative_path": "1_Electronic/9.komponen-pc-rusak-350x250.jpg",
+    "source_sha256": "bc888b2e34d4674bbdc771a5024d9febf8af45159a3b70fe1d5b3399ffb9bf41",
+    "width": 350,
+    "height": 250
+  },
+  {
+    "review_id": "S37",
+    "canonical_id": "9dbc90127874faf2",
+    "source_relative_path": "1_Electronic/1.tumpukan-e-limbah-yang-kacau-dari-laptop-dan-suku-cadang-komputer-yang-dibuang-representasi-visual-yang-luar-biasa-dari-masalah-limbah-elektronik-yang-berkembang-dan-kebutuhan-akan-solusi-daur-ulang-berkelanjutan_73523-11403.jpg",
+    "source_sha256": "c860551f1e0953299aa47b6f68beec696d61db946345e6800c3285f14ddfb963",
+    "width": 626,
+    "height": 351
+  },
+  {
+    "review_id": "S38",
+    "canonical_id": "ae4bf4c323ef6bf8",
+    "source_relative_path": "1_Electronic/e-waste-dump.jpg",
+    "source_sha256": "cb29e514cf17689c8b299280ea12ece719b98195873fe79970350bbf9bc86ace",
+    "width": 2500,
+    "height": 1875
+  },
+  {
+    "review_id": "S39",
+    "canonical_id": "f5836cb93d3580fe",
+    "source_relative_path": "1_Electronic/12.large-pile-assorted-electronic-waste-including-components-devices-isolated-white-backg-1200x675.jpg",
+    "source_sha256": "cc3b88f6508d343283ed6604293b2884d398a346dffa1e0c09b21b4192634eff",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "review_id": "S40",
+    "canonical_id": "eae90e7cb44174fc",
+    "source_relative_path": "1_Electronic/imagescv.jpg",
+    "source_sha256": "ce56cfa5f5f3e0a06f4778d728158d3c2be027e898168c33d0172054ce1a302b",
+    "width": 310,
+    "height": 162
+  },
+  {
+    "review_id": "S41",
+    "canonical_id": "ef50e786b83b948d",
+    "source_relative_path": "1_Electronic/13.Water-and-liquid-damage-for-laptop-what-to-do-step-to-dry-all-the-laptop-components-for-at-least-24-hours-let-laptop-fully-dry-550x422.jpg",
+    "source_sha256": "d12e16248c30c0958fda06659b816312c0ff9f5062979d2e46d7f887c89c9750",
+    "width": 550,
+    "height": 422
+  },
+  {
+    "review_id": "S42",
+    "canonical_id": "521f86389223f069",
+    "source_relative_path": "1_Electronic/13.dreamstime_m_19814977.jpg",
+    "source_sha256": "d690758e1479e8f21c933fcf3fb68f5655ee5eae5cad3a5c0ccb821b974b186b",
+    "width": 2121,
+    "height": 1414
+  },
+  {
+    "review_id": "S43",
+    "canonical_id": "a122bb814ca4f55b",
+    "source_relative_path": "1_Electronic/11.Copy-of-IRD-R2R-PR-16-Sept-Blog-visual-640x426.jpg",
+    "source_sha256": "d9d17df209bd869f6dbb875d6a5a2629dfd6e6eb1160a51e28f99ed47d96d466",
+    "width": 640,
+    "height": 426
+  },
+  {
+    "review_id": "S44",
+    "canonical_id": "8e30cef4096cf2b5",
+    "source_relative_path": "1_Electronic/83.hq720.jpg",
+    "source_sha256": "e3221eaa7d63d59606f4c29db2abd1facf48acca08699a49660d0eb6d467de74",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "review_id": "S45",
+    "canonical_id": "d0bc1211d5d41094",
+    "source_relative_path": "1_Electronic/pcb_182.jpg",
+    "source_sha256": "f5cb25c7fb581cc84000fdf7bf71af20197ec89344e02ecc85e766ab819b66c3",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "review_id": "S46",
+    "canonical_id": "2fa8927a8d60758a",
+    "source_relative_path": "1_Electronic/70.35520267.jpg",
+    "source_sha256": "f8e66fe95ea6f564e0ee07fb27d8d1287afbb216dbf86bb52c47c20d48743dfb",
+    "width": 450,
+    "height": 319
+  },
+  {
+    "review_id": "S47",
+    "canonical_id": "8c52ec63f313777b",
+    "source_relative_path": "1_Electronic/63.878436f7-cef3-4811-ba67-1ac0c2ae8920_47000465.jpg",
+    "source_sha256": "f96f5a10775b1ace28a96e63f9a0649a2397feaa33f8b5a2b9545993367813a3",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "review_id": "S48",
+    "canonical_id": "b08aed059399d4ba",
+    "source_relative_path": "1_Electronic/17.electronical_waste_weee_scrap_web.jpg",
+    "source_sha256": "f9ac32bbf19abbf67a0a933650973ec7b23bc9070397a2fc506b03c08d6de370",
+    "width": 2350,
+    "height": 1478
+  }
+]

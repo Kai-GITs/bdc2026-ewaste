@@ -1,0 +1,4 @@
+method,supported,ambiguous,rejected,denominator
+first_encounter,10,5,10,25
+foreground_nearest,10,6,9,25
+view_consensus,10,6,9,25

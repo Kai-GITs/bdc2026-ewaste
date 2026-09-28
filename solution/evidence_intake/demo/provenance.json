@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "batch_sha256": "562b3f5513bf29a2f3e67d8a095187f7cbe1b6b018c30a56b29f794f24c76dc7",
+  "received_records": 7,
+  "unique_exact_images_expected": 6,
+  "supports": 6,
+  "original_photo_sha_verified": true,
+  "claim_limit": "Workflow demo; repeated receipt is intentionally duplicated and is not a seventh observation."
+}

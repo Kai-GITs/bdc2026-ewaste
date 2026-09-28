@@ -1,0 +1,39 @@
+{
+  "status": "complete_targeted_mask_correspondence_adjudication",
+  "examples_total": 42,
+  "candidate_examples": 30,
+  "hard_negative_examples": 12,
+  "candidate_proposal_alignment": {
+    "good": 23,
+    "partial": 7
+  },
+  "candidate_semantic_correspondence": {
+    "ambiguous": 8,
+    "no": 6,
+    "yes": 16
+  },
+  "candidate_claim_interpretation": {
+    "requires_narrowing": 13,
+    "supported": 11,
+    "unsupported": 6
+  },
+  "candidate_failure_mode": {
+    "descriptor_correspondence": 10,
+    "interpretation": 4,
+    "none": 10,
+    "proposal": 5,
+    "source_redundancy": 1
+  },
+  "hard_negative_proposal_alignment": {
+    "good": 12
+  },
+  "hard_negative_semantic_correspondence": {
+    "yes": 12
+  },
+  "hard_negative_claim_interpretation": {
+    "requires_narrowing": 12
+  },
+  "decision": "retain_existing_masks_and_descriptors_with_claim_gating",
+  "decision_basis": "All 30 candidate masks were visually usable (23 good, 7 partial, 0 poor), while only 16/30 candidate regions had direct semantic correspondence and 6/30 contradicted the family interpretation. All 12 hard negatives had good masks and coherent visual appearance, yet every one required a narrower claim because similarity came from labels, screen content, pictorial content, or scene composition. The bottleneck is correspondence and interpretation, not mask generation.",
+  "claim_limit": "This targeted audit estimates mechanism failure modes for selected high-interest and known negative families; it is not a prevalence estimate over all 129 families."
+}

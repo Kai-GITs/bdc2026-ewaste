@@ -1,0 +1,26 @@
+{
+  "question": "Does the frozen whole-image advantage for assembly status persist among photos with comparable scene presentation?",
+  "hypothesis": "DINOv3 whole-image scores retain higher AUROC than region-family scores within photographs showing environmental or handling context, rather than only separating isolated product pictures from scene photographs.",
+  "design": "Post-hoc observational diagnostic on all 48 previously evaluated photos. No refitting, threshold search, new extraction or relabeling of assembly outcomes. Style judged from original images before joining frozen scores; same agent has prior exposure to cohort, so this is not independent blinding.",
+  "presentation_codes": {
+    "scene": "Visible physical surroundings, hand, work surface texture, shelf, floor, container or pile of objects photographed together. A watermark does not change this code.",
+    "isolated": "One or more products or assemblies isolated against uniform/background-removed presentation, without visible handling or environmental setting. This takes precedence over scene for white-background arrangements of several objects.",
+    "composite": "Clearly assembled montage, diagram or illustration with discontinuous placements or graphic rendering.",
+    "uncertain": "Insufficient context to distinguish the preceding types."
+  },
+  "primary": "Paired difference in AUROC, whole-image DINOv3 minus region-family score, in the scene stratum; do not merge strata after looking at scores.",
+  "secondary": [
+    "Class counts by presentation",
+    "AUROC of all frozen comparators within each estimable stratum",
+    "Pooled conditional AUROC using positive-negative pairs only within the same presentation stratum",
+    "Resolution sensitivity within scene photographs at minimum native side >=150 pixels; report unestimable groups explicitly",
+    "Group-balanced metrics after visually confirmed test-scene duplicates are assigned one representative chosen by lexicographically first source SHA256, independent of outcome and scores"
+  ],
+  "clarification_before_score_join": "After reviewing images, clarified that isolated white-background arrangements may contain several products. Added visual scene grouping after observing repeated crops and watermark variants in the review sheets; this grouping is explicitly adaptive and is not source-independent validation.",
+  "uncertainty": "10000 paired stratified bootstrap draws, resampling positives and negatives separately within each presentation stratum; same draws for all models. No formal causal or source-independence claim.",
+  "seed": 260928,
+  "command": "python scripts/evaluate_exposure_style_control.py",
+  "compute": "Light CPU on 48 frozen prediction rows; original-image visual review. No model inference or training, no paid compute.",
+  "timeout_seconds": 120,
+  "adaptive_source_review_extension": "All 130 development originals screened against all 48 test originals. Four candidates compared side-by-side, one unresolved because of blur; report exclusion sensitivity without changing the primary cohort or frozen scores."
+}

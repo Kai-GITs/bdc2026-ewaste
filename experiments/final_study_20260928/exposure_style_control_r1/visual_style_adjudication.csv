@@ -1,0 +1,49 @@
+review_id,presentation,scene_group,reason
+S01,scene,S01,Komponen di atas meja bertekstur
+S02,scene,keyboard_pile,Tumpukan papan dan papan ketik; adegan sama dengan S10 dan S31
+S03,scene,S03,Rakitan dalam kotak dengan lingkungan gudang
+S04,scene,computer_case_pile,Tumpukan komputer dengan sasis terbuka; objek dan susunan sama dengan S22 dan S42
+S05,scene,S05,Laptop terbongkar pada lantai bertekstur
+S06,scene,S06,Tangan dan wadah pengumpulan
+S07,isolated,S07,Perangkat dan papan terisolasi di latar putih
+S08,scene,laptop_stack,Tumpukan laptop; susunan dan sudut sama dengan S25 dan S46
+S09,scene,S09,Perangkat dalam wadah kardus
+S10,scene,keyboard_pile,Tumpukan yang sama dengan S02 dan S31 dengan perbedaan ketajaman atau crop
+S11,scene,S11,Tumpukan komponen padat
+S12,isolated,S12,Papan tunggal pada latar putih
+S13,uncertain,S13,Citra berkontras sangat tinggi dan detail terbatas
+S14,scene,S14,Tumpukan padat komponen pada area penyimpanan
+S15,isolated,S15,Susunan perangkat terisolasi di latar putih
+S16,scene,S16,Tumpukan perangkat dalam wadah berkawat
+S17,scene,S17,Banyak papan tersusun memenuhi bidang foto
+S18,scene,S18,Tangan alat dan bagian perangkat dalam penanganan
+S19,scene,S19,Tumpukan komputer dalam wadah kayu
+S20,isolated,S20,Sasis dan bagian lain terisolasi di latar putih
+S21,scene,S21,Papan pada permukaan gelap bertekstur
+S22,scene,computer_case_pile,Tumpukan sama dengan S04 dan S42; tambahan grafis daur ulang
+S23,scene,S23,Tumpukan perangkat dengan kedalaman dan objek berlapis
+S24,scene,S24,Orang dan lingkungan tempat penanganan
+S25,scene,laptop_stack,Foto tumpukan sama dengan S08 dan S46 tanpa logo bawah
+S26,isolated,S26,Susunan perangkat pada latar seragam terang
+S27,isolated,S27,Laptop dan komponen disusun pada latar putih
+S28,scene,S28,Tumpukan perangkat dan kabel pada permukaan
+S29,scene,S29,Layar terbuka pada tumpukan
+S30,scene,S30,Mesin cuci terbuka dengan bagian di tanah
+S31,scene,keyboard_pile,Tumpukan sama dengan S02 dan S10
+S32,scene,S32,Tangan dan lingkungan tumpukan; keaslian fotografis tidak ditetapkan
+S33,scene,S33,Tumpukan dengan kedalaman dan latar blur; keaslian fotografis tidak ditetapkan
+S34,scene,S34,Komponen dalam kotak kardus
+S35,scene,outdoor_pile,Crop tumpukan papan luar ruang yang sama dengan S38 dan S48
+S36,scene,S36,Komputer terbuka dengan lingkungan di sekelilingnya
+S37,scene,S37,Tumpukan laptop dan monitor dalam ruang
+S38,scene,outdoor_pile,Adegan tumpukan sama dengan S35 dan S48 dengan bingkai lebih luas
+S39,isolated,S39,Tumpukan perangkat terisolasi dengan latar putih
+S40,scene,S40,Pencetak terbongkar di lantai
+S41,scene,S41,Laptop terbongkar di atas karpet
+S42,scene,computer_case_pile,Foto lebih luas dari tumpukan yang sama dengan S04 dan S22
+S43,scene,S43,Laptop dan bagian lain dalam tumpukan
+S44,uncertain,S44,Citra terlalu terang dan berkontras tinggi dengan konteks terpotong
+S45,uncertain,S45,Citra berkontras tinggi dan resolusi terbatas
+S46,scene,laptop_stack,Foto tumpukan sama dengan S08 dan S25 dengan watermark lain
+S47,scene,S47,Tumpukan perangkat dalam kotak dengan banner sumber
+S48,scene,outdoor_pile,Adegan sama dengan S35 dan S38 dengan warna berbeda

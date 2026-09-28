@@ -1,0 +1,13 @@
+{
+  "question": "Does the frozen discovery inspection order expose recurring local structures across whole-image communities, beyond visiting more family IDs?",
+  "hypothesis": "At 50 photos the existing discovery order covers more r2 families in at least two global communities than the existing global-centroid order.",
+  "design": "Post-hoc descriptive analysis of frozen orders; no refitting, model extraction, threshold search or new policy selection.",
+  "primary_metric": "Number of families observed in at least two distinct frozen global communities among the first 50 selected photos.",
+  "comparators": ["global_centroids", "static_local_degree", "random seeds 0..99"],
+  "secondary": ["cross-community families with at least two selected parents in each of two communities", "coverage among families whose full-census median partition Jaccard is at least 0.5", "family-level counts, semantic ratings and examples retained separately"],
+  "budgets": [10, 25, 50, 100],
+  "scope": "All 2899 photos eligible for the existing region catalog. Automatic memberships measure structural coverage, not validated semantic identity. Census semantic ratings are correlated agent adjudications, not independent targets.",
+  "command": "python scripts/evaluate_inspection_context_coverage.py",
+  "timeout_seconds": 120,
+  "compute": "Light CPU only; cached catalog and existing selected-photo orders; no cloud cost."
+}

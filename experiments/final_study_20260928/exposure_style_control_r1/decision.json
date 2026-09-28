@@ -1,0 +1,14 @@
+{
+  "finding": "Whole-image assembly-score advantage survives observed repeated-scene and presentation controls.",
+  "mechanism_interpretation": "Local appearance and assembly relation require different retained information. Observational controls weaken simple source/presentation confounds without demonstrating causal use of chassis.",
+  "application": "Retain region coverage for exploratory inspection and frozen whole-image priority for evaluated assembly cohort. Do not install region presence as assembly classifier.",
+  "cohorts": {
+    "all": 48,
+    "scene_representatives": 40,
+    "scene_presentation_representatives": 30,
+    "excluding_unresolved_cross_split_source": 29
+  },
+  "source_limit": "Four within-test triplicate scenes recognized. No confirmed dev/test same-scene pair; one unresolved blurred pair retained in main analysis and excluded only in sensitivity.",
+  "no_new_model_training": true,
+  "no_claim_of_external_generalization": true
+}

@@ -1,0 +1,130 @@
+family_internal,visual_name_id,discovery_roles,coherence_0_4,cross_context_0_4,novelty_vs_global_0_4,interpretability_0_4,analytical_usefulness_0_4,shortcut_risk_0_4,relation_tags,visual_review_note
+0,permukaan papan sirkuit terpopulasi,recurring_part|cross_context_bridge,4,3,3,4,4,0,pcb|mounted_detached,Papan dan komponen terlihat konsisten pada papan lepas maupun rakitan.
+1,permukaan layar gelap perangkat genggam,recurring_part|cross_context_bridge,4,3,2,4,3,1,screen_condition,Layar gelap ponsel konsisten; retak pada sebagian contoh bukan ciri utama keluarga.
+2,fragmen tumpukan perangkat dan layar,shortcut_or_scene|unresolved_pattern,2,2,1,2,1,4,mounted_detached|scene,Tumpukan dan perangkat bercampur; crop tidak menunjuk satu bagian konsisten.
+3,zona depan dan keluaran pencetak,recurring_part|common_category_pattern,4,1,2,4,3,1,printer,Panel depan kontrol dan keluaran pencetak cukup konsisten.
+4,fragmen permukaan dan latar campuran,shortcut_or_scene|unresolved_pattern,1,2,1,1,0,4,scene,Kain layar tumpukan dan tepi perangkat bercampur.
+5,matriks tombol papan ketik,recurring_part|common_category_pattern,4,2,1,4,3,0,key_matrix,Kisi tombol konsisten pada papan ketik tunggal dan konteks meja.
+6,cangkang dan kontrol tetikus,recurring_part|common_category_pattern,4,2,1,4,3,0,mouse,Cangkang tombol dan roda tetikus konsisten.
+7,panel depan perangkat audio,recurring_part|common_category_pattern,4,2,2,4,3,1,audio,Speaker dan kontrol depan perangkat audio portabel dominan.
+8,tepi bawah perangkat gelap,unresolved_pattern|shortcut_or_scene,2,2,1,2,1,3,scene,Tepi mouse remote ponsel dan bayangan bercampur.
+9,fragmen kisi tombol,recurring_part|common_category_pattern,4,2,1,4,3,0,key_matrix,Kisi tombol dekat dan jauh konsisten.
+10,casing dan terminal paket baterai,recurring_part|common_category_pattern,4,2,2,4,4,1,battery,Casing label dan terminal baterai dominan; beberapa PCB adalah salah dukung periferal.
+11,permukaan layar gelap monitor,recurring_part|cross_context_bridge,4,3,2,4,3,0,screen_condition,Panel layar gelap monitor dan televisi konsisten.
+12,basis dan tepi objek terang,shortcut_or_scene|unresolved_pattern,1,3,1,1,0,4,scene,Dasar perangkat dinding dan bidang putih bercampur tanpa bagian khusus.
+13,papan sirkuit dalam rakitan dan tumpukan,recurring_part|cross_context_bridge,4,4,4,4,4,1,pcb|mounted_detached,Papan terlihat pada rakitan terbuka tumpukan dan bagian lepas; kandidat perubahan konteks kuat.
+14,fragmen objek pada adegan limbah,shortcut_or_scene|unresolved_pattern,1,3,1,1,1,4,scene,Kamera pencetak meja dan tumpukan bercampur.
+15,strip samping speaker dan layar,unresolved_pattern|shortcut_or_scene,2,3,1,2,1,3,audio|screen_condition,Tepi vertikal dari speaker layar dan furnitur bercampur.
+16,muka layar tabung,recurring_part|common_category_pattern,4,2,2,4,3,0,screen_condition|mounted_detached,Permukaan dan kontrol muka CRT konsisten di unit tunggal dan tumpukan.
+17,kabel dan tepi periferal,unresolved_pattern|shortcut_or_scene,2,3,1,2,1,3,mouse|scene,Kabel sisi mouse dan tepi layar tidak membentuk satu bagian.
+18,slot atau keluaran perangkat cetak,recurring_part|common_category_pattern,3,2,2,3,3,2,printer,Mayoritas contoh perangkat cetak tetapi bentuk slot dan tepi masih beragam.
+19,panel samping peralatan terang,unresolved_pattern|shortcut_or_scene,2,3,1,2,1,3,appliance,Permukaan mesin cuci pencetak dan perangkat lain bercampur.
+20,panel kontrol microwave,recurring_part|common_category_pattern,4,1,2,4,4,0,microwave,Tombol kenop dan panel kontrol microwave konsisten.
+21,permukaan layar aktif,visible_condition|cross_context_bridge,4,3,3,4,3,1,screen_condition,Area tampilan aktif pada ponsel televisi dan laptop; isi layar bukan identitas komponen.
+22,sasis internal komputer meja,recurring_part|common_category_pattern,4,2,3,4,4,1,pcb|mounted_detached,Sasis rak drive papan dan kipas tampak pada komputer terbuka dan tumpukan.
+23,dek masukan laptop,recurring_part|common_category_pattern,4,2,2,4,4,0,key_matrix|screen_condition,Keyboard touchpad dan palm rest laptop konsisten.
+24,pintu atau rongga microwave,recurring_part|common_category_pattern,4,1,2,4,4,0,microwave,Pintu jendela dan rongga depan microwave konsisten.
+25,fragmen kemasan tangan dan tumpukan,shortcut_or_scene|unresolved_pattern,1,3,1,1,0,4,scene,Kemasan tangan dan sampah sekitar mendominasi crop.
+26,casing belakang perangkat genggam,recurring_part|common_category_pattern,4,1,2,4,3,1,handheld,Casing belakang ponsel konsisten tanpa menyimpulkan isi.
+27,keyboard dan dek laptop,recurring_part|common_category_pattern,4,2,2,4,4,0,key_matrix,Keyboard dan dek laptop konsisten pada sudut berbeda.
+28,label dan bidang atas persegi panjang,shortcut_or_scene|unresolved_pattern,2,4,2,2,1,4,battery|printer|audio,Label atau bidang atas menyatukan baterai audio pencetak dan layar; bukan bagian tunggal.
+29,aksesori campuran,shortcut_or_scene|unresolved_pattern,1,4,1,1,1,4,mouse|printer|scene,Remote mouse keyboard kabel dan pencetak bercampur.
+30,pintu akses mesin cuci,recurring_part|common_category_pattern,4,2,2,4,4,0,washing_machine,Pintu bundar mesin cuci konsisten pada unit utuh dan adegan campuran.
+31,fragmen internal laptop dan slot,unresolved_pattern|shortcut_or_scene,2,3,2,2,2,3,laptop|mounted_detached,Slot tepi laptop dan tumpukan bercampur; sebagian menunjukkan perangkat terbuka.
+32,isi layar dan antarmuka,visible_condition|shortcut_or_scene,3,4,3,3,2,3,screen_condition,Garis antarmuka foto dan layar aktif bercampur; bukan bukti kerusakan fisik.
+33,penutup luar laptop,recurring_part|common_category_pattern,4,1,2,4,3,1,laptop,Permukaan logo dan penutup luar laptop konsisten.
+34,retak dan pecah layar,visible_condition|cross_context_bridge,4,4,4,4,4,0,screen_condition,Retak kaca dan kerusakan layar terlihat pada ponsel laptop dan televisi.
+35,tangan toko dan konteks ponsel,shortcut_or_scene|unresolved_pattern,1,4,1,1,0,4,scene|handheld,Tangan etalase dan konteks toko mendominasi.
+36,tepi dan port laptop,recurring_part|unusual_substructure,4,2,3,4,4,1,laptop|mounted_detached,Deret port dan tepi laptop tampak pada unit serta tumpukan.
+37,gambar pada kertas atau layar,shortcut_or_scene|unresolved_pattern,2,4,2,2,1,4,printer|screen_condition,Gambar cetak dan gambar pada layar menyatu sebagai shortcut konten.
+38,label ujung baterai dan panel kecil,unresolved_pattern|shortcut_or_scene,2,4,2,2,2,3,battery|scene,Label ujung baterai jam dan panel listrik bercampur.
+39,rakitan layar laptop,recurring_part|common_category_pattern,4,2,2,4,4,1,laptop|screen_condition,Panel dan bingkai layar laptop konsisten.
+40,panel atas mesin cuci,recurring_part|common_category_pattern,4,2,2,4,4,1,washing_machine,Panel dan bagian atas mesin cuci konsisten walau model berbeda.
+41,kemasan sirkuit terpadu,recurring_part|cross_context_bridge|unusual_substructure,4,4,4,4,4,0,pcb,Kemasan IC persegi terlihat pada papan tunggal rakitan dan tumpukan.
+42,panel samping peralatan,unresolved_pattern|shortcut_or_scene,2,3,1,2,1,3,appliance,Panel putih dari microwave mesin cuci dan objek lain bercampur.
+43,baki dan jalur media pencetak,recurring_part|unusual_substructure,4,2,3,4,4,1,printer,Baki jalur kertas dan bagian keluaran pencetak tampak konsisten.
+44,tutup dan area pemutar rekaman,recurring_part|common_category_pattern,4,2,3,4,3,1,audio,Tutup piringan dan area pemutar rekaman konsisten.
+45,bingkai pintu mesin cuci,recurring_part|common_category_pattern,4,2,2,4,4,0,washing_machine,Bingkai dan bukaan pintu mesin cuci konsisten.
+46,piringan dan rekaman pemutar,recurring_part|unusual_substructure,4,2,3,4,3,0,audio,Piringan dan rekaman terlihat pada gramofon dan pemutar modern.
+47,tanah dan vegetasi sekitar perangkat,shortcut_or_scene|unresolved_pattern,1,4,1,1,0,4,scene,Latar tanah tumbuhan dan perangkat terbakar bercampur.
+48,matriks tombol ergonomis,recurring_part|common_category_pattern,4,2,1,4,3,0,key_matrix,Kisi tombol konsisten pada beberapa bentuk papan ketik.
+49,bingkai bawah atau penyangga layar,recurring_part|unusual_substructure,3,2,3,4,3,1,screen_condition,Bingkai bawah dan penyangga monitor cukup konsisten.
+50,tanah atau basis di bawah perangkat,shortcut_or_scene|unresolved_pattern,1,4,1,1,0,4,scene,Crop terutama tanah basis dan latar di bawah perangkat.
+51,saklar dan soket dinding,recurring_part|unusual_substructure,4,1,3,4,2,0,electrical_installation,Panel saklar dan soket konsisten tetapi berada di pinggir domain e-waste.
+52,garis dan panel layar rusak,visible_condition|cross_context_bridge,4,4,4,4,4,0,screen_condition,Panel bergaris pecah atau rusak konsisten pada perangkat berbeda.
+53,konteks fasilitas dan tumpukan e-waste,common_category_pattern|shortcut_or_scene,3,3,2,3,2,2,scene|mounted_detached,Adegan fasilitas tumpukan dan kontainer konsisten sebagai konteks bukan bagian.
+54,sisi dan kontrol tetikus,recurring_part|common_category_pattern,4,1,2,4,3,1,mouse,Sisi bawah tombol dan kontrol tetikus konsisten.
+55,bola atau kontrol bundar perangkat,unusual_substructure|unresolved_pattern,3,3,4,3,3,2,mouse|electromechanical,Elemen bundar menyerupai trackball atau kontrol muncul lintas perangkat; perlu verifikasi lebih lanjut.
+56,CRT dalam tumpukan limbah,common_category_pattern|mounted_detached,4,2,3,4,3,1,screen_condition|mounted_detached,Muka CRT konsisten ketika terpasang dan berada dalam tumpukan.
+57,cangkang belakang tetikus,recurring_part|common_category_pattern,4,1,2,4,3,1,mouse,Cangkang belakang tetikus konsisten meski dukungan kecil.
+58,kaki furnitur dan basis adegan,shortcut_or_scene|unresolved_pattern,1,3,1,1,0,4,scene,Kaki meja basis perangkat dan furnitur bercampur.
+59,papan ketik dalam tumpukan,common_category_pattern|mounted_detached,4,2,3,4,3,1,key_matrix|mounted_detached,Papan ketik terlihat sendiri bersama komputer dan di tumpukan.
+60,tepi pintu atau rongga microwave,recurring_part|unusual_substructure,4,1,3,4,3,1,microwave,Tepi rongga dan pintu microwave konsisten pada enam foto.
+61,bagian putar atau kipas pada rakitan,unusual_substructure|unresolved_pattern,3,4,4,3,4,2,mounted_detached|electromechanical,Kipas hub motor dan bagian putar terlihat lintas adegan; identitas tunggal belum pasti.
+62,fragmen matriks tombol kecil,recurring_part|unusual_substructure,4,2,2,4,3,1,key_matrix,Kisi tombol kecil konsisten pada lima papan ketik.
+63,fragmen papan sirkuit buram,recurring_part|unresolved_pattern,3,2,3,3,3,2,pcb,Warna dan tata letak papan berulang tetapi resolusi rendah.
+64,retak layar langka,visible_condition|unusual_substructure,4,3,4,4,4,0,screen_condition,Lima layar menunjukkan retak jelas; kandidat langka dengan bukti visual kuat.
+65,fragmen objek dan adegan campuran,shortcut_or_scene|unresolved_pattern,1,4,1,1,0,4,scene,Mouse kerumunan gambar hewan dan tumpukan bercampur.
+66,sudut penutup laptop satu sumber,common_category_pattern|unresolved_pattern,4,1,2,4,2,3,laptop,Penutup laptop koheren tetapi variasi sumber sangat rendah.
+67,perangkat rusak berat dalam limbah,visible_condition|unresolved_pattern,3,4,4,3,4,2,screen_condition|mounted_detached,Ponsel CRT dan perangkat rusak berat membentuk kondisi lintas produk namun hanya empat foto.
+68,asap atau pembakaran di sekitar e-waste,visible_condition|shortcut_or_scene,3,3,4,3,3,3,scene,Asap dan api terlihat tetapi kemungkinan berasal dari sumber adegan serupa.
+69,strip samping papan ketik,recurring_part|unusual_substructure,4,1,3,4,3,1,key_matrix,Tepi vertikal dan deret tombol konsisten pada empat foto.
+70,corong gramofon,recurring_part|unusual_substructure,4,1,4,4,3,0,audio,Corong gramofon koheren pada empat foto dan berbeda dari baseline foto utuh.
+71,tepi vertikal perangkat gelap,unresolved_pattern|shortcut_or_scene,2,3,2,2,1,3,handheld|scene,Tepi remote ponsel dan objek latar bercampur.
+72,area kontrol perangkat terbuka,unusual_substructure|unresolved_pattern,2,3,3,2,2,3,mounted_detached,Keyboard workbench dan perangkat terbuka bercampur tanpa satu bagian pasti.
+73,bidang hitam sudut bawah,shortcut_or_scene|unresolved_pattern,1,4,1,1,0,4,scene,Bidang hitam pada keyboard monitor dan mouse merupakan shortcut posisi.
+74,antarmuka aktif ponsel,visible_condition|common_category_pattern,4,1,3,4,2,1,screen_condition,Tiga ponsel menunjukkan area antarmuka aktif.
+75,basis bundar atau drum perangkat,unusual_substructure|unresolved_pattern,2,3,3,2,2,3,electromechanical,Bentuk bundar pada perangkat dan tumpukan belum cukup koheren.
+76,panel layar gelap langka,recurring_part|unusual_substructure,4,2,3,4,3,1,screen_condition,Tiga panel gelap monitor atau laptop koheren.
+77,konektor gelap pada papan satu sumber,unusual_substructure|unresolved_pattern,4,1,4,4,3,3,pcb,Tiga crop menunjukkan konektor papan yang sama atau sangat dekat; risiko duplikasi sumber tinggi.
+78,matriks tombol langka,recurring_part|unusual_substructure,4,2,2,4,3,1,key_matrix,Tiga contoh kisi tombol koheren.
+79,bukaan dan kontrol kecil campuran,unresolved_pattern|shortcut_or_scene,1,4,2,1,1,4,electrical_installation|scene,Soket breaker dan headphone bercampur karena bentuk bukaan kecil.
+80,panel belakang ponsel satu bentuk,recurring_part|unresolved_pattern,4,1,2,4,2,3,handheld,Tiga ponsel sangat serupa; source diversity perlu diperiksa.
+81,bingkai dan belakang CRT di tumpukan,common_category_pattern|mounted_detached,4,2,3,4,3,1,screen_condition|mounted_detached,Monitor CRT terlihat pada pembongkaran dan tumpukan.
+82,tepi peralatan pada tumpukan,shortcut_or_scene|unresolved_pattern,2,3,2,2,1,3,scene,Basis perangkat dan tumpukan bercampur tanpa bagian jelas.
+83,pantulan pada layar monitor,visible_condition|unusual_substructure,3,2,4,3,3,2,screen_condition,Tiga monitor menunjukkan pantulan atau permukaan mengilap; belum kondisi kerusakan.
+84,papan sirkuit dalam satu adegan tumpukan,recurring_part|unresolved_pattern,4,1,3,4,2,3,pcb|mounted_detached,Dua contoh papan koheren tetapi tampak berasal dari sumber sangat mirip.
+85,tombol papan ketik bercahaya,visible_condition|unusual_substructure,4,2,4,4,3,1,key_matrix,Dua contoh menunjukkan tombol bercahaya di konteks berbeda.
+86,komponen atau kontrol bundar elektronik,unusual_substructure|unresolved_pattern,2,3,3,2,2,3,pcb|audio,Bentuk bundar pada papan dan panel audio belum cukup spesifik.
+87,muka jam analog,common_category_pattern|unusual_substructure,4,1,4,4,1,1,out_of_domain,Dua jam koheren tetapi berada di pinggir tujuan e-waste.
+88,permukaan furnitur dan kain,shortcut_or_scene|unresolved_pattern,1,2,1,1,0,4,scene,Kain kursi dan furnitur merupakan latar.
+89,permukaan peralatan sangat terang,shortcut_or_scene|unresolved_pattern,1,3,1,1,0,4,appliance,Peralatan dan bidang putih terlalu kabur untuk interpretasi.
+90,tombol papan ketik bercahaya dekat,visible_condition|unusual_substructure,4,1,4,4,3,1,key_matrix,Dua crop dekat menunjukkan tombol bercahaya.
+91,isi layar statis atau permainan,visible_condition|unresolved_pattern,2,2,3,2,2,3,screen_condition,Satu layar bermasalah dan satu layar permainan; tidak cukup untuk kondisi tunggal.
+92,papan dalam tumpukan satu sumber,recurring_part|unresolved_pattern,4,1,3,4,2,3,pcb|mounted_detached,Dua crop papan koheren tetapi sumber tampak sama.
+93,isi gambar pada microwave atau layar,shortcut_or_scene|unresolved_pattern,1,3,2,1,0,4,screen_condition,Gambar makanan dan api merupakan isi visual bukan bagian.
+94,konektor kabel berwarna krem,recurring_part|unusual_substructure,4,2,4,4,4,1,connector,Dua konektor kabel koheren dan berpotensi berguna untuk permintaan foto detail.
+95,fragmen kabel dan rakitan dalam tumpukan,shortcut_or_scene|unresolved_pattern,2,3,2,2,1,3,mounted_detached|scene,Kabel papan dan tumpukan bercampur.
+96,tanah di samping perangkat,shortcut_or_scene|unresolved_pattern,1,3,1,1,0,4,scene,Crop terutama tanah dan bayangan perangkat.
+97,sudut papan ketik,recurring_part|unusual_substructure,4,1,2,4,2,1,key_matrix,Dua sudut papan ketik koheren.
+98,permukaan lengkung tetikus,recurring_part|unusual_substructure,4,1,3,4,3,1,mouse,Dua cangkang tetikus menunjukkan permukaan lengkung serupa.
+99,pad dan kontak papan sirkuit,recurring_part|unusual_substructure,4,2,4,4,4,1,pcb,Pad atau kontak papan terlihat pada dua sumber berbeda.
+100,tepi layar sangat terang,unresolved_pattern|shortcut_or_scene,2,2,2,2,1,3,screen_condition,Tepi layar dan cahaya dominan tanpa struktur khusus.
+101,tombol bundar tetikus,recurring_part|unusual_substructure,4,1,3,4,3,1,mouse,Kontrol bundar pada dua tetikus koheren.
+102,area cahaya pada layar atau lampu,shortcut_or_scene|unresolved_pattern,1,2,2,1,0,4,scene|screen_condition,Bidang cahaya tinggi menyatukan objek berbeda.
+103,perangkat hitam bertumpuk satu sumber,common_category_pattern|unresolved_pattern,3,1,2,3,1,3,mounted_detached,Dua crop tumpukan perangkat tampak dari sumber sama.
+104,bidang gelap pada kipas dan tumpukan,unresolved_pattern|shortcut_or_scene,1,3,2,1,1,4,electromechanical|scene,Kipas gelap dan tumpukan disatukan oleh bidang hitam.
+105,adegan pasar barang logam,shortcut_or_scene|unresolved_pattern,2,2,3,2,0,4,out_of_domain|scene,Adegan pasar berisi barang campuran dan tidak jelas relevansinya pada e-waste.
+106,persegi panjang hitam buram,shortcut_or_scene|unresolved_pattern,1,3,1,1,0,4,scene,Crop terlalu kabur dan generik.
+107,perangkat cetak rusak di tanah,visible_condition|unresolved_pattern,3,1,4,3,3,2,printer|mounted_detached,Dua foto menunjukkan perangkat cetak rusak atau terbakar; perlu sumber lebih beragam.
+108,artefak atau gangguan tampilan,visible_condition|unusual_substructure,3,2,4,3,4,2,screen_condition,Dua layar menunjukkan noise atau glitch; kandidat kondisi langka yang perlu konfirmasi.
+109,isi tayangan pada televisi,shortcut_or_scene|unresolved_pattern,1,2,2,1,0,4,screen_condition,Objek pada tayangan televisi bukan bagian perangkat.
+110,bidang kayu dan sisi perangkat,shortcut_or_scene|unresolved_pattern,1,3,1,1,0,4,scene,Meja pemutar rekaman dan sisi perangkat bercampur.
+111,panel samping microwave,recurring_part|unusual_substructure,3,1,3,4,3,1,microwave,Dua panel samping atau pintu microwave cukup koheren.
+112,latar dapur di sekitar microwave,shortcut_or_scene|unresolved_pattern,1,1,1,1,0,4,scene,Latar meja dan kabinet dapur mendominasi.
+113,isi pemandangan pada layar,shortcut_or_scene|unresolved_pattern,1,2,2,1,0,4,screen_condition,Area gambar pada layar bukan struktur perangkat.
+114,panel status kecil pada peralatan,unusual_substructure|unresolved_pattern,3,2,4,3,3,2,appliance,Dua strip status gelap pada peralatan berpotensi bagian tetapi dukungan kecil.
+115,kemasan chip buram pada papan,recurring_part|unusual_substructure,3,2,4,3,3,2,pcb,Dua crop menyerupai chip pada papan tetapi resolusi rendah.
+116,pad dan jalur tepi papan,recurring_part|unusual_substructure,4,2,4,4,4,1,pcb,Kontak emas dan jalur tepi papan koheren pada dua sumber.
+117,slot atau tepi depan laptop,recurring_part|unusual_substructure,4,1,3,4,3,1,laptop,Dua laptop menunjukkan slot atau tepi depan yang sama.
+118,sudut papan sirkuit gelap,recurring_part|unresolved_pattern,3,2,3,3,2,2,pcb,Dua papan menunjukkan sudut gelap tetapi detail terbatas.
+119,pola uji warna pada layar,visible_condition|unusual_substructure,4,3,4,4,4,0,screen_condition,Dua perangkat berbeda menampilkan pola uji warna yang jelas.
+120,logo atau tombol atas tetikus,recurring_part|unusual_substructure,3,1,3,3,2,2,mouse,Dua tetikus menunjukkan area logo atau tombol atas.
+121,ponsel di atas meja atau kain,shortcut_or_scene|unresolved_pattern,1,2,1,1,0,4,handheld|scene,Latar meja dan kain lebih dominan daripada bagian perangkat.
+122,mekanisme internal pencetak,recurring_part|unusual_substructure,4,2,4,4,4,1,printer|mounted_detached,Roller tray dan mekanisme internal pencetak terlihat pada dua konteks.
+123,tepi bawah papan ketik,recurring_part|unusual_substructure,3,1,3,3,2,2,key_matrix,Dua contoh menunjukkan tepi bawah papan ketik.
+124,terminal positif baterai silinder,recurring_part|unusual_substructure,4,2,4,4,4,0,battery,Terminal baterai terlihat jelas pada dua ukuran kemasan.
+125,matriks tombol gelap,recurring_part|unusual_substructure,4,1,3,4,3,1,key_matrix,Dua kisi tombol gelap koheren.
+126,bagian dalam microwave dengan objek,recurring_part|unusual_substructure,3,1,3,3,2,2,microwave,Rongga microwave terlihat tetapi objek di dalam ikut memengaruhi crop.
+127,permukaan layar gelap kecil,recurring_part|unusual_substructure,4,2,3,4,3,1,screen_condition,Dua permukaan layar gelap koheren.
+128,tepi monitor dalam tumpukan,common_category_pattern|mounted_detached,4,2,3,4,3,1,screen_condition|mounted_detached,Dua tepi monitor tampak dalam tumpukan berbeda.

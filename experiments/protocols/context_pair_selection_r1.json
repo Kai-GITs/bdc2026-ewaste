@@ -1,0 +1,18 @@
+{
+  "question": "Can instance-level evidence selection improve visible cross-context correspondence within a fixed inspection batch?",
+  "hypothesis": "Selecting the pair with strongest agreement across foreground, box and semantic crop views improves visible correspondence over first-encounter selection, and must be compared with foreground-nearest selection.",
+  "design": "Adaptive descriptive mechanism experiment, motivated by the already inspected first-encounter pairs. No independent generalization claim. Freeze all first 50 discovery photos, all 25 cross-community families and existing embeddings. No filtering of families, no learned scorer, no semantic labels used in selection.",
+  "pair_eligibility": "Two regions from the same r2 family, different canonical parents, different exact SHA256, different frozen global communities, both photos in the frozen first-50 discovery batch.",
+  "methods": {
+    "first_encounter": "Previously frozen pair: first encountered photo in each of two communities, higher family affinity within a tied photo.",
+    "foreground_nearest": "Maximum DINOv3 foreground cosine among eligible pairs; lexicographic region-ID tie break.",
+    "view_consensus": "Maximize minimum within-family eligible-pair percentile rank across DINOv3 foreground, DINOv3 box and SigLIP2 crop cosines; then maximize mean rank; then foreground cosine; then region IDs. Average ranks for ties. No thresholds."
+  },
+  "primary_metric": "Supported visible-pattern pairs out of all 25 families, with ambiguous and rejected counts retained. Same pair receives same adjudication across methods.",
+  "secondary": ["Paired wins and losses against both comparators", "same-product versus cross-product scope", "source redundancy or generic appearance recorded separately"],
+  "review": "Inspect every unique selected pair as full photos plus exact mask crops. Hide method and scores on review sheets; reviewer has seen baseline and is not independent or fully blinded. Broad visual correspondence does not establish component identity or novelty.",
+  "command": "python scripts/evaluate_context_pair_selection.py",
+  "seed": 260928,
+  "timeout_seconds": 120,
+  "compute": "Light CPU, only selected batch feature rows; existing memory-mapped arrays; no inference, extraction, cloud cost or GPU."
+}

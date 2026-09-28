@@ -1,0 +1,1794 @@
+{
+  "scope": "inspection scheduling over existing discovery records",
+  "requested_budget": 100,
+  "eligible_photos": 2899,
+  "reviewed_photos": 0,
+  "target_distinct_photos_per_family": 2,
+  "policy": "weighted capped family coverage",
+  "used_r3_or_evaluation_labels": false,
+  "items": [
+    {
+      "canonical_id": "0c4ba77b2e9d8edc",
+      "source_relative_path": "1_Electronic/Keyboard_124.jpg",
+      "source_sha256": "c734e013f4c152e59b0df2526330d615aecba3fad03b14cd80aee788dabb70aa",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "rank": 1,
+      "marginal_gain": 1.8125,
+      "added_family_ids": [
+        5,
+        8,
+        18,
+        48,
+        97,
+        123
+      ],
+      "region_ids": [
+        "23b2418c0a0d7a6265631af6",
+        "87f6ec542478913c8762364e",
+        "9346cbb9111bfb7f1c19d65d",
+        "baa7a187d11ec3630ac70a61",
+        "a58e28e01ea505236c377ca9",
+        "9a144baa8d60709dec3fbacd",
+        "b418bbe015fd47956acadda4",
+        "48a6b669e1f01f612365c8a5",
+        "571ca5de7fc8f3836a13943a",
+        "b19435f8b6b0cf9004c1d3e0"
+      ]
+    },
+    {
+      "canonical_id": "f80b9b87c928d629",
+      "source_relative_path": "1_Electronic/79.computer-hardware-scraps-1276859.jpg",
+      "source_sha256": "065a780f9e771772888119471032b2d581a892a767b10fd16ece2c6b256c8369",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 2,
+      "marginal_gain": 1.75,
+      "added_family_ids": [
+        0,
+        13,
+        22,
+        41
+      ],
+      "region_ids": [
+        "02e3ed7f6f75208755c6c829",
+        "07bab0e08a639900f6bde785",
+        "383c134dac3b1f9cc450b761",
+        "cf600cda70129d1c9acb6e73",
+        "d20183ac88824cc42c3ad401",
+        "614972ed91de66ff1ad251d1",
+        "f5a568cf7dfcba96329be18b"
+      ]
+    },
+    {
+      "canonical_id": "db3947165ba372f1",
+      "source_relative_path": "1_Electronic/615.jpg",
+      "source_sha256": "98321536d29a1b3d827bc59f007297a6777ac49f20061ab513700ff4dc13734e",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "rank": 3,
+      "marginal_gain": 1.59375,
+      "added_family_ids": [
+        11,
+        15,
+        22,
+        49,
+        76
+      ],
+      "region_ids": [
+        "0a1245e2bfd0d2f4a43ec0a1",
+        "6dcd53dd80265100e3a15fb6",
+        "f83090e0af284419c2e1208a",
+        "e98097953f3ad574246ff9e9",
+        "62f7cc3f22e249ac55ca9ff6",
+        "108d190189f7aada339a8c16",
+        "3dbab8423970f09b78d534ff"
+      ]
+    },
+    {
+      "canonical_id": "0e8da24e5c2dd59b",
+      "source_relative_path": "1_Electronic/Keyboard_209.jpg",
+      "source_sha256": "f30ce3ec13df4f9d5a3f9b376c5d9a70e7a64af2697206a3054b8c9c0fa3e201",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "rank": 4,
+      "marginal_gain": 1.5,
+      "added_family_ids": [
+        5,
+        9,
+        48
+      ],
+      "region_ids": [
+        "58947cbe997aa2a69996c611",
+        "b95fabe7ac5e99e8c3c3c3f8",
+        "04c7acab1203cfb0f5ec2cc9",
+        "0b71fa2f7bab31096936c925",
+        "d23bef49263c329c3a0168d9"
+      ]
+    },
+    {
+      "canonical_id": "2918aa4dca2f0145",
+      "source_relative_path": "1_Electronic/Television_284.jpg",
+      "source_sha256": "c06cc08c3c27593525d2c53474194115d9a70b70d0635fbb8e9ec8b4c5a268c6",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "rank": 5,
+      "marginal_gain": 1.5,
+      "added_family_ids": [
+        16,
+        52,
+        119
+      ],
+      "region_ids": [
+        "1385afbb05dfc5b5fbc49d8e",
+        "36c208720042f67852c23f84",
+        "34cabce1e0e47d2df05dc013",
+        "4c1737deac270961848b32d8"
+      ]
+    },
+    {
+      "canonical_id": "2a976c8c7fdddc1a",
+      "source_relative_path": "1_Electronic/63.layar-laptop-rusak-papan-ketik-rusak-perlu-diperbaiki_632498-49114.jpg",
+      "source_sha256": "b1f3f5c95d4f565a5f82f8c90078d473036ffbafc3d0636e192d6d07ab0e143d",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 6,
+      "marginal_gain": 1.46875,
+      "added_family_ids": [
+        23,
+        32,
+        34,
+        117
+      ],
+      "region_ids": [
+        "42154c6027e2cb66a1067bb0",
+        "d7cf0aaa2799b71e7a4cfdcb",
+        "7bec11c2b321f85f1d2e2fca",
+        "ee8101b0f499c96b65f6aff9"
+      ]
+    },
+    {
+      "canonical_id": "41819bf4c59c9e54",
+      "source_relative_path": "1_Electronic/188.jpeg",
+      "source_sha256": "cc15cdc830b0831c444b4b56578de625d23b43f35d7f1a9b672b613264a254e0",
+      "global_community": 11,
+      "global_context_name": "Laptop",
+      "rank": 7,
+      "marginal_gain": 1.46875,
+      "added_family_ids": [
+        23,
+        27,
+        32,
+        39
+      ],
+      "region_ids": [
+        "ffda0f90060e996e7862878a",
+        "9072893f4889140059c5f344",
+        "77188238c26dce8db9978306",
+        "55550729c17e2469b0f0d6e1"
+      ]
+    },
+    {
+      "canonical_id": "3aeb311fe06de2bb",
+      "source_relative_path": "1_Electronic/Player_203.jpg",
+      "source_sha256": "8f29106867a5ad2d148c7e8e1a2d503c9cac7f4fdee51c7a61356b7edb0e9cdc",
+      "global_community": 6,
+      "global_context_name": "Pemutar media dan radio",
+      "rank": 8,
+      "marginal_gain": 1.375,
+      "added_family_ids": [
+        7,
+        46,
+        70
+      ],
+      "region_ids": [
+        "0c85c62d8058055ca043a304",
+        "d039ec6618addb85f65aef77",
+        "ed29481839be6e7d6795d267",
+        "a43aeccb66c0384a13d52626"
+      ]
+    },
+    {
+      "canonical_id": "4cf3eb7a5806583d",
+      "source_relative_path": "1_Electronic/19.collection-of-discarded-circuit-boards-and-computer-components-2YXJ687.jpg",
+      "source_sha256": "3fa38ca547c1228271c071129afa4b26876162cee8bfff4f8bd77b526363f343",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 9,
+      "marginal_gain": 1.375,
+      "added_family_ids": [
+        0,
+        13,
+        41
+      ],
+      "region_ids": [
+        "000fba7e94b15eaf7c877411",
+        "2ef755deb94647d00a027da9",
+        "99ae77095a71db02a141698d",
+        "103112b1529bfe474bfafc4a",
+        "ef3bb97dcf780613ca21b2ab",
+        "5885aa4b41174dec740438cf"
+      ]
+    },
+    {
+      "canonical_id": "cbd5b5e474717b64",
+      "source_relative_path": "1_Electronic/Player_162.jpg",
+      "source_sha256": "d5ed178d59e43466b86c17fceba940af580d1902ee9ec83e4b6bc085aebdac82",
+      "global_community": 6,
+      "global_context_name": "Pemutar media dan radio",
+      "rank": 10,
+      "marginal_gain": 1.375,
+      "added_family_ids": [
+        7,
+        46,
+        70
+      ],
+      "region_ids": [
+        "d5ec6e3080d2aeba41749eab",
+        "090fd27a4c363f6b29f211cb",
+        "f2067906ea3d3dfc087e53d3",
+        "fdc1bd1f55677dfc22a9d4b2"
+      ]
+    },
+    {
+      "canonical_id": "3ab94f02197ceb48",
+      "source_relative_path": "1_Electronic/Mouse_231.jpg",
+      "source_sha256": "3e8f96bf858b156a42ed84a178748f6b854dc9882f31b4a6499547a0501b8f09",
+      "global_community": 2,
+      "global_context_name": "Tetikus",
+      "rank": 11,
+      "marginal_gain": 1.25,
+      "added_family_ids": [
+        6,
+        54,
+        98
+      ],
+      "region_ids": [
+        "0a0886125b1013a50494c88a",
+        "7f9abfb481f545b8599e1c45",
+        "f76ff5c8401dd9783dcbab7c",
+        "0c1eedb19e19fb11038878b5"
+      ]
+    },
+    {
+      "canonical_id": "9778e2c6d876749b",
+      "source_relative_path": "1_Electronic/68.kiel-germany-november-22-2018-260nw-1511680658.jpg",
+      "source_sha256": "0c6d7a64095092561f09f7686f15c684cbfdf61527ca1978d0ba6288ab78bea1",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 12,
+      "marginal_gain": 1.125,
+      "added_family_ids": [
+        36,
+        39,
+        59
+      ],
+      "region_ids": [
+        "74a6e963611e46eb59acd501",
+        "79f451718879413aa6d70a58",
+        "021b3a6a9e5dd68272109df7",
+        "30cfe9b08e823b7c27755677"
+      ]
+    },
+    {
+      "canonical_id": "c1f23791c7e4feb3",
+      "source_relative_path": "1_Electronic/5.sddefault.jpg",
+      "source_sha256": "2a1ead5e608f2b690f5c1b8a76ea55ea2ab81ff5b2ced7e3a7d156cce6412428",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "rank": 13,
+      "marginal_gain": 1.125,
+      "added_family_ids": [
+        15,
+        34,
+        52,
+        91
+      ],
+      "region_ids": [
+        "a1c8c79c27decbe1699d1bef",
+        "088dc1dcda358a90159624ee",
+        "a98a768e39ecc1d15e9f5547",
+        "2c8aa747aac92559233c3635"
+      ]
+    },
+    {
+      "canonical_id": "19da72d089a4597f",
+      "source_relative_path": "1_Electronic/Microwave_272.jpg",
+      "source_sha256": "f288aa6e92d3e5284707a19c871aec1c0bb5015982af6ba4abd1c2842fe18e13",
+      "global_community": 7,
+      "global_context_name": "Microwave",
+      "rank": 14,
+      "marginal_gain": 1.0625,
+      "added_family_ids": [
+        20,
+        24,
+        42
+      ],
+      "region_ids": [
+        "80931414ca089abdb8ae32b5",
+        "2ae71523204f22199e122afa",
+        "655b44035e0fbabdaa34adc2"
+      ]
+    },
+    {
+      "canonical_id": "54b515e104cf1afe",
+      "source_relative_path": "1_Electronic/Mouse_242.jpg",
+      "source_sha256": "95b7419b91e330f5d705a0f160e397dc5247dbc8e38c613d3f8db16dddde4eef",
+      "global_community": 2,
+      "global_context_name": "Tetikus",
+      "rank": 15,
+      "marginal_gain": 1.0625,
+      "added_family_ids": [
+        6,
+        54,
+        120
+      ],
+      "region_ids": [
+        "bcffd370ecb2468f822496f4",
+        "6308aeeee45f47c22fbbe859",
+        "cb14544c0405aab510fae847",
+        "bd49512ba0b2535a03e6817c"
+      ]
+    },
+    {
+      "canonical_id": "89d500b5b08be96b",
+      "source_relative_path": "1_Electronic/Microwave_8.jpg",
+      "source_sha256": "31e8e96105a5e774ce3d936d58370647e8199165938a8dabf99f9cbc54664e1f",
+      "global_community": 7,
+      "global_context_name": "Microwave",
+      "rank": 16,
+      "marginal_gain": 1.0625,
+      "added_family_ids": [
+        20,
+        24,
+        42
+      ],
+      "region_ids": [
+        "d056cf61327ebeab8a162f83",
+        "f32ee482b1b0cdfff22415c3",
+        "e710a8ef703e3b61d98afd14"
+      ]
+    },
+    {
+      "canonical_id": "dcd669c1b3d8457d",
+      "source_relative_path": "1_Electronic/Washing_Machine_150.jpg",
+      "source_sha256": "74a7b79c068d07182c714c1e0246d8c98e289f48dbdf03a7c0f6bf80e03ae753",
+      "global_community": 4,
+      "global_context_name": "Mesin cuci",
+      "rank": 17,
+      "marginal_gain": 1.0625,
+      "added_family_ids": [
+        19,
+        30,
+        45
+      ],
+      "region_ids": [
+        "0fdec7271d65d05edcff8936",
+        "a05c2d444777a063956c320c",
+        "1b2a994c1feafce1d3e6bf52",
+        "f2ce0e3dc7a8188b69859396"
+      ]
+    },
+    {
+      "canonical_id": "eb13ae715d3d87ed",
+      "source_relative_path": "1_Electronic/Washing_Machine_165.jpg",
+      "source_sha256": "caac09a4caf20932ac90e666fb467c9a63ce349989a3e7e1cffa15587652595d",
+      "global_community": 4,
+      "global_context_name": "Mesin cuci",
+      "rank": 18,
+      "marginal_gain": 1.0625,
+      "added_family_ids": [
+        19,
+        30,
+        45
+      ],
+      "region_ids": [
+        "03a4ef8f1b74611571e51519",
+        "09d774a1e0d966b164e8c65c",
+        "804838f04e0b645cef3ee0ac"
+      ]
+    },
+    {
+      "canonical_id": "4de5a9e77bdc11fa",
+      "source_relative_path": "1_Electronic/40.led-and-lcd-tvs-monitor-scrap-for-sale--160.jpg",
+      "source_sha256": "f8eb6359e717a2717a15710a722aa023438132b93062a9fdcb8f42aeb527ff58",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 19,
+      "marginal_gain": 1.03125,
+      "added_family_ids": [
+        36,
+        49,
+        128
+      ],
+      "region_ids": [
+        "4ffee3817214d4333100ed3a",
+        "3f5079d1974c6e9fa5537390",
+        "047a14b72b31f22f183feda7",
+        "79647e7ed64348dbba721857",
+        "89c52f0cfb835f85c8914354",
+        "b49e6eaeaf6cb569db914366",
+        "f4c9b37cd6662a299070b050",
+        "eb2979f819fc245630de006c"
+      ]
+    },
+    {
+      "canonical_id": "f1a356d582026c24",
+      "source_relative_path": "1_Electronic/Printer_148.jpg",
+      "source_sha256": "e8179cfcd1a4f0fe140c687d6a766e5f69f0ff5f39363ca24e422d6145717e4d",
+      "global_community": 5,
+      "global_context_name": "Pencetak",
+      "rank": 20,
+      "marginal_gain": 0.9375,
+      "added_family_ids": [
+        3,
+        18,
+        43
+      ],
+      "region_ids": [
+        "495944a6c37115aaefbff4e8",
+        "df07b24023a0bf6bd14db6a8",
+        "fbd5da76ef9ddbc7aeb1d5ce",
+        "8c9f57113b4bf2c3497f7a1e",
+        "b81ae479e380bad08c353a30"
+      ]
+    },
+    {
+      "canonical_id": "22aef2a134f6d88f",
+      "source_relative_path": "1_Electronic/Television_262.jpg",
+      "source_sha256": "e75b82ecb044ea88256fcf195e69cbcbfba97b5c5a8c3fe28390b12196e73605",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "rank": 21,
+      "marginal_gain": 0.875,
+      "added_family_ids": [
+        16,
+        21
+      ],
+      "region_ids": [
+        "a8bec8d8b503af07c2d70e29",
+        "fccb3665b13b2a6dc81301bc"
+      ]
+    },
+    {
+      "canonical_id": "58f124be36cddd15",
+      "source_relative_path": "1_Electronic/3.jpeg",
+      "source_sha256": "bb65ea31e17ff8a87288e49cd92f59d2e7eb8bfd0d980c45a5ea330410672bde",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "rank": 22,
+      "marginal_gain": 0.875,
+      "added_family_ids": [
+        9,
+        78
+      ],
+      "region_ids": [
+        "2a3eac75f141ca388f0ab60b",
+        "1dd877f65f21b0f70a243936",
+        "92d118f6f6ad7b6a1e746093",
+        "467b66fa4b592a426ffd6fd4",
+        "1d9464ba68b78da646ce5614"
+      ]
+    },
+    {
+      "canonical_id": "8a3dc49564c54711",
+      "source_relative_path": "1_Electronic/IMG-20200328-WA0024.jpg",
+      "source_sha256": "e74eff0cde2190dbfc1943ad5ecf1521e1c68bfd6279aa7aa1b6172db20d6e3c",
+      "global_community": 11,
+      "global_context_name": "Laptop",
+      "rank": 23,
+      "marginal_gain": 0.875,
+      "added_family_ids": [
+        21,
+        27
+      ],
+      "region_ids": [
+        "160cbe4821e2ad135bb87464",
+        "46876c905d5b731cdcdff28f",
+        "1ea8ae968de2fdc2000b7690",
+        "2fc31e8aaf1dee7e47bd592c"
+      ]
+    },
+    {
+      "canonical_id": "c44c3f97a2595d5f",
+      "source_relative_path": "1_Electronic/Mobile_171.jpg",
+      "source_sha256": "09c0fc1b300ec7e7f17e9b0ad57d0555a6b10154df772e25ce561428e73977dd",
+      "global_community": 1,
+      "global_context_name": "Ponsel",
+      "rank": 24,
+      "marginal_gain": 0.875,
+      "added_family_ids": [
+        1,
+        64
+      ],
+      "region_ids": [
+        "1237dea27ef791c7a4650fd4",
+        "6ae60cc453ad398c45c96195"
+      ]
+    },
+    {
+      "canonical_id": "00db7eab7d036999",
+      "source_relative_path": "1_Electronic/Printer_282.jpg",
+      "source_sha256": "e507249acdb2e46dcff1503b9eb8d4e32775c50381fff2a762e2495ffd0e1987",
+      "global_community": 5,
+      "global_context_name": "Pencetak",
+      "rank": 25,
+      "marginal_gain": 0.75,
+      "added_family_ids": [
+        3,
+        43
+      ],
+      "region_ids": [
+        "416becb14e1f3889f6fac6d2",
+        "e899f6107a2992fd51a9bfa3",
+        "f6037da9bb92665fec397429",
+        "e9d26d7535ce5ef75d4061d7",
+        "ffcd8be826b02b25ffe3d2f1"
+      ]
+    },
+    {
+      "canonical_id": "133b20f92c15d5c8",
+      "source_relative_path": "1_Electronic/IMG-20200328-WA0045.jpg",
+      "source_sha256": "2099bd4eb09cd16e6f24bea998b3e2351c2018b29407c76c129210843b24fe2c",
+      "global_community": 1,
+      "global_context_name": "Ponsel",
+      "rank": 26,
+      "marginal_gain": 0.75,
+      "added_family_ids": [
+        1,
+        26
+      ],
+      "region_ids": [
+        "654177e1f308c7cfd9407e85",
+        "b7f8f0a25c9da21bd3ba7653"
+      ]
+    },
+    {
+      "canonical_id": "d5dcb96967922df1",
+      "source_relative_path": "1_Electronic/Microwave_98.jpg",
+      "source_sha256": "1345cc58ec0189c386534db6d812d02b50902bf4db7cced8c570692eec11b090",
+      "global_community": 12,
+      "global_context_name": "Baterai perangkat portabel",
+      "rank": 27,
+      "marginal_gain": 0.75,
+      "added_family_ids": [
+        10,
+        26
+      ],
+      "region_ids": [
+        "1832af1b204371fc4921d0fd",
+        "ca69172b413b9bb2999f0377",
+        "f528d139808bb3ef8d9e561c"
+      ]
+    },
+    {
+      "canonical_id": "c77b609f9f3de57a",
+      "source_relative_path": "1_Electronic/14.computer-monitors.jpg",
+      "source_sha256": "dead51ae7294d50241d6715a3349153fa9e962b949f7ca0429af105e3e008be0",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 28,
+      "marginal_gain": 0.625,
+      "added_family_ids": [
+        17,
+        56,
+        61
+      ],
+      "region_ids": [
+        "05f4b4eac54ac6617786cefa",
+        "84868a0da6d9e6c746d8292c",
+        "f9b573af995ae0be4d5f39db",
+        "153ad641f8e70e64981a40e6",
+        "4c50ced91355b71ac608824c"
+      ]
+    },
+    {
+      "canonical_id": "0065ea44bcd594b9",
+      "source_relative_path": "1_Electronic/339.jpeg",
+      "source_sha256": "7705bb6d53795013af8852969e1bdc4e5a9ba05b4f13f61742e969fcb574d772",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "rank": 29,
+      "marginal_gain": 0.5625,
+      "added_family_ids": [
+        11,
+        17
+      ],
+      "region_ids": [
+        "1131aa616764b0cab2a1dd71",
+        "2141021f50dd8d8be808b21d",
+        "6e72a25d694e14804a8f0b57",
+        "c5e049f8eb6e31d4481bb8c9"
+      ]
+    },
+    {
+      "canonical_id": "0724acba74e39d24",
+      "source_relative_path": "1_Electronic/WhatsApp Image 2020-11-01 at 1.27.55 PM.jpeg",
+      "source_sha256": "7b9ee36f9d769e75e949e064dbdb0a38083441de78f87057775595e02db94c1a",
+      "global_community": 14,
+      "global_context_name": "Stopkontak dan sakelar",
+      "rank": 30,
+      "marginal_gain": 0.5625,
+      "added_family_ids": [
+        8,
+        51
+      ],
+      "region_ids": [
+        "2512f00bd660f5d00eb5b458",
+        "3a628b90ae779881712bf149",
+        "1e0b6136c880411df0303910"
+      ]
+    },
+    {
+      "canonical_id": "07a3a7081e277ab6",
+      "source_relative_path": "1_Electronic/3.jual-beli-barang-bekas-elektronik-600x400.jpg",
+      "source_sha256": "d6e36468075592632bd20e2e8f8099e1eb2354583df50595848aa45c7b954f19",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 31,
+      "marginal_gain": 0.5625,
+      "added_family_ids": [
+        53,
+        122
+      ],
+      "region_ids": [
+        "00a51e8ef944ab9bc19747f1",
+        "5791afeb79e2f82150125d36",
+        "e3e23f7755c4cf01ff2a0e73"
+      ]
+    },
+    {
+      "canonical_id": "5961957d4c318278",
+      "source_relative_path": "1_Electronic/903.jpeg",
+      "source_sha256": "dad520c40512ec0318de69ad35137554837c36f23d73ce2d1a66581eded1e251",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "rank": 32,
+      "marginal_gain": 0.5625,
+      "added_family_ids": [
+        53,
+        76
+      ],
+      "region_ids": [
+        "9f9d0cbf232f4dfc65bfcad6",
+        "37d9dc4375ed474e41c8d75a",
+        "7a7c064ec12efc29a5265e31"
+      ]
+    },
+    {
+      "canonical_id": "5c87e208e9280bb1",
+      "source_relative_path": "1_Electronic/battery_42.jpg",
+      "source_sha256": "dbef04a9ad79c1e9215369df775c4678b14d9896d65f3c544636bd32ae175b7f",
+      "global_community": 13,
+      "global_context_name": "Aki dan baterai kendaraan",
+      "rank": 33,
+      "marginal_gain": 0.5625,
+      "added_family_ids": [
+        38,
+        124
+      ],
+      "region_ids": [
+        "2b0c978af1f2e69bbfe5104f",
+        "589bb405461b13982f3329bf",
+        "e0752734fdcae5407a961cc6",
+        "e6f6106d92366e8fe2b53e8a"
+      ]
+    },
+    {
+      "canonical_id": "7668ab21be841aac",
+      "source_relative_path": "1_Electronic/battery_61.jpg",
+      "source_sha256": "29f2d33eef9b38381cf190ab2ec7e9a847b5712fd50c2a78518ce80d502fe3b0",
+      "global_community": 13,
+      "global_context_name": "Aki dan baterai kendaraan",
+      "rank": 34,
+      "marginal_gain": 0.5625,
+      "added_family_ids": [
+        38,
+        124
+      ],
+      "region_ids": [
+        "1e12d356b8f74c14a74b59fd",
+        "28970b56990b1278a9f20ebc",
+        "f6e4007f9810ef4e19f592e1",
+        "2735634d19d280d8a58a1abf"
+      ]
+    },
+    {
+      "canonical_id": "94c35b81b52b14ea",
+      "source_relative_path": "1_Electronic/Printer_223.jpg",
+      "source_sha256": "e144163101b282ba0aa37fb99df1970b27683c755d5e0ca5958ccf21555dc570",
+      "global_community": 5,
+      "global_context_name": "Pencetak",
+      "rank": 35,
+      "marginal_gain": 0.5625,
+      "added_family_ids": [
+        44,
+        55
+      ],
+      "region_ids": [
+        "a62d7c86caa611c806c4fd56",
+        "65e95b78f0ec0776f2e53eb9",
+        "3c00af227208f7a3e167b7ba",
+        "b1e38dd066553e9d3989f8be"
+      ]
+    },
+    {
+      "canonical_id": "a7d2052ac9faf7eb",
+      "source_relative_path": "1_Electronic/Mouse_37.jpg",
+      "source_sha256": "5577ff0c46fc5125b5e1ca1f22f0d50e1420d764f6d2eca6743c1f588e232515",
+      "global_community": 2,
+      "global_context_name": "Tetikus",
+      "rank": 36,
+      "marginal_gain": 0.5625,
+      "added_family_ids": [
+        55,
+        101
+      ],
+      "region_ids": [
+        "98f7dd1c4ad3912188cec7f6",
+        "57c070637710f3e3773a9970"
+      ]
+    },
+    {
+      "canonical_id": "26dfe78badf3d531",
+      "source_relative_path": "1_Electronic/pcb_67.jpg",
+      "source_sha256": "a7983158d44262c1282444aa27b277a550c9d8de5332071dcd5509e7226170be",
+      "global_community": 8,
+      "global_context_name": "Papan rangkaian",
+      "rank": 37,
+      "marginal_gain": 0.5,
+      "added_family_ids": [
+        10,
+        77
+      ],
+      "region_ids": [
+        "dffbb874e240b6ac9aebea9f",
+        "1f270056945139dccbf2c140",
+        "62910073136403ee20980f50"
+      ]
+    },
+    {
+      "canonical_id": "28439f2dc02e4550",
+      "source_relative_path": "1_Electronic/WhatsApp Image 2020-11-01 at 1.22.54 PM.jpeg",
+      "source_sha256": "08b9404a6201ef072ff123122582692bfa0a3f0ba0831e68b6f12159c541a60c",
+      "global_community": 14,
+      "global_context_name": "Stopkontak dan sakelar",
+      "rank": 38,
+      "marginal_gain": 0.5,
+      "added_family_ids": [
+        51
+      ],
+      "region_ids": [
+        "e4408aa6bb92935b87351ecb"
+      ]
+    },
+    {
+      "canonical_id": "34b799173faf6c17",
+      "source_relative_path": "1_Electronic/Mobile_208.jpg",
+      "source_sha256": "6fcdbaaebd65cffdd58bde54c5822a31201506cb182290c21fa58199c8035f02",
+      "global_community": 1,
+      "global_context_name": "Ponsel",
+      "rank": 39,
+      "marginal_gain": 0.5,
+      "added_family_ids": [
+        64
+      ],
+      "region_ids": [
+        "0ceb2dfc46cc4b56343a8180",
+        "ee5180145ba45fae9967967d"
+      ]
+    },
+    {
+      "canonical_id": "56a91967238e8ab0",
+      "source_relative_path": "1_Electronic/IMG_20200329_152746.jpg",
+      "source_sha256": "b123645bd237bc54215febda2af3a2267c1e65e5bed8d72c2b6af470ec104f73",
+      "global_community": 11,
+      "global_context_name": "Laptop",
+      "rank": 40,
+      "marginal_gain": 0.5,
+      "added_family_ids": [
+        33,
+        66
+      ],
+      "region_ids": [
+        "e25eaacd66d2c6781ba54728",
+        "1266224693e4913a1a23ba69"
+      ]
+    },
+    {
+      "canonical_id": "e60d740a69bc649a",
+      "source_relative_path": "1_Electronic/Television_281.jpg",
+      "source_sha256": "06bdc415f67d2a18fb8b2a3121000cb40d802c28b37c98dc4c2a410989ad4e2e",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "rank": 41,
+      "marginal_gain": 0.5,
+      "added_family_ids": [
+        119
+      ],
+      "region_ids": [
+        "fa4fb74b8d1014a028f99bcf"
+      ]
+    },
+    {
+      "canonical_id": "2da6929f606e52fc",
+      "source_relative_path": "1_Electronic/8.Laptops-edited.jpg",
+      "source_sha256": "4424762b57ca128135b04cda42efce17d812d0f047eb4b3f91aca3c78f52d5dd",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 42,
+      "marginal_gain": 0.4375,
+      "added_family_ids": [
+        31,
+        33
+      ],
+      "region_ids": [
+        "35b4cce9178ca94561088ec8",
+        "74d807fef381cdbb42e69654",
+        "9800673f020cfd929696ec88"
+      ]
+    },
+    {
+      "canonical_id": "786e96f425c8ab03",
+      "source_relative_path": "1_Electronic/14.2728905_20190122100223.jpg",
+      "source_sha256": "5a4838f06091ea0a45a18c77295b084bfeaaa706daeb0128e55c3ae416008138",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 43,
+      "marginal_gain": 0.4375,
+      "added_family_ids": [
+        31,
+        44
+      ],
+      "region_ids": [
+        "ea4eedbd7b2cf24193d859fb",
+        "074e6b3995d7bce9b4e1deb9",
+        "adb0f756e5dda9c465a789cf",
+        "43585a9de8f614f6099f4aac"
+      ]
+    },
+    {
+      "canonical_id": "03bb1aad545ab88c",
+      "source_relative_path": "1_Electronic/72.black-white-image-showing-large-260nw-2772833361.jpg",
+      "source_sha256": "05a393e5c477b2930267ce30df4ffbcee910648955550a20d5f7c5362d4df12c",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 44,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        56
+      ],
+      "region_ids": [
+        "2dcc8e2aab284714a09fa88b",
+        "70d46f03a6f9037d53b06989",
+        "96e5ea76c771f5dc3c41bce3",
+        "f3c394a5ffd0405e65cc767e"
+      ]
+    },
+    {
+      "canonical_id": "0a342b59180e6c78",
+      "source_relative_path": "1_Electronic/Keyboard_256.jpg",
+      "source_sha256": "0d4d3fa754ddf905b98014d5313e572d94b1603c46c041dfcc4e4c75786b0331",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "rank": 45,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        57
+      ],
+      "region_ids": [
+        "eac083aa6ab58ce81119607c"
+      ]
+    },
+    {
+      "canonical_id": "0e39f0357aef4b8d",
+      "source_relative_path": "1_Electronic/Washing_Machine_55.jpg",
+      "source_sha256": "72ad892c5010a1651868584a872c2c9c569154f4e886d60b32453b16cbad6a73",
+      "global_community": 4,
+      "global_context_name": "Mesin cuci",
+      "rank": 46,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        40
+      ],
+      "region_ids": [
+        "80373ce801b6b0033c4c6743",
+        "e668c05b5fc3bb418e6b0423"
+      ]
+    },
+    {
+      "canonical_id": "0ebc1bde48d57d8d",
+      "source_relative_path": "1_Electronic/45.clock-1495963_1280.jpg",
+      "source_sha256": "1f78ef592ce27affafb4b412a59ebfd07ded6ef12dce9612896d1eed81a2ed2d",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 47,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        87
+      ],
+      "region_ids": [
+        "efb2c24c182f82ca5f043331",
+        "524dd4f3daf2685afb501c1b",
+        "a00c9342fdd6f05d6440d3c3"
+      ]
+    },
+    {
+      "canonical_id": "116c6eb679532fe3",
+      "source_relative_path": "1_Electronic/IMG-20200329-WA0076.jpg",
+      "source_sha256": "a74a615fc5941a910861fb98b35bbe12dfdc4a5654999a1be53d031942d3747c",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "rank": 48,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        69
+      ],
+      "region_ids": [
+        "ab50a0c4457af8079c7c9e1d",
+        "c4f92a347f558e6b5ce883fd",
+        "f71dd80a6d071486a17e2fe7",
+        "fc9516ee793c883044296c47",
+        "5a93fa4ba681b657a6b8c659"
+      ]
+    },
+    {
+      "canonical_id": "18c9f83cd0a0273b",
+      "source_relative_path": "1_Electronic/Keyboard_60.jpg",
+      "source_sha256": "1b25ad9abfdd825fbe58e6018164cc1e06ced7492b2c8f57c955ab7ae59bb39d",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "rank": 49,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        78
+      ],
+      "region_ids": [
+        "0d09c8f1987c56b52042b733"
+      ]
+    },
+    {
+      "canonical_id": "1add26407633b87f",
+      "source_relative_path": "1_Electronic/Washing_Machine_276.jpg",
+      "source_sha256": "09b94e088338aa19c5eb90ac590cf7e9a65bfd4afe89c73fd00c905ccab70b28",
+      "global_community": 4,
+      "global_context_name": "Mesin cuci",
+      "rank": 50,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        40
+      ],
+      "region_ids": [
+        "bd025ce9304922bdfae9fe83",
+        "e39feeaeacf958ef3383a905"
+      ]
+    },
+    {
+      "canonical_id": "1beb2c17137290f0",
+      "source_relative_path": "1_Electronic/Mouse_92.jpg",
+      "source_sha256": "a8d0f43899eb7445e3b8117844457e707d2e7206ae11c44c3f6a2ea1ec4bcd29",
+      "global_community": 2,
+      "global_context_name": "Tetikus",
+      "rank": 51,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        101
+      ],
+      "region_ids": [
+        "e0113cef81a43b5f7a71406d",
+        "0d29e43a737c1e804f0ace21"
+      ]
+    },
+    {
+      "canonical_id": "1cd5817ea3892e09",
+      "source_relative_path": "1_Electronic/Keyboard_38.jpg",
+      "source_sha256": "851cdfed56b6318eade5489519ca6c38214698c8a16cf52ec02bfa29d62e8423",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "rank": 52,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        125
+      ],
+      "region_ids": [
+        "934286202e4c38eb568a5882",
+        "8884333e5d6b1f8989e8372b"
+      ]
+    },
+    {
+      "canonical_id": "2740bd427535d86c",
+      "source_relative_path": "1_Electronic/Mouse_20.jpg",
+      "source_sha256": "d1892e8d9dacf2020a07deee00f25c776e344c749ae6dce6c13a6c081047cf8b",
+      "global_community": 2,
+      "global_context_name": "Tetikus",
+      "rank": 53,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        57
+      ],
+      "region_ids": [
+        "0684ae1d405a47145b11ac0f"
+      ]
+    },
+    {
+      "canonical_id": "2e35b881d03f0b99",
+      "source_relative_path": "1_Electronic/Microwave_9.jpg",
+      "source_sha256": "2e6909f3dfac08ad853d4e318504931bba91ca6c4de38da2f4179e0b904a6320",
+      "global_community": 7,
+      "global_context_name": "Microwave",
+      "rank": 54,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        60
+      ],
+      "region_ids": [
+        "650557e0c7e6bbf3f110899e"
+      ]
+    },
+    {
+      "canonical_id": "39462ea099bd0737",
+      "source_relative_path": "1_Electronic/Keyboard_235.jpg",
+      "source_sha256": "d3828a70b70bc183aabd8e262158b69d3a18c883a27cde9cfe04e197b5880abe",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "rank": 55,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        62
+      ],
+      "region_ids": [
+        "97bc1407cadd708f686c659a"
+      ]
+    },
+    {
+      "canonical_id": "438fed88b583505b",
+      "source_relative_path": "1_Electronic/Mobile_193.jpg",
+      "source_sha256": "b090f23ccddb14f0d9b113b3f335a9c9e36d4d131acc6e483fb82574777bd1d9",
+      "global_community": 1,
+      "global_context_name": "Ponsel",
+      "rank": 56,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        127
+      ],
+      "region_ids": [
+        "492ae8d644dbd7ff3095af20",
+        "9d523e426e874731c36364ec"
+      ]
+    },
+    {
+      "canonical_id": "4bdef06987d80afc",
+      "source_relative_path": "1_Electronic/61.led-lcd-tvs-monitor-scrap-1691226659-7017577.jpeg",
+      "source_sha256": "e36cf7fed08f36db4a4da8e18797647c4a3f8cfd1c762c0f2f15e7a2dcb6114d",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 57,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        128
+      ],
+      "region_ids": [
+        "715ebfee23192d079887288e",
+        "7bbf56f3f53610f0e13e92f0",
+        "b52e4997b2d8f6a963808ac6"
+      ]
+    },
+    {
+      "canonical_id": "52b259fd8584a336",
+      "source_relative_path": "1_Electronic/Keyboard_18.jpg",
+      "source_sha256": "2933ad90702da316200d56cbb8a4a2850996059c8a7b9822234b9487da3b20eb",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "rank": 58,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        69
+      ],
+      "region_ids": [
+        "5fa26189e2f611929e84d284",
+        "d1e39a713e484cbc9e864338"
+      ]
+    },
+    {
+      "canonical_id": "53ecd3dd39655ac1",
+      "source_relative_path": "1_Electronic/26.depositphotos_326846882-stock-photo-closeup-shot-of-a-broken.jpg",
+      "source_sha256": "caaa94a78cd63562d1936dda4fe7bdcebf6bf40cbee09543db9818b7b181e0cc",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 59,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        87
+      ],
+      "region_ids": [
+        "c13a81ac40b492d1d02d9901"
+      ]
+    },
+    {
+      "canonical_id": "5d257e4542424799",
+      "source_relative_path": "1_Electronic/25.2021_06_10-00_08_41_b3452d0af1a06dccd6b83d404b1e303f_960x640_thumb.jpg",
+      "source_sha256": "a1e85632a8a1e5823fa00ba3883009fb6cae52bc351ee62cc8bf7f983d238a2b",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 60,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        81
+      ],
+      "region_ids": [
+        "e48b88a79a709d464773e785",
+        "5bff03372dc3038eda49e354"
+      ]
+    },
+    {
+      "canonical_id": "5da9b74d46a501ce",
+      "source_relative_path": "1_Electronic/Keyboard_241.jpg",
+      "source_sha256": "68ee7a05d5ea6adc1643a4dd184c646c047db7daca473244f79bb8241686c9bc",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "rank": 61,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        62
+      ],
+      "region_ids": [
+        "2e4d0d19936bd679715ddd93"
+      ]
+    },
+    {
+      "canonical_id": "612545dcd75f5e9f",
+      "source_relative_path": "1_Electronic/Mobile_78.jpg",
+      "source_sha256": "d924278d202b69e31a5cb4f5f4cf363075e197d7aeb2c96b41db876259cefe52",
+      "global_community": 1,
+      "global_context_name": "Ponsel",
+      "rank": 62,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        74
+      ],
+      "region_ids": [
+        "2740ad646ed9a42bee15823e",
+        "523ce98f0a33e65dfd64cc26",
+        "844560ae793c492f18ce7b70"
+      ]
+    },
+    {
+      "canonical_id": "62547ddbdae23960",
+      "source_relative_path": "1_Electronic/11.High-Purity-Gold-Plated-Scrap-From-Mobile-Phone-Boards-for-Gold-Recovery-Mobile-PCB-Scrap.jpg",
+      "source_sha256": "abbbd4289076cd7b9e1c1269737d7ac23e863db9952ef7fdd5e3d59400e64f8f",
+      "global_community": 8,
+      "global_context_name": "Papan rangkaian",
+      "rank": 63,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        116
+      ],
+      "region_ids": [
+        "c13d2da5835c23eb059f5d1d",
+        "e35f18df896a401107e8f862",
+        "2cc1130cd2ba94c955038860"
+      ]
+    },
+    {
+      "canonical_id": "6fcbdd9a4e83001d",
+      "source_relative_path": "1_Electronic/Keyboard_92.jpg",
+      "source_sha256": "17794310959fe0ae3d9575c3e19b6c5a398a3cc1bb78b9eb4dfe33a6c9f18729",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "rank": 64,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        85
+      ],
+      "region_ids": [
+        "3a3999a8b048c879efac2608"
+      ]
+    },
+    {
+      "canonical_id": "703b334c80be008b",
+      "source_relative_path": "1_Electronic/pcb_203.jpg",
+      "source_sha256": "c50bd4d39eaaac950cc1d36207ec4b9c388bed6ac938aa9c70777bbd0cd7cb3c",
+      "global_community": 8,
+      "global_context_name": "Papan rangkaian",
+      "rank": 65,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        99
+      ],
+      "region_ids": [
+        "fd15e42ff8ace7e3f0e7750b"
+      ]
+    },
+    {
+      "canonical_id": "7097352bddda4370",
+      "source_relative_path": "1_Electronic/61.pile-discarded-computer-monitors-electronics-landfill-environmental-pollution-pile-discarded-computer-monitors-437381574.jpg",
+      "source_sha256": "8dbc965121dc87db816f0eca3999b83f678e1a96d3665ab1591c33cb748b3ac2",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 66,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        59
+      ],
+      "region_ids": [
+        "449720b1ff0a81509fdfd669",
+        "638cd03c3e832949615ef672"
+      ]
+    },
+    {
+      "canonical_id": "73e40bc332e5f7ad",
+      "source_relative_path": "1_Electronic/Microwave_289.jpg",
+      "source_sha256": "2f9743aa679c367c21fb0385c364bd416a9fb3d0bd1e4b5483a19745840dc77c",
+      "global_community": 7,
+      "global_context_name": "Microwave",
+      "rank": 67,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        60
+      ],
+      "region_ids": [
+        "bbafc6b7643cb54acdff04e9",
+        "61d34dbc2e5e41abf2a61964"
+      ]
+    },
+    {
+      "canonical_id": "7ec67ce499d74273",
+      "source_relative_path": "1_Electronic/Mobile_81.jpg",
+      "source_sha256": "6c0d7eaf82f2362fe008b655334340e084c05b0af5cd61e5a7095873f72dde51",
+      "global_community": 1,
+      "global_context_name": "Ponsel",
+      "rank": 68,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        74
+      ],
+      "region_ids": [
+        "ba0611c1d1f94012a5f26d16"
+      ]
+    },
+    {
+      "canonical_id": "817dab67cf79ac0b",
+      "source_relative_path": "1_Electronic/Keyboard_147.jpg",
+      "source_sha256": "3d1cb309b9b05a26e845d9ec0f8214f7f04546a56d572f7d8a516291ed0df9cd",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "rank": 69,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        97
+      ],
+      "region_ids": [
+        "d17653fa777c730ae144165f",
+        "291183d4b97d934dce607c81"
+      ]
+    },
+    {
+      "canonical_id": "921b0c243380c620",
+      "source_relative_path": "1_Electronic/175.jpg",
+      "source_sha256": "93ba6bb59ed6122d35d423980b8e46fe9b7f5383e1397c7119f3d029906e35f8",
+      "global_community": 11,
+      "global_context_name": "Laptop",
+      "rank": 70,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        117
+      ],
+      "region_ids": [
+        "d9beb6882cf6bd12a4b9c188",
+        "654ef3786a40e7a8d6d9253d"
+      ]
+    },
+    {
+      "canonical_id": "92239d16959ba311",
+      "source_relative_path": "1_Electronic/2.obsolete_electronic_parts_TW.png",
+      "source_sha256": "ab1d97f9a7c4ae0ea919605f4e16d7e7aefa030b4efd95f8f722ebe0aa479251",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 71,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        122
+      ],
+      "region_ids": [
+        "b3f6a25a3fbbc84252dce1fc",
+        "143682fa97089930d09bf342",
+        "b98de9641b9a4d1e25d3e79a",
+        "53d41cb14925964ac4ed0797"
+      ]
+    },
+    {
+      "canonical_id": "960fa7317cad4bc4",
+      "source_relative_path": "1_Electronic/pcb_147.jpg",
+      "source_sha256": "481acef72a2f0a00be2bd2e6407394451ef93fd5bce236a5d3b7aac6bd19b1a1",
+      "global_community": 8,
+      "global_context_name": "Papan rangkaian",
+      "rank": 72,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        63,
+        118
+      ],
+      "region_ids": [
+        "c222f2dd6481417d215a733f",
+        "39504a79d65fc7237305b5a6",
+        "cd02de957c1172d4d7a17e6f",
+        "55cff6474fafe15b54b9f024"
+      ]
+    },
+    {
+      "canonical_id": "964eca2ca131c35e",
+      "source_relative_path": "1_Electronic/Mouse_244.jpg",
+      "source_sha256": "1ab1ea04925023ecc4ee50daa5ed6a8ba7e277f173fd9bbc706ce838d8993ef5",
+      "global_community": 2,
+      "global_context_name": "Tetikus",
+      "rank": 73,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        98
+      ],
+      "region_ids": [
+        "538be0eb3c23e3d58a4260da"
+      ]
+    },
+    {
+      "canonical_id": "9df9d4bd8bcc3ee4",
+      "source_relative_path": "1_Electronic/67.antarafoto-potensi-ekonomi-sampah-elektronik-090621-irp-4.jpg",
+      "source_sha256": "79d9a92c9d7978fc64a17a143c0da0658c99cb87889cbb1fafbe082ac073ffbb",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 74,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        81
+      ],
+      "region_ids": [
+        "83aa83e659a502717c1a37b3"
+      ]
+    },
+    {
+      "canonical_id": "a3798043b23a9473",
+      "source_relative_path": "1_Electronic/pcb_192.jpg",
+      "source_sha256": "b8befe88c91d853c28d03f470245a4a5a8a4117e0ce243174865a5eba2aafce9",
+      "global_community": 8,
+      "global_context_name": "Papan rangkaian",
+      "rank": 75,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        63,
+        118
+      ],
+      "region_ids": [
+        "dab183de3aa380c87ceda0a1",
+        "056632f0bfe19a407d1b7fcb"
+      ]
+    },
+    {
+      "canonical_id": "b214e80c36aaee12",
+      "source_relative_path": "1_Electronic/Mouse_199.jpg",
+      "source_sha256": "308318083d9663132a4ec7e8dd53bd1c0544120cc1eeb7249ccf5a93262a185c",
+      "global_community": 2,
+      "global_context_name": "Tetikus",
+      "rank": 76,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        94
+      ],
+      "region_ids": [
+        "38ded1f46ac8240aa90ead32",
+        "cc35eb9399dddca67c81516f"
+      ]
+    },
+    {
+      "canonical_id": "c2e1d1a8262993a6",
+      "source_relative_path": "1_Electronic/74.recycle-voluntary-program11.jpg",
+      "source_sha256": "2006137cc4cd920c63f8ca10e8d0951f0af418d133ecc21eacfdf122474040ae",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 77,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        85
+      ],
+      "region_ids": [
+        "e84348dfd482f72811b38112"
+      ]
+    },
+    {
+      "canonical_id": "d94f53c6d7296892",
+      "source_relative_path": "1_Electronic/Keyboard_290.jpg",
+      "source_sha256": "29c2e09ec0c0d9445179294073731f0dcebe8719def0e6cdcfaea3619c1d608f",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "rank": 78,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        90
+      ],
+      "region_ids": [
+        "044740e02ddb756d29c684b4",
+        "15ad7bf14096ee35f1672059",
+        "d3af1708d4b71ef9f0c8bf05",
+        "2e1ba4ca4d78ffe50b849339"
+      ]
+    },
+    {
+      "canonical_id": "d992ebad83f784cf",
+      "source_relative_path": "1_Electronic/Keyboard_129.jpg",
+      "source_sha256": "ec75fdf86a0c7848eeca200f05eef851b63ea112e9b1a68d7baad88656b9cdab",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "rank": 79,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        125
+      ],
+      "region_ids": [
+        "88e5fd85d872dfd4703438b7",
+        "8613e3b9d2debbb6d9055d0e"
+      ]
+    },
+    {
+      "canonical_id": "dad4f6ce55c5344c",
+      "source_relative_path": "1_Electronic/Keyboard_81.jpg",
+      "source_sha256": "7d5699f465ba0e467233801edc5bd8c704aafb6bb3c53a30f059967112d47589",
+      "global_community": 9,
+      "global_context_name": "Papan ketik",
+      "rank": 80,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        90
+      ],
+      "region_ids": [
+        "07ebc3b3c2c5de1669bfd556",
+        "6236055a92aa7c35e1a03f86"
+      ]
+    },
+    {
+      "canonical_id": "dea9563cfde67ba3",
+      "source_relative_path": "1_Electronic/pcb_202.jpg",
+      "source_sha256": "cd0850a35af79279f79cff88ecd843ce94e42181d0ac8ed7afb44abc98c5a3c0",
+      "global_community": 8,
+      "global_context_name": "Papan rangkaian",
+      "rank": 81,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        116
+      ],
+      "region_ids": [
+        "77b0ba0e3c8ff2e5eac4850a",
+        "8e01415b23c56f4d35e5d356",
+        "cf857cc9dcc0acff2c98f2ce",
+        "e9a8eda92021e70198bc38de"
+      ]
+    },
+    {
+      "canonical_id": "ef73f7d3d04319fe",
+      "source_relative_path": "1_Electronic/Mobile_231.jpg",
+      "source_sha256": "dc60a39582f36d987417fab138ae06db2ee18a6f09851fe1381068552cc788b6",
+      "global_community": 1,
+      "global_context_name": "Ponsel",
+      "rank": 82,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        127
+      ],
+      "region_ids": [
+        "66f687722fe1270f47023f3a",
+        "6faab41a0bf7969b963f570f",
+        "7a6d34d92f4928267ba1c9dc"
+      ]
+    },
+    {
+      "canonical_id": "f5b25a252a5d441c",
+      "source_relative_path": "1_Electronic/Mouse_157.jpg",
+      "source_sha256": "412c5d3026c625727f0b225580cf89258e1941c21f53d3c73e3f26bffe0f00d9",
+      "global_community": 2,
+      "global_context_name": "Tetikus",
+      "rank": 83,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        94
+      ],
+      "region_ids": [
+        "8d34a010cf21d855c8121429",
+        "2b374f040186b010f3d6da67"
+      ]
+    },
+    {
+      "canonical_id": "fe7c0b3f50083df0",
+      "source_relative_path": "1_Electronic/pcb_170.jpg",
+      "source_sha256": "481c811f7fa9793651889e6db7ba7a28edeaf5820ac441a4c64a0c70da1e7e94",
+      "global_community": 8,
+      "global_context_name": "Papan rangkaian",
+      "rank": 84,
+      "marginal_gain": 0.375,
+      "added_family_ids": [
+        99
+      ],
+      "region_ids": [
+        "10997875b6fef83b1d999c54"
+      ]
+    },
+    {
+      "canonical_id": "48573444fd3bda5f",
+      "source_relative_path": "1_Electronic/Printer_50.jpg",
+      "source_sha256": "864973dd3a6c4974cb24a2628ed7721d62850189931d2da827ca7f7fe648fcda",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 85,
+      "marginal_gain": 0.28125,
+      "added_family_ids": [
+        68,
+        107
+      ],
+      "region_ids": [
+        "c931a29f1b1d2dd7eef558d0",
+        "cc2045a3bfec0847205de763",
+        "6e4cfa4fb60e1db63410a913",
+        "d0f39799d3ebc4fa07020955",
+        "27438591bd273323a0f739b9",
+        "97d305feb8248acd7a585908",
+        "f039c9ef9d450649cb70908a"
+      ]
+    },
+    {
+      "canonical_id": "79fc48f5a8d2de70",
+      "source_relative_path": "1_Electronic/Microwave_261.jpg",
+      "source_sha256": "b12f0c8304c9f0330e1fbfce81652e50eb874d33188c5d9e4d4012a76f97dcb5",
+      "global_community": 7,
+      "global_context_name": "Microwave",
+      "rank": 86,
+      "marginal_gain": 0.28125,
+      "added_family_ids": [
+        111
+      ],
+      "region_ids": [
+        "6726ca77e177177922ef8a0f",
+        "e1e5d29a1e9a24233711e97b",
+        "ed4f1da13253c6d5ecb1e1a2"
+      ]
+    },
+    {
+      "canonical_id": "bb2ccaa6f91dcfcd",
+      "source_relative_path": "1_Electronic/Printer_51.jpg",
+      "source_sha256": "c00f02502be07f5b25886c907456a9f4d14147118efebab57a53f8155302a558",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 87,
+      "marginal_gain": 0.28125,
+      "added_family_ids": [
+        68,
+        107
+      ],
+      "region_ids": [
+        "d532ab34ad0b937b5bcf657a",
+        "3d5cebae58e47618783264f0",
+        "188a840ea84069aaf906bb0d",
+        "0d7dd9c743cd81bc0424af62",
+        "24efeeeb4d4763a057d405c4",
+        "0dc2b4fe4ec4b0c09695062b",
+        "bf2de6a682d51a1da56e73c8",
+        "72b7b0614c17e830e23964d7",
+        "e3a07a1404e1b77aba9e0ecb",
+        "cb9cf983ce2590750e22ff1b"
+      ]
+    },
+    {
+      "canonical_id": "fcfa41b035b94c9d",
+      "source_relative_path": "1_Electronic/Microwave_117.jpg",
+      "source_sha256": "93ae31b4d0f15d4f82635c2dfad0448a1d8f69c3fc5927272b468ab464970801",
+      "global_community": 7,
+      "global_context_name": "Microwave",
+      "rank": 88,
+      "marginal_gain": 0.28125,
+      "added_family_ids": [
+        111
+      ],
+      "region_ids": [
+        "9ba70cce2920cd9a64aef251",
+        "b6983f800e6044b904cc845e"
+      ]
+    },
+    {
+      "canonical_id": "066e41e221720498",
+      "source_relative_path": "1_Electronic/Microwave_172.jpg",
+      "source_sha256": "fdcd4b306342b8145385c7970649d0d73d8165b72b9905237c2286d7ceb17802",
+      "global_community": 7,
+      "global_context_name": "Microwave",
+      "rank": 89,
+      "marginal_gain": 0.1875,
+      "added_family_ids": [
+        126
+      ],
+      "region_ids": [
+        "fb2e6faadbc2fddaa582ce34",
+        "86f78916da52272bfcb7ea22"
+      ]
+    },
+    {
+      "canonical_id": "0cf92e67ba51dba5",
+      "source_relative_path": "1_Electronic/Washing_Machine_52.jpg",
+      "source_sha256": "d39ac69f8c85c3a6ff36c3f9f07a01cfc1e63fba6b84cd58908ce6499fc89f6e",
+      "global_community": 4,
+      "global_context_name": "Mesin cuci",
+      "rank": 90,
+      "marginal_gain": 0.1875,
+      "added_family_ids": [
+        114
+      ],
+      "region_ids": [
+        "f31e78c282050e1d7329a265",
+        "15d9fad7c75efa82ab2e2ec5"
+      ]
+    },
+    {
+      "canonical_id": "2038dd36bea9563b",
+      "source_relative_path": "1_Electronic/Washing_Machine_147.jpg",
+      "source_sha256": "9bc53127f339287a60f9619eb6022c36b79ed41de1e0e38c922a3b49940ec449",
+      "global_community": 4,
+      "global_context_name": "Mesin cuci",
+      "rank": 91,
+      "marginal_gain": 0.1875,
+      "added_family_ids": [
+        114
+      ],
+      "region_ids": [
+        "c504359c876c4c38c220e14a"
+      ]
+    },
+    {
+      "canonical_id": "214cd5343666fbe7",
+      "source_relative_path": "1_Electronic/Television_7.jpg",
+      "source_sha256": "63f50d8b263476ae7186560a7c6f0ac87b2eacd3df8ab02b56a0773e212f5832",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "rank": 92,
+      "marginal_gain": 0.1875,
+      "added_family_ids": [
+        108
+      ],
+      "region_ids": [
+        "79bc1765b445ddfe8a0f064b"
+      ]
+    },
+    {
+      "canonical_id": "278a788f5e319ddc",
+      "source_relative_path": "1_Electronic/IMG-20200329-WA0069.jpg",
+      "source_sha256": "a17294aa60528e61049cae0ef1109f038ceaa54b4ac3206aa0b6a2ef73b3b8b6",
+      "global_community": 10,
+      "global_context_name": "Monitor dalam konteks meja",
+      "rank": 93,
+      "marginal_gain": 0.1875,
+      "added_family_ids": [
+        83
+      ],
+      "region_ids": [
+        "c24ce7b709c6d7fc24755281",
+        "a32dbce48cb97072ca8f2137",
+        "aac16679d02d5333bc32b222",
+        "0499f442d8d928c3b7090107"
+      ]
+    },
+    {
+      "canonical_id": "27fa28b66850fa6c",
+      "source_relative_path": "1_Electronic/Mouse_100.jpg",
+      "source_sha256": "c735e6e8918cad16c9d9fa800e6e131196c2796b092922bddf780e8930c9e3f0",
+      "global_community": 2,
+      "global_context_name": "Tetikus",
+      "rank": 94,
+      "marginal_gain": 0.1875,
+      "added_family_ids": [
+        120
+      ],
+      "region_ids": [
+        "c515d0a5b0f617e58ed7be32",
+        "546805ae30ade2da373997a2"
+      ]
+    },
+    {
+      "canonical_id": "3a955eb349095666",
+      "source_relative_path": "1_Electronic/pcb_259.jpg",
+      "source_sha256": "a3c06006c1c09cb09d73fc33302c52336f201d9fef3c2b428e3ecd012b5b0a6c",
+      "global_community": 8,
+      "global_context_name": "Papan rangkaian",
+      "rank": 95,
+      "marginal_gain": 0.1875,
+      "added_family_ids": [
+        115
+      ],
+      "region_ids": [
+        "237faeb3d3e1ccc3530b2e2e"
+      ]
+    },
+    {
+      "canonical_id": "41e60d7382d325f0",
+      "source_relative_path": "1_Electronic/12.347361369_e5270cedaa_o.jpg",
+      "source_sha256": "b7d8b91bf737d0906cfb77a72b4a1847837424b32f8cbfbca8d01eef7993996e",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 96,
+      "marginal_gain": 0.1875,
+      "added_family_ids": [
+        61
+      ],
+      "region_ids": [
+        "25e70b638b8297bfdc988fb2"
+      ]
+    },
+    {
+      "canonical_id": "49fd29c34b25b3bf",
+      "source_relative_path": "1_Electronic/e-waste circular economy wide.jpg",
+      "source_sha256": "920bff1c05bff89e42468924ab4d5f25b667fad306bce6026bab86571772990d",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 97,
+      "marginal_gain": 0.1875,
+      "added_family_ids": [
+        67
+      ],
+      "region_ids": [
+        "a8738dac990e01718d518076",
+        "4c08e94b686beca32ab8b85c",
+        "88118474e6a624d39fddfd2d"
+      ]
+    },
+    {
+      "canonical_id": "633b5a9b0560311e",
+      "source_relative_path": "1_Electronic/7.vga-laptop-artefak.jpg",
+      "source_sha256": "8f3584ed64d5b32d100f9a1df05606e65a14dcc0a4aa0c7f57b75e2958f20023",
+      "global_community": 3,
+      "global_context_name": "Layar dan televisi",
+      "rank": 98,
+      "marginal_gain": 0.1875,
+      "added_family_ids": [
+        108
+      ],
+      "region_ids": [
+        "4d4e3555e3024154efa8d311",
+        "6895885e0319a60b07ba31ab",
+        "e6b1acec581ac1c1ed449c96",
+        "febf519cf677c8ed840c42e6"
+      ]
+    },
+    {
+      "canonical_id": "76294fa47281d765",
+      "source_relative_path": "1_Electronic/Microwave_61.jpg",
+      "source_sha256": "747fdc8631aadf5032d381369f2c253a6b3600fcb31b5c172b91b2342a449b44",
+      "global_community": 7,
+      "global_context_name": "Microwave",
+      "rank": 99,
+      "marginal_gain": 0.1875,
+      "added_family_ids": [
+        126
+      ],
+      "region_ids": [
+        "26364ebce7bffef70fbf74a6",
+        "342a693193f6438344cc468a"
+      ]
+    },
+    {
+      "canonical_id": "b16ff464e563c936",
+      "source_relative_path": "1_Electronic/15.discarded-broken-smartphones-amidst-cracked-screens-close-up-discarded-broken-smartphones-cracked-screens-highlighting-333067838.jpg",
+      "source_sha256": "ead1c423f0f06204463a3d80a667902336fe51eff39b311fc3a0952ac1808665",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "rank": 100,
+      "marginal_gain": 0.1875,
+      "added_family_ids": [
+        67
+      ],
+      "region_ids": [
+        "30e70c4a51f7f8b1e062455a"
+      ]
+    }
+  ],
+  "before": {
+    "families_seen": 0,
+    "families_repeated": 0
+  },
+  "after": {
+    "families_seen": 102,
+    "families_repeated": 93
+  },
+  "objective": 59.0
+}

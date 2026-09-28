@@ -1,0 +1,11 @@
+{
+  "review_unit": "One deterministic pair for each of 25 cross-community families in the first 50 discovery-selected photos. Within each family, choose earliest selected parent per community, breaking region ties by descending affinity; retain the first two different communities.",
+  "reviewer": "Single multimodal agent; same research workflow, not independent human annotation.",
+  "review_material": "Original parent images with SHA-256 validation and exact stored masks with mask hash validation; enlarged region crops; all 25 pairs inspected.",
+  "decisions": {"supported_broad_visible_pattern": 10, "ambiguous": 5, "rejected": 10},
+  "meaning": "Supported means a shared visible surface, part, or condition in this selected pair. It does not mean new scientific discovery, a homologous component, new product category, or physical recycling utility. Some pairs are generic same-product parts and two use a product composition rather than two field photographs.",
+  "scope": "This audit describes the fixed discovery selection. It is not a fair comparative semantic-precision benchmark because the comparator selections were not adjudicated in this follow-up.",
+  "mechanism_decision": "Keep family coverage as an exploration objective. Do not use census-level names or coherence ratings to certify every selected region. Instance-level pair review is required before exporting a semantic bridge as accepted evidence. Preserve rejected and ambiguous pairs in the dossier rather than presenting all 25 as verified bridges.",
+  "source_control": "Existing exposure source-control metrics exclude zero test photos using available development pHash links. They establish neither complete source independence nor immunity to unrecorded duplicates. Community-controlled AUROC retains its narrower interpretation.",
+  "unchanged": "No embeddings, masks, partitions, existing ratings, frozen inspection orders, relation predictions or negative configuration results were overwritten."
+}

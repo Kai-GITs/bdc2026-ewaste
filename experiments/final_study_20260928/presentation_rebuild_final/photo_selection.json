@@ -1,0 +1,420 @@
+{
+  "collection_examples": [
+    {
+      "row": 3749,
+      "canonical_id": "21f7dc90e4ed9ea6",
+      "source_sha256": "8f91c08faa924933e17364f4a3c41d4281c10ecb3ad7731df5ad006fd46362b7",
+      "source_relative_path": "1_Electronic/Washing_Machine_234.jpg",
+      "width": 150,
+      "height": 150,
+      "community_leiden_fused": 4,
+      "community_leiden_dino": 9,
+      "community_leiden_siglip": 3,
+      "community_louvain_historical": 4,
+      "layout_x": -3.5401659,
+      "layout_y": 6.0763459,
+      "dist": 0.0669257557728801,
+      "display_sharpness": 1584.4051149733632
+    },
+    {
+      "row": 3093,
+      "canonical_id": "4109b269558ea26f",
+      "source_sha256": "1a344636fb59560a78a2cf1569f17ab157397510e07f978b2b6c5f07cba0e7b9",
+      "source_relative_path": "1_Electronic/Printer_194.jpg",
+      "width": 150,
+      "height": 150,
+      "community_leiden_fused": 5,
+      "community_leiden_dino": 5,
+      "community_leiden_siglip": 4,
+      "community_louvain_historical": 6,
+      "layout_x": -3.2649753,
+      "layout_y": 1.5050647,
+      "dist": 0.1352988882983027,
+      "display_sharpness": 10506.83884221226
+    },
+    {
+      "row": 2477,
+      "canonical_id": "2b264f5f1ab9293c",
+      "source_sha256": "b1755b7669402fbe13edaf8be63c1c885c090dcc5fca564487d454265ca9c5d3",
+      "source_relative_path": "1_Electronic/Mouse_40.jpg",
+      "width": 150,
+      "height": 150,
+      "community_leiden_fused": 2,
+      "community_leiden_dino": 3,
+      "community_leiden_siglip": 6,
+      "community_louvain_historical": 2,
+      "layout_x": 2.7862909,
+      "layout_y": -2.7657645,
+      "dist": 0.0010885602866124975,
+      "display_sharpness": 12379.524885449993
+    },
+    {
+      "row": 1241,
+      "canonical_id": "2ab3c43b3d51e746",
+      "source_sha256": "41e6eaf69df1c4339359dc92ea2322a5e12ece96a435ffdf96fb3779a6668d40",
+      "source_relative_path": "1_Electronic/battery_9.jpg",
+      "width": 150,
+      "height": 150,
+      "community_leiden_fused": 12,
+      "community_leiden_dino": 8,
+      "community_leiden_siglip": 13,
+      "community_louvain_historical": 11,
+      "layout_x": -5.2049289,
+      "layout_y": -3.875504,
+      "dist": 0.19900429919273027,
+      "display_sharpness": 8541.635225242122
+    },
+    {
+      "row": 1190,
+      "canonical_id": "dd351df3a1318e9b",
+      "source_sha256": "278135a2465d4425dbb9af4c964c707fc55293505b3eac3199ddddb76a6548d1",
+      "source_relative_path": "1_Electronic/battery_43.jpg",
+      "width": 150,
+      "height": 150,
+      "community_leiden_fused": 13,
+      "community_leiden_dino": 8,
+      "community_leiden_siglip": 14,
+      "community_louvain_historical": 13,
+      "layout_x": -4.9994626,
+      "layout_y": -8.4519911,
+      "dist": 0.1369837974553308,
+      "display_sharpness": 9879.363173405909
+    },
+    {
+      "row": 1728,
+      "canonical_id": "efbb983a90fc7f23",
+      "source_sha256": "595a2b0e2e60879518cf7ad3c2b7e6efb09c1db20d4b77cf3023602ab775d2ea",
+      "source_relative_path": "1_Electronic/Microwave_108.jpg",
+      "width": 150,
+      "height": 150,
+      "community_leiden_fused": 7,
+      "community_leiden_dino": 6,
+      "community_leiden_siglip": 9,
+      "community_louvain_historical": 8,
+      "layout_x": -7.463819,
+      "layout_y": 3.4786808,
+      "dist": 0.09590418214289996,
+      "display_sharpness": 15164.768007472327
+    },
+    {
+      "row": 1488,
+      "canonical_id": "c1557af96de101b4",
+      "source_sha256": "d9205a9b6ccb5714a8565be7eab53f3393c7f9d42d34c0089ce81a3d86b466d3",
+      "source_relative_path": "1_Electronic/Keyboard_126.jpg",
+      "width": 150,
+      "height": 150,
+      "community_leiden_fused": 9,
+      "community_leiden_dino": 4,
+      "community_leiden_siglip": 10,
+      "community_louvain_historical": 3,
+      "layout_x": -0.294097,
+      "layout_y": 0.90076,
+      "dist": 0.010874725994689999,
+      "display_sharpness": 997.2135187904581
+    },
+    {
+      "row": 3921,
+      "canonical_id": "0724acba74e39d24",
+      "source_sha256": "7b9ee36f9d769e75e949e064dbdb0a38083441de78f87057775595e02db94c1a",
+      "source_relative_path": "1_Electronic/WhatsApp Image 2020-11-01 at 1.27.55 PM.jpeg",
+      "width": 720,
+      "height": 1280,
+      "community_leiden_fused": 14,
+      "community_leiden_dino": 17,
+      "community_leiden_siglip": 2,
+      "community_louvain_historical": 14,
+      "layout_x": 6.8728886,
+      "layout_y": -3.545465,
+      "dist": 0.09997107732052951,
+      "display_sharpness": 3020.3401644122355
+    }
+  ],
+  "collection_selection": "Display examples selected for native-image legibility among 30 coordinates nearest each community center; no inference or statistical subset change. Community13 includes block batteries as well as automotive batteries.",
+  "method": {
+    "region_id": "7b923d6bd5a0aa05ad596e83",
+    "parent_id": "be49219ea0e39699",
+    "family_internal": 13,
+    "machine_family_id": "F0013",
+    "family_key": "circuit_board_surface",
+    "family_name": "permukaan papan sirkuit terpopulasi",
+    "scientific_role": "cross_category_visible_part",
+    "r3_decision": "retained",
+    "is_r3_core": true,
+    "source_relative_path": "1_Electronic/20.computer-motherboard-scrap.jpg",
+    "source_sha256": "26696f17af6ac2093dd35964f43c133a63c269817356656ef2e57802633f491d",
+    "global_community": 0,
+    "global_context_name": "Tumpukan dan rakitan campuran",
+    "width": 727,
+    "height": 700,
+    "bbox_xyxy": [
+      177.0,
+      168.0,
+      394.0,
+      388.0
+    ],
+    "mask_sha256": "cbbbf09389b31b1722a586c14377464e738c545e603d2c8a23579aa743832f25",
+    "area_fraction": 0.05887208,
+    "family_affinity": 0.881836,
+    "neighbors": [
+      {
+        "region_id": "de343c02b41a0d189a3567cc",
+        "similarity": 0.901826
+      },
+      {
+        "region_id": "a288e202b76f63171b38c95d",
+        "similarity": 0.897866
+      },
+      {
+        "region_id": "244a6f560d4f5d1dd6083832",
+        "similarity": 0.897614
+      }
+    ],
+    "candidates": [
+      {
+        "region_id": "6d2cd74decf074ec151a43d3",
+        "family_internal": 0,
+        "similarity": 0.826358,
+        "same_family": false,
+        "cross_context_priority": true
+      },
+      {
+        "region_id": "614972ed91de66ff1ad251d1",
+        "family_internal": 22,
+        "similarity": 0.723724,
+        "same_family": false,
+        "cross_context_priority": false
+      },
+      {
+        "region_id": "29b0cd1c86d3cc019603f325",
+        "family_internal": 13,
+        "similarity": 0.71122,
+        "same_family": true,
+        "cross_context_priority": true
+      },
+      {
+        "region_id": "0e52b83046a22c90a15f4be7",
+        "family_internal": 31,
+        "similarity": 0.703829,
+        "same_family": false,
+        "cross_context_priority": false
+      },
+      {
+        "region_id": "cd02de957c1172d4d7a17e6f",
+        "family_internal": 63,
+        "similarity": 0.684122,
+        "same_family": false,
+        "cross_context_priority": true
+      }
+    ]
+  },
+  "assembly": [
+    {
+      "region_id": "56b925cc7a227974a7982502",
+      "parent_id": "0ef8da423cd59f22",
+      "family_internal": 13,
+      "machine_family_id": "F0013",
+      "family_key": "circuit_board_surface",
+      "family_name": "permukaan papan sirkuit terpopulasi",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/9.komponen-pc-rusak-350x250.jpg",
+      "source_sha256": "bc888b2e34d4674bbdc771a5024d9febf8af45159a3b70fe1d5b3399ffb9bf41",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 350,
+      "height": 250,
+      "bbox_xyxy": [
+        80.0,
+        59.0,
+        181.0,
+        125.0
+      ],
+      "mask_sha256": "281f4c6d814b288adbc5333e54598d8a3a3aef6452989f72d63727cac28e46b6",
+      "area_fraction": 0.02992,
+      "family_affinity": 0.801758,
+      "neighbors": [
+        {
+          "region_id": "29b0cd1c86d3cc019603f325",
+          "similarity": 0.801814
+        },
+        {
+          "region_id": "cf8e33f5f80fa9a8b7347f86",
+          "similarity": 0.729836
+        },
+        {
+          "region_id": "7b923d6bd5a0aa05ad596e83",
+          "similarity": 0.716831
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "29b0cd1c86d3cc019603f325",
+          "family_internal": 13,
+          "similarity": 0.801814,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "1feee014ebd892ce961204e6",
+          "family_internal": 22,
+          "similarity": 0.717793,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "6d2cd74decf074ec151a43d3",
+          "family_internal": 0,
+          "similarity": 0.679039,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "da8d82afcc5febab07a112ad",
+          "family_internal": 2,
+          "similarity": 0.662066,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "57bc6b6e4ba81d8d7892c1cd",
+          "family_internal": 43,
+          "similarity": 0.645706,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    },
+    {
+      "region_id": "402878e57b0226617d66802f",
+      "parent_id": "8fd35027f093628e",
+      "family_internal": 0,
+      "machine_family_id": "F0000",
+      "family_key": "circuit_board_surface",
+      "family_name": "permukaan papan sirkuit terpopulasi",
+      "scientific_role": "cross_category_visible_part",
+      "r3_decision": "retained",
+      "is_r3_core": false,
+      "source_relative_path": "1_Electronic/73.motherboard-scrap-1512975832-3511682.jpg",
+      "source_sha256": "39cbfbd237a40cdeae8c54bdce194899eb3e533a4e835a3c2eef2f1b4ab38e62",
+      "global_community": 0,
+      "global_context_name": "Tumpukan dan rakitan campuran",
+      "width": 300,
+      "height": 150,
+      "bbox_xyxy": [
+        224.0,
+        33.0,
+        289.0,
+        77.0
+      ],
+      "mask_sha256": "a6a8b0f56b334d7884865736f72439d8892ef04a2fe28e9f32cc9e539a2e3566",
+      "area_fraction": 0.03446667,
+      "family_affinity": 0.825684,
+      "neighbors": [
+        {
+          "region_id": "05672684c84e46a91a700bd4",
+          "similarity": 0.849661
+        },
+        {
+          "region_id": "dee1b3e78d0d5fd8dbd491df",
+          "similarity": 0.849428
+        },
+        {
+          "region_id": "623a13c1fd1cc517421d3ede",
+          "similarity": 0.847885
+        }
+      ],
+      "candidates": [
+        {
+          "region_id": "05672684c84e46a91a700bd4",
+          "family_internal": 0,
+          "similarity": 0.849661,
+          "same_family": true,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "2a5df0aaea9ca032f7acd4f2",
+          "family_internal": 2,
+          "similarity": 0.787587,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "63c7e6eb949d12926e1d6278",
+          "family_internal": 41,
+          "similarity": 0.731093,
+          "same_family": false,
+          "cross_context_priority": true
+        },
+        {
+          "region_id": "0e52b83046a22c90a15f4be7",
+          "family_internal": 31,
+          "similarity": 0.725881,
+          "same_family": false,
+          "cross_context_priority": false
+        },
+        {
+          "region_id": "7f6ecf88f213ec0d94796a4a",
+          "family_internal": 86,
+          "similarity": 0.699175,
+          "same_family": false,
+          "cross_context_priority": true
+        }
+      ]
+    }
+  ],
+  "inspection_selection": "Visually interpretable stored masks within the frozen plan; complete masks retained, including disconnected pixels. Examples illustrate regions, not semantic validation of all covered families. Rank36 rejected: ball mask includes cable and disconnected noise; omitted rather than edited.",
+  "rejected_inspection_examples": [
+    {
+      "canonical_id": "89d500b5b08be96b",
+      "source_relative_path": "1_Electronic/Microwave_8.jpg",
+      "source_sha256": "31e8e96105a5e774ce3d936d58370647e8199165938a8dabf99f9cbc54664e1f",
+      "global_community": 7,
+      "global_context_name": "Microwave",
+      "rank": 16,
+      "marginal_gain": 1.0625,
+      "added_family_ids": [
+        20,
+        24,
+        42
+      ],
+      "region_ids": [
+        "d056cf61327ebeab8a162f83",
+        "f32ee482b1b0cdfff22415c3",
+        "e710a8ef703e3b61d98afd14"
+      ],
+      "selected_region_ids": [
+        "d056cf61327ebeab8a162f83"
+      ],
+      "display_label": "Panel kontrol",
+      "cumulative_families": 40
+    },
+    {
+      "canonical_id": "00db7eab7d036999",
+      "source_relative_path": "1_Electronic/Printer_282.jpg",
+      "source_sha256": "e507249acdb2e46dcff1503b9eb8d4e32775c50381fff2a762e2495ffd0e1987",
+      "global_community": 5,
+      "global_context_name": "Pencetak",
+      "rank": 25,
+      "marginal_gain": 0.75,
+      "added_family_ids": [
+        3,
+        43
+      ],
+      "region_ids": [
+        "416becb14e1f3889f6fac6d2",
+        "e899f6107a2992fd51a9bfa3",
+        "f6037da9bb92665fec397429",
+        "e9d26d7535ce5ef75d4061d7",
+        "ffcd8be826b02b25ffe3d2f1"
+      ],
+      "selected_region_ids": [
+        "e9d26d7535ce5ef75d4061d7"
+      ],
+      "display_label": "Jalur kertas",
+      "cumulative_families": 54
+    }
+  ],
+  "inspection_trace": [],
+  "presentation_decision": "Method uses one visible motherboard within a pile. Assembly photos illustrate board attachment and are separate from the ROC figure. Inspection plots do not contain illustrative photo inserts."
+}

@@ -1,0 +1,24 @@
+{
+  "inputs": {
+    "protocol": {
+      "path": "experiments\\protocols\\inspection_context_coverage_r1.json",
+      "sha256": "9886395f30e0bb6401e70e5c62702d4f52155530ad7d92e33f648aeb96c4bea9"
+    },
+    "catalog": {
+      "path": "solution\\evidence_intake\\demo\\collection_catalog.json",
+      "sha256": "4b4deab731b7c9cb8dfd3f4ec67cdfd2263da91e46d9131c8cda9dc60f803c7b"
+    },
+    "census": {
+      "path": "experiments\\final_study_20260928\\region_family_census_r2\\family_census.csv",
+      "sha256": "df71fd487d08ced68e135fc6592dbed66042c0e253700b8ddc24f52d5ea08ca9"
+    },
+    "orders": {
+      "path": "experiments\\final_study_20260928\\inspection_planning_r1\\selected_photos.csv",
+      "sha256": "197aa06d72879694b1885958b0c85b8fcb1e854c7e47dfc4832f7018285ed91e"
+    }
+  },
+  "eligible_photos": 2899,
+  "families": 129,
+  "full_collection_cross_context_families": 67,
+  "claim": "Frozen r2 memberships across global communities; this is not a count of independently verified semantic bridges."
+}

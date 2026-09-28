@@ -1,0 +1,32 @@
+{
+  "status": "pass",
+  "tests": {
+    "partial_batch_persists_after_reload": true,
+    "unreviewed_photos_not_bulk_completed": true,
+    "stale_write_rejected": true,
+    "next_batch_waits_for_pending": true,
+    "completed_and_excluded_photos_not_repeated": true,
+    "excluded_photo_does_not_count_toward_coverage": true
+  },
+  "reviewed_contributing_photos": 4,
+  "excluded_photos": 1,
+  "initial_photo_ids": [
+    "0c4ba77b2e9d8edc",
+    "f80b9b87c928d629",
+    "db3947165ba372f1",
+    "0e8da24e5c2dd59b",
+    "2918aa4dca2f0145"
+  ],
+  "next_photo_ids": [
+    "2a976c8c7fdddc1a",
+    "41819bf4c59c9e54",
+    "3aeb311fe06de2bb",
+    "4cf3eb7a5806583d",
+    "cbd5b5e474717b64"
+  ],
+  "before_next_batch": {
+    "families_seen": 16,
+    "families_repeated": 2
+  },
+  "scope": "Functional test with scripted review outcomes; not a human utility study."
+}

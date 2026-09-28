@@ -1,0 +1,29 @@
+{
+  "eligible_canonical_photos": 2899,
+  "canonical_collection_total": 3931,
+  "families": 129,
+  "positive_utility_families": 101,
+  "core_semantic_concepts": 24,
+  "planning_seconds": 0.16836559999501333,
+  "planned_photos": 100,
+  "r3_used_by_planner": false,
+  "scope": "Transductive scheduling and proxy coverage; r3 is held aside from planning but is derived from correlated evidence. No human time or physical recycling outcome measured.",
+  "inputs": {
+    "catalog": {
+      "path": "solution\\evidence_intake\\demo\\collection_catalog.json",
+      "sha256": "4b4deab731b7c9cb8dfd3f4ec67cdfd2263da91e46d9131c8cda9dc60f803c7b"
+    },
+    "census": {
+      "path": "experiments\\final_study_20260928\\region_family_census_r2\\family_census.csv",
+      "sha256": "df71fd487d08ced68e135fc6592dbed66042c0e253700b8ddc24f52d5ea08ca9"
+    },
+    "core": {
+      "path": "experiments\\final_study_20260928\\region_family_consensus_r3\\photo_concept_support.csv.gz",
+      "sha256": "5bb52a459347f0d0084051a79e9630900e763215fc81ab942829f0b6ef574ed9"
+    },
+    "global": {
+      "path": "experiments\\multiscale_graph_20260928\\global\\canonical_assignments.csv",
+      "sha256": "95ce9282bf4cb9bfe5291cdcc738849159baee56be31e6549902e2383ece4f8c"
+    }
+  }
+}

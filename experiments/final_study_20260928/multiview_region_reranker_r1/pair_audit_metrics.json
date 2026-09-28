@@ -1,0 +1,39 @@
+{
+  "status": "complete_one_agent_original_photo_pair_adjudication",
+  "pairs": 42,
+  "visible_target_pairs": 16,
+  "pair_semantic_correspondence": {
+    "yes": 21,
+    "ambiguous": 11,
+    "no": 10
+  },
+  "claim_status": {
+    "requires_narrowing": 19,
+    "supported": 11,
+    "unsupported": 10,
+    "source_redundant": 2
+  },
+  "same_r2_family_pairs": 29,
+  "same_r2_family_and_semantic_yes": 19,
+  "visible_top1_semantic_yes": 13,
+  "visible_top1_semantic_ambiguous": 3,
+  "visible_top1_semantic_no": 0,
+  "visible_top1_claim_supported": 11,
+  "visible_top1_claim_supported_fraction": 0.6875,
+  "strict_supported_all_queries": 11,
+  "evaluation_source": "one Codex agent, original-photo plus exact stored mask and crop, 2026-09-28",
+  "not_human_operator_evaluation": true,
+  "not_population_prevalence": true,
+  "limitations": [
+    "The 42-query audit is targeted toward high-interest families and known shortcuts.",
+    "The r2 partition was created on the same collection before this evaluation.",
+    "A family match is accepted only after original-photo pair inspection; semantic judgments still come from one agent.",
+    "No operator time, clicks, downstream yield, or new-photo generalization was measured."
+  ],
+  "inputs": {
+    "experiments\\final_study_20260928\\multiview_region_reranker_r1\\visual_audit\\pair_audit_manifest.csv": "ea7d503e239b9167357cdc855a3bd4fcd9e35e015024cc435bbbf9c7e8ac6285",
+    "experiments\\protocols\\multiview_retrieval_pair_adjudication_20260928.csv": "d78439fe0537d3e1d7a133c20ee0eb73ca7f9072c8c4a3f1f00f1877e53dd7fa",
+    "experiments\\final_study_20260928\\multiview_region_reranker_r1\\audit_predictions.csv": "00b7549cc0a11e92085b4520c964a15afa59ce4db5f6757ecd85041bc2acc883"
+  },
+  "output_sha256": "d60c72ec1c2067744e0d4ff1f074998e01ebab9593826a8b252fb9936ad79288"
+}

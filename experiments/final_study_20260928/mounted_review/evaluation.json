@@ -1,0 +1,123 @@
+{
+  "task": "find visibly mounted populated circuitry within a single identifiable unit",
+  "status": "post_frozen_visual_review",
+  "population": "40 candidates per arm from 392 eligible unseen images in mixed-scene parent group",
+  "reviewer": "one AI agent inspecting 28 blind sheets; native images rechecked for nine initial ambiguities",
+  "judgment_sha256": "41dd3fa90afd72b0d73d7e28f925398f7b0851c910db8dd758f06b6dda120690",
+  "label_meanings": {
+    "M": "populated circuitry visibly mounted within one identifiable device",
+    "X": "exposed populated board, but detached or in a multi-item scene",
+    "N": "no populated board resolved at review scale",
+    "U": "relation unresolved even after native-size review"
+  },
+  "unique_images_reviewed": 111,
+  "unique_judgment_counts": {
+    "M": 10,
+    "N": 62,
+    "U": 1,
+    "X": 38
+  },
+  "arms": {
+    "dinov3_seed": {
+      "n": 40,
+      "judgments": {
+        "M": 10,
+        "N": 7,
+        "X": 23
+      },
+      "mounted_confirmed": 10,
+      "mounted_lower_fraction": 0.25,
+      "mounted_upper_fraction": 0.25,
+      "visible_board_confirmed": 33,
+      "visible_board_lower_fraction": 0.825,
+      "visible_board_upper_fraction": 0.825,
+      "source_diversity": 40
+    },
+    "siglip_seed": {
+      "n": 40,
+      "judgments": {
+        "M": 6,
+        "N": 15,
+        "X": 19
+      },
+      "mounted_confirmed": 6,
+      "mounted_lower_fraction": 0.15,
+      "mounted_upper_fraction": 0.15,
+      "visible_board_confirmed": 25,
+      "visible_board_lower_fraction": 0.625,
+      "visible_board_upper_fraction": 0.625,
+      "source_diversity": 40
+    },
+    "nested_subgroup": {
+      "n": 40,
+      "judgments": {
+        "M": 6,
+        "N": 22,
+        "U": 1,
+        "X": 11
+      },
+      "mounted_confirmed": 6,
+      "mounted_lower_fraction": 0.15,
+      "mounted_upper_fraction": 0.175,
+      "visible_board_confirmed": 17,
+      "visible_board_lower_fraction": 0.425,
+      "visible_board_upper_fraction": 0.45,
+      "source_diversity": 40
+    },
+    "random_same_parent_group": {
+      "n": 40,
+      "judgments": {
+        "M": 2,
+        "N": 31,
+        "X": 7
+      },
+      "mounted_confirmed": 2,
+      "mounted_lower_fraction": 0.05,
+      "mounted_upper_fraction": 0.05,
+      "visible_board_confirmed": 9,
+      "visible_board_lower_fraction": 0.225,
+      "visible_board_upper_fraction": 0.225,
+      "source_diversity": 40
+    }
+  },
+  "overlaps": [
+    {
+      "a": "dinov3_seed",
+      "b": "nested_subgroup",
+      "same_images": 15
+    },
+    {
+      "a": "dinov3_seed",
+      "b": "random_same_parent_group",
+      "same_images": 4
+    },
+    {
+      "a": "dinov3_seed",
+      "b": "siglip_seed",
+      "same_images": 18
+    },
+    {
+      "a": "nested_subgroup",
+      "b": "random_same_parent_group",
+      "same_images": 5
+    },
+    {
+      "a": "nested_subgroup",
+      "b": "siglip_seed",
+      "same_images": 16
+    },
+    {
+      "a": "random_same_parent_group",
+      "b": "siglip_seed",
+      "same_images": 5
+    }
+  ],
+  "interpretation_limits": [
+    "Subgroup 3 was chosen after inspecting earlier development labels; no independent hypothesis test.",
+    "All methods used the same parent scene group and equal 40-image review capacity.",
+    "Selections overlap, so arm counts are descriptive and must not be treated as independent binomial trials.",
+    "The 392-image eligible pool lacks complete mounted-board labels; recall cannot be calculated.",
+    "A single AI reviewer is not an independent human or operator evaluation.",
+    "Near-duplicate grouping used known phash<=5 links; the near-duplicate list may be incomplete."
+  ]
+}

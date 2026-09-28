@@ -1,0 +1,10 @@
+{
+  "question": "Can discovery-guided scheduling reduce repeated visual inspection while retaining local evidence beyond whole-image representatives?",
+  "inputs": "Frozen full collection catalog and 129-family census; no encoder, mask or partition recomputation.",
+  "policy": "Weighted capped coverage: each family contributes at most two distinct parent photos. Weight is (coherence/4)*(1-shortcut_risk/4); these are existing post-discovery adjudications, not discovery labels or probabilities. No r3 support flags are used for planning.",
+  "budgets": [10, 25, 50, 100],
+  "comparators": ["uniform random eligible photos, 100 seeds", "round-robin whole-image community centroid representatives", "static sum of family weights without marginal updates"],
+  "evaluation": ["r2 family coverage (optimization diagnostic)", "r3 core semantic concepts with one and two distinct parent photos (held aside from planner, correlated secondary evidence)", "global community coverage", "real photo evidence and source duplication inspection"],
+  "limits": "Transductive inspection scheduling; no claim of new-photo inference, field throughput, causal recovery benefit or independent labels. Every baseline has the same eligible photo pool and budget. All 129 families remain in the discovery catalog.",
+  "frozen_before_result": true
+}

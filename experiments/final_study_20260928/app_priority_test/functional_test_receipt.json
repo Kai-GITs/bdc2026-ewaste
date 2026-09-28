@@ -1,0 +1,37 @@
+{
+  "status": "pass",
+  "scope": "functional test over the frozen transductive collection catalog",
+  "collection": {
+    "canonical_photos": 3931,
+    "active_regions": 6093,
+    "r2_families": 129
+  },
+  "query_region_id": "a21695d64840c092ff1fc17a",
+  "candidate_region_id": "e21368dd8c54aa1babf6e61e",
+  "candidate_crosses_global_context": true,
+  "exact_byte_photo_match_count": 5,
+  "new_photo_inference_performed": false,
+  "dossier_id": "dossier_456753682168",
+  "dossier_revision": 2,
+  "entry_count": 2,
+  "exports": {
+    "json": {
+      "path": "experiments\\final_study_20260928\\app_priority_test\\functional_export.json",
+      "bytes": 4539,
+      "sha256": "b2c57e8065105ca695344e79f09d626b35315345706e569944199b20f4e61e2c",
+      "content_type": "application/json; charset=utf-8"
+    },
+    "csv": {
+      "path": "experiments\\final_study_20260928\\app_priority_test\\functional_export.csv",
+      "bytes": 654,
+      "sha256": "63d28d2b0ae0a42275d4bd9a593a5fdba76ff1a5908d2a8c88787ca6421cb228",
+      "content_type": "text/csv; charset=utf-8"
+    },
+    "pdf": {
+      "path": "experiments\\final_study_20260928\\app_priority_test\\functional_export.pdf",
+      "bytes": 4535,
+      "sha256": "9ed56fb785f82c0a6f0ecbbf60187367b010f6ae3fbe2e3183c5156c31b70ab2",
+      "content_type": "application/pdf"
+    }
+  }
+}

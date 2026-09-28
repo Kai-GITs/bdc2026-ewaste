@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "status": "complete_target_separated_multiview_reranker_diagnostic",
+  "protocol_sha256": "9259b61b5b426e6b71d111254d2a7d17ce347920b87920abefb7e005d7a4cbff",
+  "scope": "adaptive_transductive_collection_diagnostic",
+  "discovery_layer": "complete r2 partition with automatic family IDs retained",
+  "claim_layer": "r3 supports train a post-discovery pair scorer; audit targets remain evaluation-only",
+  "fit": {
+    "r3_rows_after_audit_parent_exclusion": 578,
+    "train_rows": 476,
+    "validation_rows": 102,
+    "train_pairs": 5315,
+    "validation_pairs": 712,
+    "validation_pair_roc_auc": 0.9576071256620124,
+    "validation_pair_average_precision": 0.9537110404857418,
+    "validation_retrieval_queries": 102,
+    "validation_retrieval_top1": 0.9803921568627451,
+    "threshold": {
+      "threshold": 0.37544572353363037,
+      "emitted": 102,
+      "precision": 0.9803921568627451,
+      "minimum_precision_target": 0.8
+    }
+  },
+  "audit": {
+    "queries": 42,
+    "visible_family_targets": 16,
+    "strict_claimable_targets": 11,
+    "all_42_parents_excluded_from_fit": true,
+    "query_parent_and_exact_image_excluded_from_reference": true,
+    "target_used_by_predictor": false,
+    "arms": {
+      "dino_foreground_nn_all_r2": {
+        "claims": 42,
+        "correct_visible_family_claims": 13,
+        "visible_family_precision": 0.30952380952380953,
+        "visible_family_completeness": 0.8125,
+        "visible_family_top5_recall": 1.0,
+        "operator_actions_observed": false
+      },
+      "dino_box_nn_all_r2": {
+        "claims": 42,
+        "correct_visible_family_claims": 10,
+        "visible_family_precision": 0.23809523809523808,
+        "visible_family_completeness": 0.625,
+        "visible_family_top5_recall": 0.8125,
+        "operator_actions_observed": false
+      },
+      "siglip2_crop_nn_all_r2": {
+        "claims": 42,
+        "correct_visible_family_claims": 5,
+        "visible_family_precision": 0.11904761904761904,
+        "visible_family_completeness": 0.3125,
+        "visible_family_top5_recall": 0.6875,
+        "operator_actions_observed": false
+      },
+      "equal_multiview_nn_all_r2": {
+        "claims": 42,
+        "correct_visible_family_claims": 13,
+        "visible_family_precision": 0.30952380952380953,
+        "visible_family_completeness": 0.8125,
+        "visible_family_top5_recall": 0.9375,
+        "operator_actions_observed": false
+      },
+      "fitted_multiview_nn_all_r2": {
+        "claims": 42,
+        "correct_visible_family_claims": 7,
+        "visible_family_precision": 0.16666666666666666,
+        "visible_family_completeness": 0.4375,
+        "visible_family_top5_recall": 0.875,
+        "operator_actions_observed": false
+      },
+      "fitted_multiview_thresholded_all_r2": {
+        "claims": 40,
+        "correct_visible_family_claims": 7,
+        "visible_family_precision": 0.175,
+        "visible_family_completeness": 0.4375,
+        "visible_family_top5_recall": 0.875,
+        "operator_actions_observed": false
+      }
+    }
+  },
+  "interpretation_limit": "A recovered r2 family ID is not yet a semantic finding. Retrieved query-candidate pairs must be inspected on original pixels before the reranker supports a claim or flagship relation.",
+  "inputs": {
+    "experiments\\final_study_20260928\\mask_correspondence_audit_r1\\adjudicated_manifest.csv": "29919af030c551ded34f5c14c8bf7bb3ea50d098b86baac6b93fbd9e8dc93e32",
+    ".local\\final_study_20260928\\region-family-graph-object-filtered-r2\\assignments.csv.gz": "e219d0d0f42959086ebcaf61fe85be8ed5038787ead06d215ffd8c29869afd81",
+    "experiments\\final_study_20260928\\region_family_consensus_r3\\photo_concept_support.csv.gz": "5bb52a459347f0d0084051a79e9630900e763215fc81ab942829f0b6ef574ed9",
+    "experiments\\final_study_20260928\\region_family_consensus_r3\\family_adjudication_r3.csv": "6dc2a02a70c4f10c837f47c483802b32c2ab5354dc2e967a0da4c69227c682d1",
+    ".local\\final_study_20260928\\composition-region-bank-r1\\dinov3_foreground.npy": "7adb08f1f8577bc73b5bff8ef58ab7d6c5e4dfcc384a9db7178abaa2a870bc56",
+    ".local\\final_study_20260928\\dinov3-region-box-r1\\dinov3_box.npy": "a330b14ff204dd381976dacaad9cad8aa3aea3deaceb6c59a3a48b41a3dfa7dd",
+    ".local\\final_study_20260928\\siglip2-region-crop-r1\\siglip2_crop.npy": "fbd9ee772ab6bf5cfc5a172a6f8e450514f3785bd6cdf24df69c3850f062d9be"
+  }
+}

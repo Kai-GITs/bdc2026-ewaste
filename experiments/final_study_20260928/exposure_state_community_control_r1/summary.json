@@ -1,0 +1,29 @@
+{
+  "analysis": "post-hoc frozen-score within-community control",
+  "bootstrap_draws": 10000,
+  "seed": 20260928,
+  "results": [
+    {
+      "community": 0,
+      "n": 43,
+      "mounted": 10,
+      "detached_or_multiple": 33,
+      "estimable": true,
+      "dino_minus_region_auc": 0.41515151515151516,
+      "delta_low95": 0.22571969696969696,
+      "delta_high95": 0.6121212121212121
+    },
+    {
+      "community": 8,
+      "n": 5,
+      "mounted": 0,
+      "detached_or_multiple": 5,
+      "estimable": false
+    }
+  ],
+  "input_sha256": {
+    "experiments\\final_study_20260928\\exposure_state_holdout_r1\\blind_test_predictions.csv": "9977d7513be2a654b04c33b2ec184e45db71c577f3173da37bf7a8200f82b833",
+    "experiments\\multiscale_graph_20260928\\global\\canonical_assignments.csv": "95ce9282bf4cb9bfe5291cdcc738849159baee56be31e6549902e2383ece4f8c"
+  },
+  "scope": "Single-agent transductive cohort. Controls coarse global community only; does not establish causal context dependence or independent source generalization."
+}

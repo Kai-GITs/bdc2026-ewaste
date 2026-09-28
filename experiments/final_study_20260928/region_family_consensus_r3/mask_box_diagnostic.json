@@ -1,0 +1,21 @@
+{
+  "status": "complete_selection_conditional_mask_box_diagnostic",
+  "edge_count": 20885,
+  "negative_count": 20885,
+  "negative_sampling": "fixed-seed random cross-parent region per frozen foreground-selected edge source",
+  "selection_condition": "Edges and families were fitted from foreground descriptors; results are a mechanism diagnostic, not an unbiased benchmark.",
+  "foreground_edge_similarity_mean": 0.7882118821144104,
+  "box_edge_similarity_mean": 0.6815429925918579,
+  "foreground_negative_similarity_mean": 0.2272351086139679,
+  "box_negative_similarity_mean": 0.32561779022216797,
+  "foreground_edge_negative_margin_mean": 0.5609768033027649,
+  "box_edge_negative_margin_mean": 0.35592520236968994,
+  "foreground_margin_advantage_over_box_mean": 0.20505161583423615,
+  "foreground_margin_advantage_bootstrap_95pct": [
+    0.20274855663641836,
+    0.20743520481112845
+  ],
+  "foreground_edge_vs_negative_auc": 0.9934054708316672,
+  "box_edge_vs_negative_auc": 0.9468874393324045,
+  "auc_difference_foreground_minus_box": 0.0465180314992627
+}

@@ -1,0 +1,70 @@
+{
+  "protocol_id": "exposure-state-holdout-r1-20260928",
+  "question": "Can frozen unsupervised region-family signatures recover mounted-versus-unowned visible board relations on later blind labels beyond whole-image DINOv3 and SigLIP 2?",
+  "hypothesis": "Region-family presence/count/graph-strength features improve AUROC over the fused whole-image baseline because physical exposure and ownership depend on local part configuration rather than product appearance alone.",
+  "closest_baselines": [
+    "whole-image DINOv3-L",
+    "whole-image SigLIP 2 So400m NaFlex",
+    "fused whole-image features"
+  ],
+  "discovery_features": "frozen r2 129-family assignments only; semantic names excluded from predictors",
+  "development_split": "130 resolved photos from earlier 136-photo board relation review; 13 mounted and 117 detached-or-multi-item; six unclear excluded",
+  "test_split": "48 resolved M/X photos from later blind review of 111 unique images; exact identities excluded from development; N and U excluded from the relation-only endpoint",
+  "source_control": "phash<=5 candidate components define development CV groups and a test sensitivity excluding test members linked to development; list known incomplete",
+  "primary_metric": "test AUROC; higher is better",
+  "primary_comparisons": [
+    "region_families minus global_fused",
+    "region_plus_global minus global_fused"
+  ],
+  "secondary_metrics": [
+    "average precision",
+    "balanced accuracy at development OOF threshold",
+    "mounted found at equal review budget 10",
+    "Brier score"
+  ],
+  "model_selection": "5-fold stratified group CV on development only; C in [0.01,0.1,1,10]; fixed seed 20260928",
+  "uncertainty": "10000 stratified bootstrap replicates on blind test; paired AUROC deltas",
+  "falsification": "No reliable gain over global_fused, or performance collapses after photo-group source control.",
+  "compute": "local CPU/light RAM using frozen arrays; no GPU, downloads, or feature recomputation",
+  "expected_cost_usd": 0,
+  "command": ".research/.venv/Scripts/python.exe research/projects/bdc2026-ewaste/scripts/evaluate_exposure_state_holdout_20260928.py [frozen inputs] --output research/projects/bdc2026-ewaste/experiments/final_study_20260928/exposure_state_holdout_r1",
+  "inputs": {
+    "development_labels": {
+      "path": "research\\projects\\bdc2026-ewaste\\scripts\\board_high_relation_review_20260924.csv",
+      "sha256": "b10e910dfc2a1feed64ffd8fb18f2e813da6c4c3fc976e3ab6f7b4d280d6988c"
+    },
+    "blind_evaluation": {
+      "path": "research\\projects\\bdc2026-ewaste\\experiments\\final_study_20260928\\mounted_review\\evaluation_rows.csv",
+      "sha256": "e1f658bfa72f020d3fb3abd52ce4a8082eddf4184816cb726e9afb36cdea22df"
+    },
+    "region_assignments": {
+      "path": "research\\projects\\bdc2026-ewaste\\.local\\final_study_20260928\\region-family-graph-object-filtered-r2\\assignments.csv.gz",
+      "sha256": "e219d0d0f42959086ebcaf61fe85be8ed5038787ead06d215ffd8c29869afd81"
+    },
+    "dino_features": {
+      "path": "cache/dinov3_l_full_v1/features.npy",
+      "sha256": "ccd147c81e983bcdab273e96fc1869cd5c2356afdf043ae2c48d6698e1576d63"
+    },
+    "dino_index": {
+      "path": "cache/dinov3_l_full_v1/index.csv",
+      "sha256": "3193b0066cf0bc3ecd962b67b1cc880dec25ec2fb4307f9f32c39b4558328655"
+    },
+    "siglip_features": {
+      "path": "research\\projects\\bdc2026-ewaste\\.local\\siglip2-so400m-naflex-20260928\\features.npy",
+      "sha256": "69ea5ec957dc44225eed427e67c757fe0756c088f0ac17349b5416a2b06deb11"
+    },
+    "siglip_index": {
+      "path": "research\\projects\\bdc2026-ewaste\\.local\\siglip2-so400m-naflex-20260928\\index.csv",
+      "sha256": "ca1e54ddd98b74a9f544fbc1156314c60702aa232f3c8345a0d4c5feb94bebe0"
+    },
+    "near_duplicates": {
+      "path": "research\\runs\\20260924-003821-84b04ffb\\near_duplicate_candidates.csv",
+      "sha256": "18f9c826e1c6e312dbda641a449219862e2a7438b9a9111f64d964df34e2fa13"
+    },
+    "family_census": {
+      "path": "research\\projects\\bdc2026-ewaste\\experiments\\final_study_20260928\\region_family_census_r2\\family_census.csv",
+      "sha256": "df71fd487d08ced68e135fc6592dbed66042c0e253700b8ddc24f52d5ea08ca9"
+    }
+  },
+  "locator_note": "Input SHA-256 values identify exact bytes. Paths are portable cache locators; original execution receipts are preserved locally."
+}
